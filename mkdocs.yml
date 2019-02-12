@@ -1,0 +1,51 @@
+site_name: Akropolis wiki
+repo_name: 'akropolisio/wiki'
+repo_url: 'https://github.com/akropolisio/wiki'
+site_description: 'Wiki for the Akropolis Project'
+theme:
+  name: 'material'
+  palette:
+    primary: 'purple'
+    accent: 'purple'
+  font:
+      text: 'Overpass'
+      code: 'Overpass Mono'
+  logo: 'images/logo.svg'
+  favicon: 'images/favicon.ico'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/akropolisio'
+    - type: 'medium'
+      link: 'https://medium.com/@akropolis'
+    - type: 'twitter'
+      link: 'https://twitter.com/akropolisio'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company/akropolisio/'
+    - type: 'telegram'
+      link: 'https://t.me/akropolis_official'
+  feature:
+    tabs: false
+markdown_extensions:
+    - admonition
+pages:
+  - Home: 'index.md'
+  - Overview:
+    - Glossary: 'overview/glossary.md'
+    - Problems: 'overview/problems.md'
+    - Whitepaper: 'overview/whitepaper.md'
+    - Token: 'overview/token.md'
+  - Protocol: 'protocol.md'
+  - Governance: 'tokenomics.md'
+  - C2FC: 
+    - Cashflow Relay: 'c2fc/overview.md'
+    - Architecture: 'c2fc/architecture.md'
+    - C2FC on Substrate: 'c2fc/substrate-implementation.md'
+  - Design: 'design.md'
+  - Press: 
+    - Press kit: 'presskit.md'
+    - Media mensions: 'media.md'
+  - Legal:
+    - TGE: 'tokendistribution.md'
+    - Privacy policy: 'privacypolicy.md'
+  - FAQ: 'faq.md'
