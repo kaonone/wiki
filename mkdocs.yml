@@ -29,23 +29,12 @@ extra:
 markdown_extensions:
     - admonition
 pages:
-  - Home: 'index.md'
-  - Overview:
-    - Glossary: 'overview/glossary.md'
-    - Problems: 'overview/problems.md'
-    - Whitepaper: 'overview/whitepaper.md'
-    - Token: 'overview/token.md'
-  - Protocol: 'protocol.md'
-  - Governance: 'tokenomics.md'
-  - C2FC: 
-    - Cashflow Relay: 'c2fc/overview.md'
-    - Architecture: 'c2fc/architecture.md'
-    - C2FC on Substrate: 'c2fc/substrate-implementation.md'
+  - Mission and Vision: 'index.md'
+  - Team: 'team.md'
+  - Partnerships: 'partnerships.md'
   - Design: 'design.md'
-  - Press: 
-    - Press kit: 'presskit.md'
-    - Media mensions: 'media.md'
-  - Legal:
-    - TGE: 'tokendistribution.md'
-    - Privacy policy: 'privacypolicy.md'
-  - FAQ: 'faq.md'
+  - Blog Posts: 'blog/blog.md'
+  - Press: 'press.md'
+  - Development: 
+    - C2FC: 'c2fc/overview.md'
+    - Chamas.network: 'c2fc/overview.md'
