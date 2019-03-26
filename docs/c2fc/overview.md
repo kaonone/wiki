@@ -1,5 +1,5 @@
 
-# Welcome to Cashflow Relay!
+# CashflowRelay
 
 <img src="/images/introsmall.png" alt="drawing" />
 

@@ -1,5 +1,7 @@
 # Welcome to the Akropolis wiki
 
+## What is Akropolis
+Akropolis is a domain-specific financial protocol dedicated to the needs of the informal economy. It makes it possible for anybody regardless of geography to quickly set up, operate and grow scalable autonomous financial organizations. Most importantly, it enables an inter-operable network between them and external third parties, whereby value can be exchanged freely in a trust-minimised way (e.g. co-invest, loan/borrow, trade). 
 
 
 

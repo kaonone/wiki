@@ -29,4 +29,14 @@ extra:
 markdown_extensions:
     - admonition
 pages:
+  - Home: 'index.md'
+  - Team: 'team.md'
+  - Partnerships: 'partners.md'
+  - Design: 'design.md'
+  - Blog Posts: 'blog/blog.md'
+  - Press: 'press.md'
+  - Development: 
+    - C2FC: 'c2fc/overview.md'
+    - Chamas.network: 'c2fc/overview.md'
   - FAQ: 'FAQ.md'
+  - Library: 'Library.md'
