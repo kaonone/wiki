@@ -1,4 +1,4 @@
-<img src="/images/andrianova@2x.png" alt="drawing" />
+<img src="/images/team/andrianova@2x.png" alt="drawing" />
 
 [**Ana Andria**](https://www.linkedin.com/in/anastasia-andrianova-79198b4)
 
@@ -21,7 +21,7 @@ Board Advisor and Investment Committee member of the EU industrial IoT incubator
 
 </br>
 </br>
-<img src="/images/kurbanova@2x.png" alt="drawing" />
+<img src="/images/team/kurbanova@2x.png" alt="drawing" />
 
 [**Kate Kurbanova**](https://www.linkedin.com/in/kate-kurbanova)
 
@@ -39,7 +39,7 @@ She was one of the main drivers of Cindicator token sale in September 2017 and s
 
 </br>
 </br>
-<img src="/images/maz@2x.png" alt="drawing" />
+<img src="/images/team/maz@2x.png" alt="drawing" />
 
 [**Alex Maz**](https://github.com/AlexanderMazaletskiy)
 
