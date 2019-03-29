@@ -33,10 +33,10 @@ pages:
   - Team: 'team.md'
   - Partnerships: 'partners.md'
   - Design: 'design.md'
-  - Blog Posts: 'blog/blog.md'
+  - Blog Posts: 'blog.md'
   - Press: 'press.md'
   - Development: 
     - C2FC: 'c2fc/overview.md'
-    - Chamas.network: 'c2fc/overview.md'
+    - Chamas.network: 'chama.md'
   - FAQ: 'FAQ.md'
-  - Library: 'Library.md'
+  - Library: 'library.md'
