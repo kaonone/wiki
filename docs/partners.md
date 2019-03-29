@@ -10,7 +10,7 @@
 
 * [**Wyre**](https://sendwyre.com)
 
-* [**POA**](https://poa.network)
+* [**POA Network**](https://poa.network)
 
 * [**Cindicator**](https://cindicator.com)
 

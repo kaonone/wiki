@@ -1,95 +1,146 @@
 # FAQ
 
-## General 
-### What is Akropolis?
-Akropolis is a domain-specific financial protocol dedicated to the needs of the informal economy. It makes it possible for anybody regardless of geography to quickly set up, operate and grow scalable autonomous financial organizations. Most importantly, it enables an interoperable network between them and external third parties, whereby value can be exchanged freely in a trust-minimised way (e.g. co-invest, lend/borrow, trade).
+## **General** 
+### **What is Akropolis?**
+Akropolis is a domain-specific financial protocol dedicated to the needs of the informal economy. It is designed to:
 
-### What problem are you seeking to solve?
-The protocol is designed to enable scalability of informal member-owned trust-based organisations. This is envisaged as an alternative to challenged centralised institutions mandated with providing pensions/banking/social insurance.
+* enable anybody regardless of geography to quickly set up, operate and grow informal autonomous financial organisations (AFOs), e.g. digital co-ops, guilds, mutuals
 
-### How do you know it is a valid problem with verified demand?
-The problem of insolvency of centralised pensions and social security institutions is a well documented one. Please see our library of resources here. For a 5-minute overview, we recommend you watch this compilation and a full documentary is available here.
+* enables a previously impossible interoperable scalable network between them and external third parties, whereby value can be exchanged freely in a trust-minimised way (e.g. co-invest, lend/borrow, trade). 
 
-### Are you building a consumer application? 
-
-No, we are not. Our product is a protocol that enables creation of scalable robust decentralised p2p alternatives to centrally controlled pension/social security funds.
-At the protocol level, speed and immediately finality are not as relevant as 
-
-The technology is not ready yet and scalability remains a challenge for consumer-level applications.
+* reduces instances of fraud and misuse of funds 
 
 
-### What are informal savings groups (ISG)? Why are they important? 
+
+### **What is DeFi? What is your place in DeFi ecosystem?**
+
+
+[Decentralized finance (#defi)](https://defi.network) refers to a group of financial sector-focussed startups that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries. DeFi is by far the most promising area of blockchain application, with a number of high-quality interoperable projects promising the future of transparent, fully auditable, efficient peer-to-peer interactions, based both on existing financial primitives and creating novel ways to generate and exchange value. 
+
+We are building an alternative savings infrastructure that can be tested by informal savings groups (or AFOs) in emerging markets now. 
+
+
+### **What problem are you seeking to solve?**
+
+The protocol is designed to enable scalability of informal member-owned organisations, that have existed for centuries globally and remain active in emerging markets, especially in Africa. This is envisaged as an alternative to challenged centralised institutions mandated with providing pensions/banking/social insurance. 
+
+
+
+### **How do you know it is a valid problem with verified demand?**
+
+
+The problem of insolvency of centralised pensions and social security institutions is a well documented one. Our summary of external resources is below:
+
+* Library of press articles [here](https://akropolis.gitbook.io/knowledge-base/). 
+
+* Documentary “The Coming Retirement Crisis” by Goldman Sachs’ Raul Pal (our brief video summary is [here](https://www.youtube.com/timedtext_video?v=cFQDgcMR8TE&msg=9&ppub_lang=en)) 
+
+* Documentary [“The Pension Gamble”](https://www.pbs.org/wgbh/frontline/film/the-pension-gamble/) by the Frontline.
+
+### **What does the world look like if Akropolis is a success?**
+
+
+* Unraidable member-owned “pension funds” vs. a state unilaterally raiding public pension funds, like what happened in Argentina, Poland, Venezuela
+
+* Provably solvent at all times due to transparent and fully auditable smart-contracts vs. a multi-billion-dollar GE pension scheme that is deemed both “too big to fail” and “impossible to unravel”
+
+* Source of social insurance and support vs. reliance on an opaque centralised party
+
+
+### **What 100x improvement over the status quo do you enable?**
+
+Imagine, you are approaching retirement age and are counting on a healthy amount to see you through your latter years? Only to discover that after fees, haircuts and forced reductions, the money you were counting on is not there? Because your country is massively in debt and the public funds have been leveraged to pay other debts of the state. And you are not prepared?
+
+Having an alternative system that renders such outcome an impossibility by design is an ∞x improvement to what is expected to be a status quo for many people on a 10-year timeframe.
+
+
+### **What are informal savings groups (ISG)? Why are they important?**
 
 Savings groups are member-owned institutions, typically <20 members who save together and take small loans from the common savings pool or invest together and then share profits. [Savings Groups are simple, transparent, autonomous and locally run](https://sites.worldvision.ca/savingsgroups/). Members provide their own savings and credit services at negligible cost, while retaining earnings and investment in their own communities.
 
-Savings groups have proven to be one of the most effective, low-cost alternative mechanisms to provide basic financial services for people that have difficulties in receiving those services from traditional financial institutions. Informal savings groups and closely linked to diaspora remittances and are an existing element of most emerging markets economies. 
+Savings groups have proven to be one of the most effective, low-cost alternative mechanisms to provide basic financial services for people that have difficulties in receiving those services from traditional financial institutions. Informal savings groups and closely linked to diaspora remittances and are an existing element of most emerging markets economies. They are one of the earliest and most robust surviving forms of a de facto autonomous financial organisation.
+
+
+### **What are autonomous financial organisations (AFO)?**
+
+
+Autonomous financial organisations is a term native to the Akropolis protocol used to denote all digital co-ops/guilds, i.e. member-owned organisations that provide financial services such as co-savings and co-investing, access to credit on flexible terms, a basic form of insurance etc. Informal Savings Groups is a real-world form of an AFO. 
+
+### **What services are planned to be available for AFOs?**
+
+
+Savings accounts, co-investment inside the network, access to low-cost easily accessible credit inside the network, social insurance.
+
+
+### **Why focus on emerging markets?**
+
+* **Real-world use case**: mass adoption of cryptocurrencies and blockchain technology will first take place in areas with poorly developed legacy financial infrastructure, where cryptocurrency adds real value and is a superior alternative to currently available options. 
+
+* **Weak legacy financial infrastructure**: dominance of mobile money (e.g. mPesa) for over a decade; relatively advanced digital financial infrastructure. 
+
+* **Multi-billion-dollar total addressable market**: 
+Informal savings groups hold hundreds of billions of US$, with remittances between diaspora/immigrant communities reaching [US$240 bn YoY](https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT). 
 
 
 
+* **Existing behavioural patterns and product-market fit**: Without imposing new behavioural patterns on users who have already been operating like this for years, we help informal savings circle leapfrog to member-owned banks by making them scaleable, fraud-proof, and geography-agnostic using the blockchain technology.
 
-### What are autonomous financial organisations (AFO)? 
-
-Autonomous financial organisations are fully digital member-owned organisations that provide financial services such as co-savings and co-investing, access to credit on flexible terms, a basic form of insurance etc. AFOs make decisions independently on their own behalf, as well as on behalf of their owners (individuals or corporations). Informal Savings Groups is a basic existing primitive of AFOs. 
-
+We see informal economy in Africa, esp. Kenya as an excellent market to verify assumptions and get real user feedback that will help the protocol evolve into a tool for **developed markets** based on our 10-year outlook (failure of centralised pension funds, failure of depositor protection schemes, cash controls, etc.), which if correct will spawn a new wave of digital member-owned financial organisations as safer, more trustworthy alternatives.
 
 
-### Why emerging markets (EM)? Is your focus on EM only?
+## **Technology**
 
-Mass adoption of cryptocurrencies and blockchain technology will take place in areas with poorly developed legacy financial infrastructure, where cryptocurrency is adds real value and is a superior alternative to currently available choices, with relatively low cognitive switching cost. The emerging economies of Africa and Asia have been using mobile money (e.g. mPesa in Kenya) for over a decade, whilst Europe and US are discovering mobile-first remittances only now. 
+### **Why is there a need to use blockchain and what does it uniquely enable that wouldn’t otherwise be possible?**
 
-For centuries trust-based communities have been providing financial services where 
-formal financial institutions failed to provide. In emerging markets savings groups and the community-based microfinance model not only exist but also form an essential backbone of what is known as “informal economy”. 
+A stable financial system relies on trust in the state and private sector financial institutions. In most developed markets, that trust has been lost. Blockchain technology uniquely enables alternative member-owned financial institutions by providing the following:
 
-The market size of billion dollars, lack of traditional financial system legacy, the rapid penetration of digital technologies and principles of work of informal savings groups in emerging markets as basic AFOs make them our initial target audience.
+* trust-minimised exchange of value between the parties that do not know or trust each other
 
-Without imposing new behavioural patterns on users who have already been operating like this for years, we help informal savings circle leapfrog to member-owned banks by making them scaleable, fraud-proof, and geography-agnostic using the blockchain technology.
+* shared immutable on-chain financial accounting prevents fraud and misuse of funds
 
-However, our focus is not limited to emerging markets. We believe the future of finance belongs to user-owned networks in developed countries as well. Banks and other financial corporations will be replaced by autonomous co-ops, each of which will act in the interests of its owners and interact with other agents in a single digital financial landscape. Hence we are designing our products to serve people’s needs today, tomorrow, and in the future.
+* fully transparent and auditable smart contracts ensure provable solvency.
 
-### What services are planned to be available for AFOs? 
+### **Will you be building your own blockchain?**
 
-The Akropolis protocol allows you to create any cashflow-based financial services that cover most of the existing financial products for retail users:
+No, we are not. Designed as a blockchain-agnostic protocol, Akropolis is currently being implemented on Ethereum, the next iteration will be built using [Polkadot](https://polkadot.network/), with active R&D underway.  
 
-* Savings
-
-* Investments
-
-* Credits 
+### **What is the risk of your solution being affected by Ethereum scalability issues?**
 
 
-## Technology
-
-### Why is there a need to use blockchain and what does it uniquely enable that wouldn’t otherwise be possible?
-
-The work of the financial system is ensured by the work of institutions that resolve issues of trust between banking organizations and the public. So far it has been solved by implementing complex rules and laws by governments. However, if the state can’t cope with this function, the financial system doesn’t work effectively. 
-
-Technology can help to revolutionize the world we live for the better. One of the possible solutions to solve the trust issue lies in Blockchain. “Code is a law” principle allows to build a new stable and reliable financial stack, which will work regardless of borders / governments, etc.
-
-
-### Will you be building your own blockchain?
-
-No, we are not building our own blockchain. Designed as a blockchain-agnostic protocol, Akropolis is currently being implemented on Ethereum, the next iteration will be built using [Polkadot](https://polkadot.network/), with active R&D underway. 
-
-
-### What are the building blocks of Akropolis protocol?
-
-C2FC, DCDM, Identity Management System,  Accounting and Reputation system. 
+At the protocol level, speed and immediately finality are not as relevant as being able to guarantee fraud-resistant accounting and solve for trust-minimised exchanges of value between remote parties. Therefore, scalability is not a critical dependency on our roadmap. 
 
 
 
-### What is C2FC?
+### **What are the building blocks of Akropolis protocol?**
+
+1. C2FC
+
+2. DCDM
+
+3. Identity Management module
+
+4. Accounting module
+
+5. Reputation module
+
+
+
+### **What is C2FC?**
 
 Commitments to Future Cashflows  (or C2FC) – a financial primitive that represents a digital right to operate with future cashflow that will arrive in any form to any Ethereum address (now it works in Ethereum, but could be implemented in any blockchain)within a given time frame. Simply put, it looks like a relay: a C2FC issuer must receive payment within this specified period, but those payments are fully or partially forwarded to the C2FC token holder’s address. Therefore, the future cashflow of any individual, company or service takes the form of a measurable digital unit that can be easily exchanged, traded or used as collateral.
 
 
-### What is Digital Community Decision Making (DCDM)?
+### **What is Digital Community Decision Making (DCDM)?**
+
 
 AFOs work as decentralised autonomous organisations. The governance inside each AFO is different from a protocol governance as only AFO members are able to make decisions thus there is no need for the internal token in every autonomous financial organisation. 
 
 The Digital Community Decision Making (DCDM) Framework provides decision support for Autonomous Financial Organisations. The core DCDM API supports a number of base level commands, like registration of new Autonomous Financial Organisation, making changes to its constitution etc. 
 
 
-### What is Identity Management System (IMS)? 
+
+### **What is Identity Management Module (IM)?**
+
 
 IMS is analogous to Ethereum Naming service, which keep the following records:
 
@@ -99,17 +150,63 @@ IMS is analogous to Ethereum Naming service, which keep the following records:
 
 * List of all created AFO members
 
-### Do you provide a scoring system?
+### **Do you provide a credit scoring system?**
 
-We do not centrally store protocol user data or provide scoring and risk assessment within the protocol. In a decentralised manner, all financial transactions of agents are stored on-chain. Any third-party can access pseudo-anonymised  transactions on-chain and assess the risk on their own or use third-parties to assess the risk. 
+No. We do not centrally store protocol user data or provide scoring and risk assessment within the protocol. Any third-party can access pseudo-anonymised  transactions on-chain and assess the risk on their own or use third-party data to assess the risk. Off-chain information may be elected to be shared by AFOs in order to get access to competitively-priced credit from external capital providers. As a result, a third-party may combine various opt-in data sources to create an alternative credit scoring system.
 
-Off-chain information may be elected to be shared by AFOs in order to get access to competitively-priced credit from external capital providers. As a result, a third-party can combine various data sources to create n scoring system.
+When Ethereum anonymisation and gas-effective zk-snarks solution is created, we will seek to apply it to the protocol. We continue monitoring the ecosystem, e.g. Aztec protocol.
 
-When Ethereum anonymisation and gas-effective zk-snarks solution is created, we will seek to apply it to the protocol. We continue monitoring the ecosystem, e.g. Aztec protocol. 
 
-### What is DeFi? What is your place in DeFi ecosystem?
 
-[Decentralized finance (#defi)](https://defi.network) is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries.
+## **Incentive Design & Token Utility**
 
-DeFi is by far the most promising area of blockchain application, with a number of high-quality interoperable projects promising the future of transparent, fully auditable, efficient peer-to-peer interactions, based both on existing financial primitives and creating novel ways to generate and exchange value. However, DeFi is still very much looking for its product-market fit beyond the immediate community of developers and sophisticated speculators. We are building an alternative savings infrastructure that can be tested by informal savings groups (or AFOs) in emerging markets now. 
 
+### **How are protocol users incentivised to use it?**
+
+* The users and AFOs are motivated to use the protocol for the intrinsic value it provides: it enables them to create AFOs to perform all basic financial activities in a safe and reliable digital framework and gain access to the relatively cheap capital, unavailable to them now. 
+
+* Internal and external capital providers are profit-seeking agents, incentivised to use the protocol and joint the network to earn a competitive return on their capital. 
+
+* Network keepers are profit-seeking agents incentivised to maintain and grow the volume and diversity of capital/value captured and put through the network.
+
+### **Why is there a need to use own token and what does it uniquely enable that wouldn’t otherwise be possible? Is your token utility or security?**
+
+
+The issuance of Akropolis token is driven by the need to create an internal economy in the network and incentivise network growth. Without an internal token, the following actions and mechanisms design would be impossible:
+
+* Community staking
+
+* Network governance
+
+Akropolis Token is a utility token. As a governance and staking token, our model has been inspired by MakerDAO, and has the following functionality:
+
+
+
+*Staking*:  
+
+* AFOs stake for access to capital providers with lower interest rates
+
+* Ecosystem development by capital providers and community staking
+
+
+*Governance*: 
+
+* Stability & Penalty Fees
+
+* The interest rate for Capital Providers depends on the staking % in circulation and % of earned tokens that AFO can withdraw at the end of a fiscal period
+
+
+### **How are you going to prevent Sybil Attacks?**
+
+Sybil attack risk is mitigated by:
+
+* crypto-economic incentive mechanism: staking and stability fee
+
+* social reputation
+
+
+### **Who is your target audience?**
+
+* Existing informal savings groups, esp. In Africa
+
+* Natively digital co-operatives, with all financial exchanges on-chain and a  decentralised membership base
