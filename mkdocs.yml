@@ -1,6 +1,8 @@
 site_name: Akropolis wiki
 repo_name: 'akropolisio/wiki'
 repo_url: 'https://github.com/akropolisio/wiki'
+extra_javascript:
+  - js/init.js
 site_description: 'Wiki for the Akropolis Project'
 theme:
   name: 'material'
