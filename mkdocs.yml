@@ -39,6 +39,6 @@ pages:
   - Press: 'press.md'
   - Development: 
     - C2FC: 'c2fc/overview.md'
-    - Akropolis network: 'akro-protocol.md'
+    - Akropolis Network: 'akro-protocol.md'
   - FAQ: 'FAQ.md'
   - Library: 'library.md'
