@@ -1,3 +1,3 @@
-# Chama Network
+# Akropolis Network
 
 to be updated shortly

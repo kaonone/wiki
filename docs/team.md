@@ -1,6 +1,11 @@
+
+
+##  **Core Team**
+
+
 <img src="/images/team/andrianova@2x.png" width="180" alt="drawing" />
 
-## [**Ana Andria**](https://www.linkedin.com/in/anastasia-andrianova-79198b4)
+### [**Ana Andria**](https://www.linkedin.com/in/anastasia-andrianova-79198b4)
 
 
 **CEO & Founder**
@@ -16,7 +21,7 @@ Ana is an experienced special situations investment professional with a strong i
 </br>
 <img src="/images/team/kurbanova@2x.png" width="180" alt="drawing" />
 
-## [**Kate Kurbanova**](https://www.linkedin.com/in/kate-kurbanova)
+### [**Kate Kurbanova**](https://www.linkedin.com/in/kate-kurbanova)
 
 
 **Co-Founder, Operations & People**
@@ -34,7 +39,7 @@ As a Head of Analytics, she used her trading experience to develop a suite of re
 </br>
 <img src="/images/team/maz@2x.png" width="180" alt="drawing" />
 
-## [**Alex Maz**](https://github.com/AlexanderMazaletskiy)
+### [**Alex Maz**](https://github.com/AlexanderMazaletskiy)
 
 
 **Technology Lead**
@@ -53,7 +58,7 @@ Alex has both shipped product in fintech, banking, and gaming, and is passionate
 </br>
 <img src="/images/team/koz@2x.png" width="180" alt="drawing" />
 
-## [**Alex Koz**](https://github.com/fzzr-)
+### [**Alex Koz**](https://github.com/fzzr-)
 
 
 **Blockchain R&D**
@@ -69,7 +74,7 @@ Software Engineer, Consultant, Game Developer & reverse-engineering enthusiast. 
 </br>
 <img src="/images/team/peter@2x.png" width="180" alt="drawing" />
 
-##[**Peter Robertson**](https://www.linkedin.com/in/peter-robertson-0780bba/)
+###[**Peter Robertson**](https://www.linkedin.com/in/peter-robertson-0780bba/)
 
 
 **Pensions & Insurance**
@@ -84,13 +89,29 @@ Peter has been involved in the pension industry in Europe, Asia, and the USA in 
 
 
 
+</br>
+</br>
+<img src="/images/team/melo@2x.png" width="180" alt="drawing" />
+
+### [**Dominic Melo**](https://linkedin.com/in/paymentexpert)
+
+
+**Global Payments Infrastructure**
+
+**Focus**: Payments, Business Development, Business Strategy, Mobile Payments, Financial Services
+
+
+**Experience**: iSignthis • Paymundo Systems
+
+
+Domenic is an experienced professional that has played key roles in designing, executing and analyzing projects for the international business to business and business to consumer markets, especially in the financial services IT arena. An excellent communicator able to translate jargon and IT-speak into clear concepts and ideas for non-technical management or board members. He is a Skilled Security Consultant routinely responsible for securing highly sensitive and classified information for corporate clients. Also using tools and methods to extract encrypted or password protected information for digital asset recovery for civil and criminal investigations. Dominic is consulting leading fiat and crypto operations, focussing on the remittances, non-banking and banking license holders.
 
 
 </br>
 </br>
 <img src="/images/team/ilgiz@2x.png" width="180" alt="drawing" />
 
-## [**Ilgiz Gimal**](https://ru.linkedin.com/in/ilgiz-gimaltdinov-8bbba411)
+### [**Ilgiz Gimal**](https://ru.linkedin.com/in/ilgiz-gimaltdinov-8bbba411)
 
 
 **Product**
@@ -106,7 +127,7 @@ Fintech professional with 10+ years experience. Prior to joining Akropolis overs
 </br>
 <img src="/images/team/andrey@2x.png" width="180" alt="drawing" />
 
-## [**Andrew Bal**](https://www.linkedin.com/in/abalyasnikov)
+### [**Andrew Bal**](https://www.linkedin.com/in/abalyasnikov)
 
 
 **Product**
@@ -118,4 +139,121 @@ Fintech professional with 10+ years experience. Prior to joining Akropolis overs
 Product Owner with more than 5 years experience, including Nasdaq-listed payment service provider QIWI, market cap US$882M and backed by Sberbank fintech startup Evotor. Andrew worked as a Product Owner and Senior Product Owner at QIWI in 2014-2015. In Q4 2014 he successfully launched more than 20 marketing campaigns (including joint campaigns with AliExpress and eBay) that brought more than 3M new users to QIWI Wallet. He was one of the first employees of fintech startup Evotor and was instrumental in company's growth from 10 to 250+ people and from 0 to 300 000+ business clients. In Evotor he built the product development process from scratch and hired more than 30 employees. Evotor is a smart cashier platform and marketplace founded in 2016 by QIWI co-founder Andrey Romanenko and is majority backed by Sberbank, the largest state-owned bank in Russia. 
 
 
+</br>
+</br>
+<img src="/images/team/serdtsev@2x.png" width="180" alt="drawing" />
 
+### [**Dima Serd**](https://github.com/in19farkt)
+
+
+**UI/UX**
+
+**Focus**: React, Redux, Saga, UI, UX, Frontend, Visualisation
+
+**Experience**: BSc Computer Science • 10 commercial implementations • 5 years of Frontend development
+
+</br>
+</br>
+<img src="/images/team/mikhailk@2x.png" width="180" alt="drawing" />
+
+### [**Mike Krash**](https://github.com/krashaen/)
+
+
+**Software Development**
+
+**Focus**: React, Redux
+
+**Experience**: MSc Engineering • Lead Developer
+
+</br>
+</br>
+<img src="/images/team/dmitryh@2x.png" width="180" alt="drawing" />
+
+### [**Dima Hurs**](https://github.com/Burize/)
+
+
+**Software Development**
+
+**Focus**: React, Redux, Typescript, React Native, Dart, Flutter
+
+**Experience**: BSc Computer Science
+
+
+
+
+
+
+
+</br>
+</br>
+
+## **Advisors**
+
+
+<img src="/images/team/ian@2x.png" width="180" alt="drawing" />
+
+### [**Ian Grigg**](https://www.linkedin.com/in/ian-grigg-0379/)
+
+
+**Blockchain R&D Advisor**
+
+**Focus**: Financial Cryptography, Blockchain architecture, Java
+
+**Experience**: Partner at Block.one (EOS) • Architecture Consultant at R3 • Inventor of Ricardian Contract
+
+Ian is a noted financial cryptographer, having entered the space in 1995. He invented the Ricardian Contract as a process to capture all of the prose in a legal contract of issuance, and permit unique identification among many competing issues without the need for a centralised registry.
+He is co-inventor of triple entry accounting, which has been termed by some as the most significant change to accounting in 500 years. As well as doing seminal work in digital payment and issuance or registry systems, he has created models for identity and community which have been trialled successfully in low trust environments.
+Ian worked for R3, a $100mn+ blockchain consortium of the largest financial services firms and technology companies in the world. Leading investors included SBI Group, Bank of America Merrill Lynch, HSBC, Intel and Temasek. Ian continues to consult with leading firms in the blockchain space and he is currently a partner at a $200mn post-ICO venture Block One.
+
+</br>
+</br>
+<img src="/images/team/bokky@2x.png" width="180" alt="drawing" />
+
+### [**Bokky Poobah**](https://github.com/bokkypoobah)
+
+
+**Blockchain Security Advisor**
+
+**Focus**: Security Audit, Solidity, Software Development, Actuarial Science, Quant Software Development, Cryptoderivatives
+
+**Experience**: Smart Contract Developer and Auditor
+
+ Bokky is a world-renowned blockchain and smart contract security expert, who rescues trapped ETH on a regular basis. Also an active Ethereum community leader, Bokky has been working on the ETH Blockchain since it’s platform launch in 2015. The prospect of transacting monetary value over a trusted Ethereum platform by means of smart contract is what excites him the most. Bokky is also a respected smart contract security auditor, having developed and audited smart contracts for over 20 companies, including Status, Cindicator, Stox and others.
+Bokky is an Actuary and Quantitative Software Developer with over 28 years of industry experience with expertise in fixed interest & derivatives in risk management and trading systems, and other blockchain technologies. 
+
+</br>
+</br>
+<img src="/images/team/dearg@2x.png" width="180" alt="drawing" />
+
+### [**Dearg OBartuin**](https://www.linkedin.com/in/mrdearg/)
+
+
+**Technology & Country Advisor**
+
+**Focus**: Blockchain, Remittances, Product Development, Africa
+
+**Experience**: CTO BitPesa
+
+ Dearg has been working as CTO for more than 18 years, scaling financial services and building the world-class engineering teams. In 2017-2018 he worked as CTO at Bitpesa, a digital foreign exchange and payment platform with a focus on Africa, where he was responsible for the technical infrastructure and performance of the company’s payment platform and administration. He is a strategic technical leader bridging the gap between business objectives, product specification, and engineering delivery. Dearg’s work experience includes Unilever, KPMG, The English Heritage, BitPesa, London Block Exchange, and IDT. He also works closely with regulatory authorities such as FCA, MFSA, CBN, FDIC, GFSC. He is an architect of the ‘Clever Ledger’ Exchange Banking design and advisor to Crypto successful Exchange, Remittance & FX scale-ups. In Akropolis Dearg is focusing on blockchain remittances and product development in Africa. 
+
+
+</br>
+</br>
+
+<img src="/images/team/ajit@2x.png" width="180" alt="drawing" />
+
+### [**Ajit Tripathi**](https://www.linkedin.com/in/mrdearg/)
+
+
+**Fintech Advisor**
+
+**Focus**: Financial Infrastructure, Blockchain Architecture, Risk Managment, Investment Banking
+
+**Experience**: Financial Infrastructure, ConsenSys • Head of Blockchain, PriceWaterCoopers
+
+Ajit is a Partner with ConsenSys in the London Office where he leads the global Financial Markets Infrastructure (FMI) practice. Prior to ConsenSys, Ajit was a Director in PwC’s fintech and digital banking practice and co-founded PwC’s UK blockchain practice.
+Ajit is a well regarded influencer, thinker, blogger and doer in the fintech and blockchain space. In 2017, he was recognised by Coindesk as one of the key influencers at large enterprises. He has spoken at prominent fintech and blockchain conferences in the US, UK, Dubai, India, Japan and Hong Kong. He’s been featured in the Blockchain Insider and Fintech Insider podcasts, contributed to annual Coindesk retrospectives as well as quoted in the Financial Times, the BBC and a range of other publications. He has served as a mentor at Startup Bootcamp and is currently advising a small number of selected stealth stage startups in fintech and blockchain. Ajit’s previous blockchain engagements include high profile financial services clients such as Bank of England, Nasdaq, Deutsche Bank. Deutsche Boerse and MUFG and he’s been instrumental in advising regulators, board level executives and innovation labs across the world in the strategic implications of cryptocurrency, decentralised, peer to peer architectures.
+Ajit has a rich and varied background in risk and regulatory change program implementation, capital markets technology, distributed systems and telecom protocol engineering. Prior to PwC he served in technology management and innovation roles at Goldman Sachs, Barclays, GE-GXS and Bell Communications Research.
+
+</br>
+</br>
