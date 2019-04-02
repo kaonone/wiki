@@ -30,5 +30,6 @@ And there you have it. Now you know how 5 major pension schemes — from the
 
 The question is, do you still trust your pension plan? And if not, what are you doing to make sure you and your family don&#39;t end up living in poverty once you retire?
 
-_If you&#39;d like to learn more about what we do, please visit our_[_website_](https://akropolis.io/)_and_[_Telegram_](https://t.me/akropolis_official)_channel, or reach out to_[_community@akropolis.io_](mailto:community@akropolis.io)_to learn about how the blockchain technology will help us serve billions of users while benefiting pension funds and private investors._
+_If you&#39;d like to learn more about what we do, please visit our _[_website_](https://akropolis.io/)_ and _[_Telegram_](https://t.me/akropolis_official)_ channel, or reach out to _[_community@akropolis.io_](mailto:community@akropolis.io)_ to learn about how the blockchain technology will help us serve billions of users while benefiting pension funds and private investors._
+
 _To read Part 1 of this post, click [here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%201/)_. _To read Part 3 of this post, click [here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%203/)_.
