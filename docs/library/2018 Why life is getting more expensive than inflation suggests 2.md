@@ -1,12 +1,12 @@
 ﻿# Why life is getting more expensive than inflation suggests, and what that means for you — Part II
 
-In the _first part_ of our post, we talked about how **inflation doesn&#39;t measure real-life price changes**. You can read all about it [here ](https://medium.com/akropolis/why-life-is-getting-more-expensive-than-inflation-suggests-and-what-that-means-for-you-part-i-ca52770955f9)— but the gist is this.
+In the _first part_ of our post, we talked about how **inflation doesn&#39;t measure real-life price changes**. You can read all about it [here ](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%201/)— but the gist is this.
 
 Inflation doesn&#39;t track prices for products over time. It just tracks changes in household spending, without reflecting whether an individual product got more expensive or not.
 
 **Here&#39;s how this can (and does) disguise real-life inflation.**
 
-In the **EU** , wages have been [falling for 10 years](https://www.reinisfischer.com/average-salary-european-union-2017). The **UK** , **Portugal** , **Greece** , **Hungary** and other countries have seen theirs fall [**every year**](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf) [since 2009](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf). The **EU&#39;s** largest economies —  **France** and **Germany**  — have been doing a little better, but have also seen wages fall [consistently since 2014](https://www.reinisfischer.com/average-salary-european-union-2017).
+In the **EU**, wages have been [falling for 10 years](https://www.reinisfischer.com/average-salary-european-union-2017). The **UK**, **Portugal**, **Greece**, **Hungary** and other countries have seen theirs fall [**every year**](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf) [since 2009](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf). The **EU&#39;s** largest economies —  **France** and **Germany**  — have been doing a little better, but have also seen wages fall [consistently since 2014](https://www.reinisfischer.com/average-salary-european-union-2017).
 
 Meanwhile, **on the other side of the Atlantic** , annual **US** wages have only risen **once** _since 2009_ — and the middle class has lost **30%** of its wealth.
 
@@ -38,4 +38,4 @@ In researching this article, we found that **other** (less common) **goods and**
 
 That might sound _hyperbolic_, but stay tuned for the next (and last) part of this series. We&#39;ll take a look at how much **schools** , **cars** and **homes** have appreciated in recent years — _and you may be surprised at the figures you see._
 
-_To read Part 1 of this post, click_[_here_](https://medium.com/akropolis/why-life-is-getting-more-expensive-than-inflation-suggests-and-what-that-means-for-you-part-i-ca52770955f9)_. To read Part 3 of this post, subscribe to our publication. Alternatively, learn more about how our company is building an inclusive, future-proof and transparent way to save and grow your money_[_here_](https://akropolis.io/)_._
+_To read Part 1 of this post, click _[_here_](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%201/)_. To read Part 3 of this post, click _[_here_](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%203/)_. Alternatively, learn more about how our company is building an inclusive, future-proof and transparent way to save and grow your money_[_here_](https://akropolis.io/)_._
