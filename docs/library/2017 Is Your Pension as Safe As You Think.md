@@ -1,6 +1,6 @@
 ﻿# Is Your Pension as Safe As You Think? 3 Reasons Tomorrow&#39;s Pensioners May Face Poverty
 
-In a previous [article](https://wiki.akropolis.io/library/2017%20Global%20pension%20savings%20gap%20set%20to%20reach/), we gave you **3 reasons the pension gap is projected to reach** [**$400 trillion**](https://www.etftrends.com/fixed-income-channel/global-pension-gap-expected-to-hit-400-trillion/) **by 2050**. Of those reasons, the last one  —   **fraud, mismanagement and broken promises**  —  is the most _complex_, _systemic_ and _misunderstood_.
+In a previous [article](https://wiki.akropolis.io/library/2017%20Global%20pension%20savings%20gap%20set%20to%20reach/), we gave you **3 reasons the pension gap is projected to reach** [**$400 trillion**](https://www.etftrends.com/fixed-income-channel/global-pension-gap-expected-to-hit-400-trillion/) **by 2050**. Of those reasons, the last one  —  **fraud, mismanagement and broken promises**  —  is the most _complex_, _systemic_ and _misunderstood_.
 
 On one hand, nobody wants to strand future pensioners with no money. On the other hand, _future retirees are in bigger trouble than most people know_. **Pension funds** and **schemes** often fall victim to _systemic mismanagement and fraud_, with little to no accountability. As a result of this (_and some bad luck_), the world&#39;s developed economies are **over** [**$70 trillion short**](http://theonebrief.com/trillion-dollar-pension-gap-strategies-close/) on their pension obligations.
 
