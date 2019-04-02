@@ -4,7 +4,7 @@
 
 Source: [The Washington Post](https://www.washingtonpost.com/business/economy/i-hope-i-can-quit-working-in-a-few-years-a-preview-of-the-us-without-pensions/2017/12/22/5cc9fdf6-cf09-11e7-81bc-c55a220c8cbe_story.html?utm_term=.ef7634e36f70)​
 
-TULSA — Tom Coomer has retired twice: once when he was 65, and then several years ago. Each time he realized that with just a Social Security check, &quot;You can hardly make it these days.&quot;
+TULSA  — Tom Coomer has retired twice: once when he was 65, and then several years ago. Each time he realized that with just a Social Security check, &quot;You can hardly make it these days.&quot;
 
 So here he is at 79, working full-time at Walmart. During each eight-hour shift, he stands at the store entrance greeting customers, telling a joke and fetching a &quot;buggy.&quot; Or he is stationed at the exit, checking receipts and the shoppers that trip the theft alarm.
 
@@ -22,11 +22,12 @@ And for many of them, even as they reach beyond 70, real retirement is elusive. 
 
 Lavern Combs, 73, works the midnight shift loading trucks for a company that delivers for Amazon. Ruby Oakley, 74, is a crossing guard. Charles Glover, 70, is a cashier at Dollar General. Willie Sells, 74, is a barber. Leon Ray, 76, buys and sells junk.
 
-&quot;I planned to retire years ago,&quot; Sells says from behind his barber&#39;s chair, where he works five days a week. He once had a job in quality control at the aircraft maker and was employed there 29 years. &quot;I thought McDonnell Douglas was a blue-chip company — that&#39;s what I used to tell people. &#39;They&#39;re a hip company and they&#39;re not going to close.&#39; But then they left town — and here I am still working. Thank God I had a couple of clippers.&quot;
+&quot;I planned to retire years ago,&quot; Sells says from behind his barber&#39;s chair, where he works five days a week. He once had a job in quality control at the aircraft maker and was employed there 29 years. &quot;I thought McDonnell Douglas was a blue-chip company 
+that&#39;s what I used to tell people. &#39;They&#39;re a hip company and they&#39;re not going to close.&#39; But then they left town  —  and here I am still working. Thank God I had a couple of clippers.&quot;
 
 Likewise, Oakley, a crossing guard at an elementary school, said she took the job to supplement her Social Security.
 
-&quot;It pays some chump change — $7 an hour,&quot; Oakley said. She has told local officials they should pay better. &quot;I use it for gas money. I like the people. But we have to get out there in the traffic, and the people at the city think they&#39;re doing the senior citizens a favor by letting them work like this.&quot;
+&quot;It pays some chump change  —  $7 an hour,&quot; Oakley said. She has told local officials they should pay better. &quot;I use it for gas money. I like the people. But we have to get out there in the traffic, and the people at the city think they&#39;re doing the senior citizens a favor by letting them work like this.&quot;
 
 Glover works the cash register and stocks goods at a Dollar General store outside Tulsa to make ends meet. After working 27 years at McDonnell Douglas, Glover found work at a Whirlpool factory, and then at another place that makes robots for inspecting welding, and also picked up some jobs doing ­computer-aided ­design.
 
@@ -38,7 +39,7 @@ For some, financial shortfalls have grown acute enough that they have precipitat
 
 **A perk that became too costly**
 
-The notion of pensions — and the idea that companies should set aside money for retirees — didn&#39;t last long. They really caught on in the mid-20th century, but today, except among government employers, the traditional pension seems destined to be an artifact of U.S. labor history.
+The notion of pensions  —  and the idea that companies should set aside money for retirees  —  didn&#39;t last long. They really caught on in the mid-20th century, but today, except among government employers, the traditional pension seems destined to be an artifact of U.S. labor history.
 
 The first ones offered by a private company were those handed out by American Express, back when it was a stagecoach delivery service. That was in 1875. The idea didn&#39;t exactly spread like wildfire, but under union pressure in the middle of the last century, many companies adopted a plan. By the 1980s, the trend had profoundly reshaped retirement for Americans, with a large majority of full-time workers at medium and large companies getting traditional pension coverage, according to Bureau of Labor Statistics data.
 
@@ -76,7 +77,7 @@ To help win approval for the sale, Tulsa employees wrote letters to politicians.
 
 The headline in the Oklahoman, one of the state&#39;s largest newspapers, proclaimed: &quot;F-15 Sale to Saudi Arabia Saves Jobs of Tulsa Workers.&quot;
 
-But it hadn&#39;t. Within months, executives at the company again turned to cost-cutting. They considered closing a plant in Florida, another in Mesa, Ariz., or the Tulsa facility. Tulsa, it was noted, had the oldest hourly employees — the average employee was 51 and had worked there for about 20 years. Many were close to getting a full pension, and that meant closing it would yield bigger savings in retirement costs.
+But it hadn&#39;t. Within months, executives at the company again turned to cost-cutting. They considered closing a plant in Florida, another in Mesa, Ariz., or the Tulsa facility. Tulsa, it was noted, had the oldest hourly employees  —  the average employee was 51 and had worked there for about 20 years. Many were close to getting a full pension, and that meant closing it would yield bigger savings in retirement costs.
 
 &quot;One day in December &#39;93 they came on the loudspeaker and said, &#39;Attention, employees,&#39; Coomer recalled. &quot;We were going to close. We were stunned. Just ran around like a bunch of chickens.&quot;
 
@@ -84,7 +85,7 @@ A few years later, McDonnell Douglas, which continued to struggle, merged with B
 
 The judge found McDonnell Douglas, moreover, had offered misleading testimony in its defense of the plant closing. The judge, Sven Erik Holmes, blasted the company for a &quot;corporate culture of mendacity.&quot;
 
-Employees eventually won settlements — about $30,000 was typical. It helped carry people over to find new jobs. But the amount was limited to cover the benefits of three years of employment — and it was far less than the loss in pension and retiree health benefits. Because their pension benefits accrued most quickly near retirement age, the pensions they receive are only a small fraction of what they would have had they worked until full eligibility.
+Employees eventually won settlements  —  about $30,000 was typical. It helped carry people over to find new jobs. But the amount was limited to cover the benefits of three years of employment  —  and it was far less than the loss in pension and retiree health benefits. Because their pension benefits accrued most quickly near retirement age, the pensions they receive are only a small fraction of what they would have had they worked until full eligibility.
 
 &quot;People went to work at these places thinking they&#39;ll work there their whole lives,&quot; Farris said, noting that the pensions held great appeal to the staff. &quot;Their trust and loyalty, though, was not reciprocated.&quot;Ray walks through a collection of junk that he recycles at his home in Claremore. (Nick Oxford for The Washington Post) Source: [The Washington Post](https://www.washingtonpost.com/business/economy/i-hope-i-can-quit-working-in-a-few-years-a-preview-of-the-us-without-pensions/2017/12/22/5cc9fdf6-cf09-11e7-81bc-c55a220c8cbe_story.html?utm_term=.ef7634e36f70)​
 
@@ -102,7 +103,7 @@ The Post acquired a list of the 998 employees, reviewed public records for them 
 
 Of those interviewed, all found work of one kind or another. Yet all but a handful said their new wages were only about half of what they had been making. Typically, their pay dropped in half, from about $20 per hour to $10 per hour.
 
-The pay cut was tough, and it made saving for retirement close to impossible. In fact, it has made retirement itself near impossible for some — they must work to pay the bills.
+The pay cut was tough, and it made saving for retirement close to impossible. In fact, it has made retirement itself near impossible for some  —  they must work to pay the bills.
 
 A few said, though, they work because they detest idleness, and persist in jobs that would seem to require remarkable endurance.
 
@@ -130,7 +131,7 @@ _So he can hoe, hoe, hoe._
 
 &quot;People really like that one,&quot; he says.
 
-Coomer grew up on a farm in Broken Arrow, got married when he was 17 — his wife was 15 — and says he&#39;s always liked work.
+Coomer grew up on a farm in Broken Arrow, got married when he was 17  —  his wife was 15  —  and says he&#39;s always liked work.
 
 &quot;I really loved working at McDonnell Douglas,&quot; he says. One time, he says, he worked 36 days straight: 11 hours on the weekdays and eight hours on Saturdays and Sundays. He joked the factory was his home address. All along, for his 29 years there, he had his eye on the pension. And then, for the most part, it was gone.
 
