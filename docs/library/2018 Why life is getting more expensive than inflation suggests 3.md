@@ -42,5 +42,8 @@ In short, education is getting more expensive on both sides of the ocean —�
 
 And there you have it. Although official inflation figures are low, everything is getting more expensive — and fast. If you want to maintain your living standards now and in the future, there&#39;s never been a better time to start thinking ahead.
 
-To that end, we invite you to learn about our project: Akropolis. Akropolis is our way of using the blockchain to create an inclusive, future-proof, transparent and accountable savings and pension system. To learn more about what we&#39;re doing, and how you stand to benefit as a state employee, pension fund manager or consumer, please visit our [Website](https://akropolis.io/) and [Telegram](https://t.me/akropolis_official) channel, or reach out to [community@akropolis.io](mailto:community@akropolis.io).
+To that end, we invite you to learn about our project: Akropolis. Akropolis is our way of using the blockchain to create an inclusive, future-proof, transparent and accountable savings and pension system. 
+
+_To learn more about what we&#39;re doing, and how you stand to benefit as a state employee, pension fund manager or consumer, please visit our [Website](https://akropolis.io/) and [Telegram](https://t.me/akropolis_official) channel, or reach out to [community@akropolis.io](mailto:community@akropolis.io)._
+
 _Here you can read [Part 1](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%201/) and [Part2](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%202/) of this post._
