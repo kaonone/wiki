@@ -14,7 +14,7 @@ In this 3-part series, we&#39;ll show you **5 real-life outcomes** of **complete
 
 Many people feel that living in an OECD country protects their pension. As you&#39;re about to see, they are wrong. The EU, the US and other developed countries can all leave retirees penniless. Here&#39;s one example.
 
-Prichard, Alabama, is a small town on the outskirts of Mobile, Alabama. Its pension fund was running out of money for years — but the town&#39;s administration ignored all warnings. **By 2009, Prichard&#39;s pension fund was 100% dry…**
+Prichard, Alabama, is a small town on the outskirts of Mobile, Alabama. Its pension fund was running out of money for years  —  but the town&#39;s administration ignored all warnings. **By 2009, Prichard&#39;s pension fund was 100% dry…**
 
 So Prichard [just stopped paying its 150+ retirees](https://www.nytimes.com/2010/12/23/business/23prichard.html). This was in clear violation of state laws, but that didn&#39;t matter. Pensioners like Nettie Banks, a retired police and fire dispatcher, were left with no recourse to public funds.
 
