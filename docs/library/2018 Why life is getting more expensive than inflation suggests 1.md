@@ -18,11 +18,11 @@ Let&#39;s start by going over the real, sometimes misleading, definition of infl
 
 The first order of business is to understand what **inflation** _really_ is. Many people think that **inflation** measures how much a static basket of products changes in price over time  —  _but this is wrong_.
 
-In reality, **inflation** figures show how much the average household&#39;s spending changes year-on-year. In the **US** , these spending figures show up in the **Customer Price Index**. In the **EU**, they show up in the **HCIP (Harmonised Index of Consumer Prices)**.
+In reality, **inflation** figures show how much the average household&#39;s spending changes year-on-year. In the **US**, these spending figures show up in the **Customer Price Index**. In the **EU**, they show up in the **HCIP (Harmonised Index of Consumer Prices)**.
 
 But although the **HCIP**, **CPI** and other indices track a broad basket of items across different categories, they _don&#39;t_ show us the specific products people are buying. This can mask a lot of **inflation**  —  and here&#39;s how.
 
-Let&#39;s say it&#39;s **2018** and the entire state of **Arizona** buys bread for **$1.20**. The brand they buy is called **Arizona Bread** and everyone loves it. But by this time next year, the price of **Arizona Bread** goes up to **$1.50 ** — so everyone switches to the cheaper (and less delicious) **Oklahoma Loaf** brand.
+Let&#39;s say it&#39;s **2018** and the entire state of **Arizona** buys bread for **$1.20**. The brand they buy is called **Arizona Bread** and everyone loves it. But by this time next year, the price of **Arizona Bread** goes up to **$1.50 **  —  so everyone switches to the cheaper (and less delicious) **Oklahoma Loaf** brand.
 
 Now, the way a regular consumer might look at it, bread just got **20%** more **expensive**. But if you look at **inflation figures**, they might show you **0%** inflation because the price of bread stayed the same.
 
