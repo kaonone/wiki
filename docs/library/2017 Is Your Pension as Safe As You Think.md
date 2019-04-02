@@ -24,7 +24,7 @@ Scenarios like these are sad, but they&#39;re not uncommon. They point to consis
 
 _And the worst part is that governments and private funds may default on hundreds of millions of pensioners&#39; debt obligations._ 
 
-**Here&#39;s why**_._
+Here&#39;s why.
 
 **Broken Promises**
 
