@@ -6,7 +6,7 @@ Inflation doesn&#39;t track prices for products over time. It just tracks change
 
 **Here&#39;s how this can (and does) disguise real-life inflation.**
 
-In the **EU** , wages have been [falling for 10 years](https://www.reinisfischer.com/average-salary-european-union-2017). The **UK** , **Portugal** , **Greece** , **Hungary** and other countries have seen theirs fall [**every year**](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf)[since 2009](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf). The **EU&#39;s** largest economies —  **France** and **Germany**  — have been doing a little better, but have also seen wages fall [consistently since 2014](https://www.reinisfischer.com/average-salary-european-union-2017).
+In the **EU** , wages have been [falling for 10 years](https://www.reinisfischer.com/average-salary-european-union-2017). The **UK** , **Portugal** , **Greece** , **Hungary** and other countries have seen theirs fall [**every year**](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf) [since 2009](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf). The **EU&#39;s** largest economies —  **France** and **Germany**  — have been doing a little better, but have also seen wages fall [consistently since 2014](https://www.reinisfischer.com/average-salary-european-union-2017).
 
 Meanwhile, **on the other side of the Atlantic** , annual **US** wages have only risen **once** _since 2009_ — and the middle class has lost **30%** of its wealth.
 
