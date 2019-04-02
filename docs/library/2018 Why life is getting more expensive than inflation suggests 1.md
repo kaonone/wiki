@@ -33,3 +33,4 @@ Unfortunately, this is just one of several reasons it&#39;s hard to gauge inflat
 In the next part of this series, we&#39;ll explain _why_ this is the case and take a look at 2 alternative inflation figures: the gold standard and the Big Mac index (yes, the Big Mac index). Then we&#39;ll move on to the _real_ inflation figures for clothes, homes and more.
 
 _Alternatively, learn more about how our company is building an inclusive, future-proof and transparent way to save and grow your money _[_here_](https://akropolis.io/)_._
+_To read Part 2 of this post, click _[_here_](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%202/)_.
