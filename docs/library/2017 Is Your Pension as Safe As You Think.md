@@ -22,7 +22,9 @@ Here&#39;s another example of **mismanagement**. In 1999, **South Carolina&#39;s
 
 Scenarios like these are sad, but they&#39;re not uncommon. They point to consistent, systemic problems in how the world&#39;s economies deal with pensions.
 
-_And the worst part is that governments and private funds may default on hundreds of millions of pensioners&#39; debt obligations._ **Here&#39;s why**_._
+_And the worst part is that governments and private funds may default on hundreds of millions of pensioners&#39; debt obligations._ 
+
+**Here&#39;s why**_._
 
 **Broken Promises**
 
