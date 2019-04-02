@@ -28,4 +28,5 @@ The Prichard example shows that it doesn&#39;t matter **where** you live. The go
 
 In fact, the next part of this 3-part series will look at how Britain&#39;s government misappropriated the National Bus company&#39;s funds in the 70s, leaving the latter&#39;s pension scheme underfunded.
 
-Stay tuned by subscribing to our [newsletter](https://akropolis.io/), joining our [Telegram](https://t.me/akropolis_official) channel or by bookmarking this page. The next part of this series will explain how a powerful industrial _state_ left pensioners penniless, and shine light on the UK&#39;s National Bus situation. To read the next part press _[here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%202/)_
+Stay tuned by subscribing to our [newsletter](https://akropolis.io/), joining our [Telegram](https://t.me/akropolis_official) channel or by bookmarking this page. The next part of this series will explain how a powerful industrial _state_ left pensioners penniless, and shine light on the UK&#39;s National Bus situation. 
+_To read Part 2 of this post, click _[_here_](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%202/)_.
