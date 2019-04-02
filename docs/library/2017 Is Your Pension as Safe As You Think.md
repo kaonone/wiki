@@ -10,11 +10,11 @@ This problem is still fixable. But before you can secure your own post-retiremen
 
 Most of **Europe&#39;s** large economies  —   **Belgium**, **France**, **Germany** and others  —  have **pay as you go pensions**. This means collected from workers pays for current pension obligations instead of being saved for the future.
 
-This approach has its own _downsides_, but it does have an advantage. There are **no pension funds** , so there&#39;s n **othing to mismanage**. This protects **EU** pensioners from fund managers&#39; mistakes.
+This approach has its own _downsides_, but it does have an advantage. There are **no pension funds**, so there&#39;s **nothing to mismanage**. This protects **EU** pensioners from fund managers&#39; mistakes.
 
 Of course, some **EU** countries and many **US** states have state pension funds. The ones that don&#39;t have _private-owned ones_. Both can be (and often are) **mismanaged**, losing their beneficiaries&#39; money long before it&#39;s needed.
 
-Here&#39;s an example. **Sweden&#39;s** _private pensions system_ used to let people invest with Maltese-based **Falcon Fund**_._ The latter [**defrauded 22,000 investors**](http://www.europeanpensions.net/ep/Maltese-pension-fund-faces-criminal-investigation-on-fraudulent-investment-activity.php) _of_ **over 2 billion Swedish kroner**_._
+Here&#39;s an example. **Sweden&#39;s** _private pensions system_ used to let people invest with Maltese-based **Falcon Fund**_._ The latter [**defrauded 22,000 investors**](http://www.europeanpensions.net/ep/Maltese-pension-fund-faces-criminal-investigation-on-fraudulent-investment-activity.php) of **over 2 billion Swedish kroner**_._
 
 That&#39;s an instance of **fraud**, which we&#39;ll get to in point 3  —  but it couldn&#39;t have happened if **Sweden&#39;s Pension Agency** had a better vetting process. And _that&#39;s_ **mismanagement**.
 
