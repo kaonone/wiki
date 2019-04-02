@@ -38,7 +38,7 @@ What&#39;s to stop these taxpayers from electing to stop paying for older genera
 
 So far, most countries have managed to keep their pension systems running smoothly. But with a pension gap that&#39;s already comparable to the **GDP** _(and growing),_ hundreds of millions of people may find themselves with absolutely **no post-retirement security**.
 
-_Last but not least, let&#39;s talk about the third reason tomorrow&#39;s pensioners may live in poverty:_ **fraud** _._
+_Last but not least, let&#39;s talk about the third reason tomorrow&#39;s pensioners may live in poverty._
 
 **Fraud**
 
