@@ -1,6 +1,6 @@
 ﻿# 5 Times Pension Schemes Collapsed and Left Millions of People Destitute  —  Part I
 
-_Pension schemes go **bankrupt**._ _Governments bail them out, or banks absorb their obligations._ **Business carries on as usual.**
+_Pension schemes go **bankrupt**._ _Governments bail them out, or banks absorb their obligations._ **Business carries on as usual**_._
 
 This is a recurring pattern in the world economy. Pension plans fail, and someone steps in to save them. This is why the US has a Pension Benefit Guaranty Corporation; why most EU governments fund pensions out of current taxes; why Brazil spends a whopping [11.3% of its GDP](https://www.imf.org/external/np/blog/dialogo/120116.pdf) on pensions.
 
