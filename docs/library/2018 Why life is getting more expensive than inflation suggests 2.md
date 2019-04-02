@@ -1,14 +1,14 @@
 ﻿# Why life is getting more expensive than inflation suggests, and what that means for you — Part II
 
-In the _first part_ of our post, we talked about how **inflation doesn&#39;t measure real-life price changes**. You can read all about it [here](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%201/) — but the gist is this.
+In the _first part_ of our post, we talked about how **inflation doesn&#39;t measure real-life price changes**. You can read all about it [here](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%201/)  —  but the gist is this.
 
 Inflation doesn&#39;t track prices for products over time. It just tracks changes in household spending, without reflecting whether an individual product got more expensive or not.
 
 **Here&#39;s how this can (and does) disguise real-life inflation.**
 
-In the **EU**, wages have been [falling for 10 years](https://www.reinisfischer.com/average-salary-european-union-2017). The **UK**, **Portugal**, **Greece**, **Hungary** and other countries have seen theirs fall [**every year**](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf) [since 2009](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf). The **EU&#39;s** largest economies — **France** and **Germany** — have been doing a little better, but have also seen wages fall [consistently since 2014](https://www.reinisfischer.com/average-salary-european-union-2017).
+In the **EU**, wages have been [falling for 10 years](https://www.reinisfischer.com/average-salary-european-union-2017). The **UK**, **Portugal**, **Greece**, **Hungary** and other countries have seen theirs fall [**every year**](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf) [since 2009](https://euro.indiana.edu/doc/archive/past-events/wcms_324678.pdf). The **EU&#39;s** largest economies  —  **France** and **Germany**  —  have been doing a little better, but have also seen wages fall [consistently since 2014](https://www.reinisfischer.com/average-salary-european-union-2017).
 
-Meanwhile, **on the other side of the Atlantic** , annual **US** wages have only risen **once** _since 2009_ — and the middle class has lost **30%** of its wealth.
+Meanwhile, **on the other side of the Atlantic** , annual **US** wages have only risen **once** _since 2009_  —  and the middle class has lost **30%** of its wealth.
 
 In short, _median incomes have fallen_. Because of this, _consumers can&#39;t afford to spend more_. As a result, **household spending**   —  and **inflation**  —  are both **highly stable**. This is _the first_ (and biggest) reason inflation isn&#39;t higher.
 
