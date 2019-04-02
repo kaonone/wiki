@@ -26,7 +26,7 @@ _What this meant, in laymen&#39;s terms, was that over 130,000 UA employees were
 
 It didn&#39;t matter that they worked for a large corporation in a cash-rich industry. It didn&#39;t matter that the US government &quot;guarantees&quot; pensions. As with all the examples above, pensioners were left with far less than promised.
 
-And there you have it. Now you know how 5 major pension schemes — from the Roman Empire&#39;s to United Airlines  —  failed, leaving millions destitute.
+And there you have it. Now you know how 5 major pension schemes  —  from the Roman Empire&#39;s to United Airlines  —  failed, leaving millions destitute.
 
 The question is, do you still trust your pension plan? And if not, what are you doing to make sure you and your family don&#39;t end up living in poverty once you retire?
 
