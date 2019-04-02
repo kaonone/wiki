@@ -45,4 +45,4 @@ It means that the EU is already thinking ahead to how the blockchain will help p
 
 This would **improve efficiency**. It would **push down costs**. And, in the case of pensions, it may even **fix a worldwide pension gap** projected to grow to **$400 trillion by 2050**.
 
-To learn more about how the blockchain will help privatize pensions and other services, mail us at community@akropolis.io. All your thoughts and comments are much appreciated!
+_To learn more about how the blockchain will help privatize pensions and other services, mail us at [community@akropolis.io](mailto:community@akropolis.io). All your thoughts and comments are much appreciated!_
