@@ -16,7 +16,9 @@ Out of the eight countries studied, the US was found to have the biggest savings
 
 The current and projected gaps ($trn) by country are shown below:
 
-Source: [TheActuary](http://www.theactuary.com/news/2017/05/global-pension-funding-gap-set-to-reach-crisis-400trn-by-2050/) The report argues that for countries where future generations have a life expectancy of over 100, a retirement age of at least 70 should be the norm by 2050.
+Source: [TheActuary](http://www.theactuary.com/news/2017/05/global-pension-funding-gap-set-to-reach-crisis-400trn-by-2050/) 
+
+The report argues that for countries where future generations have a life expectancy of over 100, a retirement age of at least 70 should be the norm by 2050.
 
 It also suggests that saving be made easier, through initiatives such as pension auto-enrolment, while financial literacy education should be offered throughout people&#39;s careers.
 
