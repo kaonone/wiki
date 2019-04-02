@@ -4,7 +4,7 @@
 
 Source: [The Washington Post](https://www.washingtonpost.com/business/economy/i-hope-i-can-quit-working-in-a-few-years-a-preview-of-the-us-without-pensions/2017/12/22/5cc9fdf6-cf09-11e7-81bc-c55a220c8cbe_story.html?utm_term=.ef7634e36f70)​
 
-TULSA  — Tom Coomer has retired twice: once when he was 65, and then several years ago. Each time he realized that with just a Social Security check, &quot;You can hardly make it these days.&quot;
+TULSA  —  Tom Coomer has retired twice: once when he was 65, and then several years ago. Each time he realized that with just a Social Security check, &quot;You can hardly make it these days.&quot;
 
 So here he is at 79, working full-time at Walmart. During each eight-hour shift, he stands at the store entrance greeting customers, telling a joke and fetching a &quot;buggy.&quot; Or he is stationed at the exit, checking receipts and the shoppers that trip the theft alarm.
 
