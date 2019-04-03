@@ -6,7 +6,7 @@ In late 2006, Aaron Krowne, a computer scientist and mathematician, started a we
 
 A year earlier, to much less fanfare, Jack Dean launched another website in anticipation of the different kind of wave washing up on the California coastline. Called the Pension Tsunami, the website was originally conceived to provide Golden State taxpayers with a one-stop resource to track news stories on the state&#39;s mammoth and numerous underfunded public pensions.
 
-<img src="../images/library-img/pen%20cris%20too%20big%20to%20ingnore/1.jpeg" width="90%" alt="drawing" />
+<img src="/images/library-img/pen%20cris%20too%20big%20to%20ingnore/1.jpeg" width="90%" alt="drawing" />
 
 Source: [Bloomberg](https://www.bloomberg.com/view/articles/2017-03-24/pension-crisis-too-big-for-markets-to-ignore)​
 
@@ -16,7 +16,7 @@ As the years have passed, though, the site has become a font of information for 
 
 The question is why haven&#39;t the headlines presaged pension implosions? As was the case with the subprime crisis, the writing appears to be on the wall. And yet calamity has yet to strike. How so? Call it the triumvirate of conspirators  —  the actuaries, accountants and their accomplices in office. Throw in the law of big numbers, very big numbers, and you get to a disaster in a seemingly permanent state of making. Unfunded pension obligations have risen to $1.9 trillion from $292 billion since 2007.
 
-<img src="../images/library-img/pen%20cris%20too%20big%20to%20ingnore/2.jpeg" width="90%" alt="drawing" />
+<img src="/images/library-img/pen%20cris%20too%20big%20to%20ingnore/2.jpeg" width="90%" alt="drawing" />
 
 Source: [Bloomberg](https://www.bloomberg.com/view/articles/2017-03-24/pension-crisis-too-big-for-markets-to-ignore)​
 
@@ -24,7 +24,7 @@ Credit rating firms have begun downgrading states and municipalities whose pensi
 
 Morgan Stanley says municipal bond issuance is down this year in part because of borrowers are wary of running up new debts to effectively service pensions.
 
-<img src="../images/library-img/pen%20cris%20too%20big%20to%20ingnore/3.jpeg" width="90%" alt="drawing" />
+<img src="/images/library-img/pen%20cris%20too%20big%20to%20ingnore/3.jpeg" width="90%" alt="drawing" />
 
 Source: [Bloomberg](https://www.bloomberg.com/view/articles/2017-03-24/pension-crisis-too-big-for-markets-to-ignore)​
 
