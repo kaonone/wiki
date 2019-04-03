@@ -4,7 +4,7 @@ The first computer was created back in 1946. The internet began implementation i
 
 The first smartphone was launched in 1992–15 years before the first iPhone drove us all into a frenzy. Following slow starts, these innovations became &#39;disruptive technologies&#39; that fundamentally changed all aspects of the world around us, including within the pensions industry. And now another emerging technology is expected to have just as much of an impact: Blockchain.
 
-<img src="../images/library-img/new%20block/1.jpg" width="95%" alt="drawing" />
+<img src="/images/library-img/new%20block/1.jpg" width="95%" alt="drawing" />
 
 ### **About blockchain**
 
@@ -20,7 +20,7 @@ Or, to put it simply, EY director Jason Whyte compares it to the old mobile phon
 
 The details of each transaction/ block are not stored, only the fact that the transaction happened, along with the unique &#39;digital signature&#39; of that transaction/block, which cannot be converted back into its original form. &quot;If the original data was altered it would produce a different digital signature that would alert the network to the mismatch,&quot; Gowling director Liz Wood explains.
 
-<img src="../images/library-img/new%20block/2.png" width="45%" alt="drawing" />
+<img src="/images/library-img/new%20block/2.png" width="45%" alt="drawing" />
 
 To put a visual slant on it, imagine someone holding a picture of themselves holding a picture of themselves holding a picture of themselves etc — each block has this &#39;picture&#39; of all the previous transactions, and the further along the chain, the more repetitions of the &#39;picture&#39; each block would have. Therefore any tampering would stand out throughout the chain.
 
