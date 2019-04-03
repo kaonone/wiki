@@ -166,6 +166,7 @@ When Ethereum anonymisation and gas-effective zk-snarks solution is created, we 
 Token functionality and use is modeled on MakerDAO and is designed to ensure that all participants, acting in their own self-interests are motivated to (a) maximize the value captured through and by the network; and (b) maintain sustainable network growth. Please note that a party may combine roles for a greater impact within the network.
 
 **Token holder type: AFO (Borrowers)**
+
 **Economic Objectives**
 
 * Secure access to well-priced easily available credit
@@ -179,6 +180,7 @@ Token functionality and use is modeled on MakerDAO and is designed to ensure tha
 * The above increases the volume of staken tokens, thus reducing the token circulating supply
 
 **Token holder type: Network Keepers**
+
 **Economic Objectives**
 
 * Profit-seeking agents rewarded for correct risk assessment by receiving a network stability fee
@@ -192,6 +194,7 @@ Token functionality and use is modeled on MakerDAO and is designed to ensure tha
 * Incentivized to create a public, data-rich rep or credit scoring system to   their return, which can only be done through network growth
 
 **Token holder type: Capital Providers (Lenders)**
+
 **Economic Objectives**
 
 * To grant a loans with best risk/profit ratio
