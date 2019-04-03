@@ -1,8 +1,10 @@
 ﻿# From Nationalization to Privatization to Decentralization
 
+<img src="../images/library-img/nationalization/1.jpeg" width="90%" alt="drawing" />
+
 Is the Blockchain the Next Step in Public Services?
 
-In 1969, Peter Drucker wrote an essay called **&quot;**** the sickness of government&quot;**_._ In the essay, he argued that the world&#39;s state-run businesses were ineffective, underfunded and poorly managed.
+In 1969, Peter Drucker wrote an essay called **&quot;the sickness of government&quot;**_._ In the essay, he argued that the world&#39;s state-run businesses were ineffective, underfunded and poorly managed.
 
 His words echoed how many people felt about the bloated post-WW2 public sector. **It&#39;s no surprise that, just years later, Margaret Thatcher started Britain&#39;s privatization boom.** British Telecom, British Gas and even the British Transport Docks Board were just a few of the companies sold off.
 
@@ -10,7 +12,7 @@ His words echoed how many people felt about the bloated post-WW2 public sector. 
 
 But there is still a lot to privatize and decentralize. Governments are still too bloated and inefficient in some areas. **Fortunately, the blockchain may be a perfect solution.** This is why Mariya Gabriel, the EC&#39;s Commissioner for Digital Economy and Society, has gone on record to say that: [**in the future, all public services will use Blockchain technology**](https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-partnership)​
 
-Why is the public sector so bullish on the blockchain — and what can we gain by using this new technology to provide public services? You can gain more insights about this topic, starting with…
+Why is the public sector so bullish on the blockchain  —  and what can we gain by using this new technology to provide public services? You can gain more insights about this topic, starting with…
 
 **Why Privatization Worked**
 
@@ -28,7 +30,7 @@ Since then, the trend towards decentralization has continued. Economic growth ha
 
 Here, once again, Britain is leading the way. Many local councils and government-run companies are delegating their online operations to private companies.
 
-The UK&#39;s G-Cloud — an array of software services for state organizations — has already brought in [£3.2 bn in sales](https://www.gov.uk/government/news/government-spend-on-digital-services-passes-3bn-mark). **And now, both the EU and the UK are looking to use the blockchain to decentralize public services further**. Here&#39;s how (and why).
+The UK&#39;s G-Cloud — an array of software services for state organizations  —  has already brought in [£3.2 bn in sales](https://www.gov.uk/government/news/government-spend-on-digital-services-passes-3bn-mark). **And now, both the EU and the UK are looking to use the blockchain to decentralize public services further**. Here&#39;s how (and why).
 
 **Moving Towards the Blockchain**
 
