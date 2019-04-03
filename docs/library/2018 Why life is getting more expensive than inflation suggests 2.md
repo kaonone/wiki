@@ -1,6 +1,6 @@
 ﻿# Why life is getting more expensive than inflation suggests, and what that means for you  —  Part II
 
-<img src="../images/library-img/inflation1-2-3/2.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/inflation1-2-3/2.jpeg" width="100%" alt="drawing" />
 
 In the _[first part](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%201/)_ of our post, we talked about how **inflation doesn&#39;t measure real-life price changes**. You can read all about it [here](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%201/)  —  but the gist is this.
 
