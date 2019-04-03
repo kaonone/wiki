@@ -1,6 +1,6 @@
 ﻿# 5 Times Pension Schemes Collapsed and Left Millions of People Destitute  —  Part I
 
-<img src="../images/library-img/pen%20scheme/1.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/pen%20scheme/1.jpeg" width="100%" alt="drawing" />
 
 _Pension schemes go **bankrupt**._ _Governments bail them out, or banks absorb their obligations._ **Business carries on as usual**_._
 
