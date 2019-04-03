@@ -1,6 +1,6 @@
 ﻿# From Nationalization to Privatization to Decentralization
 
-<img src="../images/library-img/nationalization/1.jpeg" width="90%" alt="drawing" />
+<img src="../images/library-img/nationalization/1.jpeg" width="100%" alt="drawing" />
 
 Is the Blockchain the Next Step in Public Services?
 
