@@ -2,7 +2,7 @@
 
 **The collective retirement savings gap of the world&#39;s largest economies is expected to rise from $70trn (£54.5trn) to more than $400trn by 2050.**
 
-<img src="../images/library-img/pension%20savings%20gap/1.jpg" width="90%" alt="drawing" />
+<img src="/images/library-img/pension%20savings%20gap/1.jpg" width="90%" alt="drawing" />
 
 That is according to a [report](http://www3.weforum.org/docs/WEF_White_Paper_We_Will_Live_to_100.pdf) by the World Economic Forum (WEF), which highlights how ageing populations will impact funding gaps in the US, UK, Japan, Netherlands, Canada, Australia, China and India.
 
@@ -18,7 +18,7 @@ Out of the eight countries studied, the US was found to have the biggest savings
 
 The current and projected gaps ($trn) by country are shown below:
 
-<img src="../images/library-img/pension%20savings%20gap/2.png" width="95%" alt="drawing" />
+<img src="/images/library-img/pension%20savings%20gap/2.png" width="95%" alt="drawing" />
 
 Source: [TheActuary](http://www.theactuary.com/news/2017/05/global-pension-funding-gap-set-to-reach-crisis-400trn-by-2050/) 
 
