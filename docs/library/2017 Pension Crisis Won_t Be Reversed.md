@@ -2,11 +2,15 @@
 
 Even a stock market soaring to record highs won&#39;t rescue America&#39;s struggling state and local pension plans.
 
+<img src="../images/library-img/cris%20wont%20be%20reversed/1.jpg" width="80%" alt="drawing" />
+
 A &quot;best case&quot; scenario of a cumulative 25% investment return during the 2017–2019 period will not offer a respite for chronically underfunded U.S. public pension plans, according to a Moody&#39;s Investors Service report.
 
 The growing gap between how much state and local governments are projected to pay employees and how much funds they actually have set aside has risen to over $4 trillion nationwide. New Jersey sports the widest funding gap, followed closely by Kentucky and Illinois.
 
-Source: Bloomberg
+<img src="../images/library-img/cris%20wont%20be%20reversed/2.png" width="80%" alt="drawing" />
+
+Source: [Bloomberg](https://www.bloomberg.com/news/articles/2017-06-20/pension-crisis-won-t-be-reversed-by-high-returns-says-moody-s)
 
 The optimistic &quot;best case&quot; of cumulative 25% investment return would reduce net pension liabilities by just 1% through 2019 year-end because of past bad investment returns and weak contributions. Meanwhile, the &quot;base case&quot; scenario of 19% returns would see net pension liabilities rise by 15%.
 
