@@ -2,7 +2,7 @@
 
 One form of compromise could result in savers losing some of their retirement benefits.
 
-<img src="../images/library-img/trillion%20pension%20crisis/1.jpg" width="50%" alt="drawing" />
+<img src="/images/library-img/trillion%20pension%20crisis/1.jpg" width="50%" alt="drawing" />
 
 Image Credit: Richard Allen
 
@@ -12,7 +12,7 @@ It comes as these &quot;final salary&quot; schemes are registering their biggest
 
 This sum is the gap between the investments these pension schemes own and the likely eventual cost of the pensions they have already promised to pay.
 
-<img src="../images/library-img/trillion%20pension%20crisis/1.png" width="80%" alt="drawing" />
+<img src="/images/library-img/trillion%20pension%20crisis/1.png" width="80%" alt="drawing" />
 
 Unless solutions are found, experts warn, many hundreds of schemes are likely to fold into the Pension Protection Fund, the lifeboat scheme which provides reduced pension payouts for retired workers caught up in cash-strapped schemes.
 
@@ -30,7 +30,7 @@ The outcomes are likely to result in further support for similar compromise meas
 
 What will it mean for workers who depend on these schemes to deliver valuable retirement incomes?
 
-<img src="../images/library-img/trillion%20pension%20crisis/2.png" width="80%" alt="drawing" />
+<img src="/images/library-img/trillion%20pension%20crisis/2.png" width="80%" alt="drawing" />
 
 Source: [Telegraph](https://www.telegraph.co.uk/pensions-retirement/news/the-1-trillion-pension-crisis-facing-11m-and-theyre-the-lucky-on/) The pensions at risk are those that promise to pay a set income in retirement, linked to workers&#39; wages and length of service.
 
@@ -64,7 +64,7 @@ She said there were practical solutions that businesses could adopt to reduce th
 
 These include merging small schemes to cut costs and switching the pledge to pay inflation-linked annual increases from a higher to a lower measure of inflation — something that has been implemented across public sector pensions but which some private sector schemes are unable to do without a change in legislation.Please visit the Source content for a functional calculator. Link at the end of this article. 
 
-<img src="../images/library-img/trillion%20pension%20crisis/3.png" width="80%" alt="drawing" />
+<img src="/images/library-img/trillion%20pension%20crisis/3.png" width="80%" alt="drawing" />
 
 Source: [Telegraph](https://www.telegraph.co.uk/pensions-retirement/news/the-1-trillion-pension-crisis-facing-11m-and-theyre-the-lucky-on/)​
 
