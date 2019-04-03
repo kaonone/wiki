@@ -1,5 +1,7 @@
 ﻿# 5 Times Pension Schemes Collapsed and Left Millions of People Destitute  —  Part III
 
+<img src="../images/library-img/pen%20scheme/3.jpeg" width="90%" alt="drawing" />
+
 In the first 2 parts of this 3-part series, we covered how **the USSR**, **the UK government and the administration of Prichard**, **Alabama** all left pensioners broke (or underpaid).
 
 In this final part, we&#39;ll change things up _by looking at a historical example of pension fund failure_. We&#39;ll also cover _what happens when a private company decides (or has no choice but) to stop paying pensions_.
@@ -32,4 +34,4 @@ The question is, do you still trust your pension plan? And if not, what are you 
 
 _If you&#39;d like to learn more about what we do, please visit our _[_website_](https://akropolis.io/)_ and _[_Telegram_](https://t.me/akropolis_official)_ channel, or reach out to _[_community@akropolis.io_](mailto:community@akropolis.io)_ to learn about how the blockchain technology will help us serve billions of users while benefiting pension funds and private investors._
 
-_To read Part 1 of this post, click [here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%201/)_. _To read Part 3 of this post, click [here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%203/)_.
+_To read Part 1 of this post, click [here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%201/)_. _To read Part 2 of this post, click [here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%202/)_.
