@@ -1,6 +1,6 @@
 ﻿# 5 Times Pension Schemes Collapsed and Left Millions of People Destitute  —  Part III
 
-<img src="../images/library-img/pen%20scheme/3.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/pen%20scheme/3.jpeg" width="100%" alt="drawing" />
 
 In the first 2 parts of this 3-part series, we covered how **the USSR**, **the UK government and the administration of Prichard**, **Alabama** all left pensioners broke (or underpaid).
 
