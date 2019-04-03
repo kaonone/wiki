@@ -1,5 +1,7 @@
 ﻿# Why life is getting more expensive than inflation suggests, and what that means for you  —  Part I
 
+<img src="../images/library-img/inflation1-2-3/1.jpeg" width="90%" alt="drawing" />
+
 Have you ever felt like everything was getting more expensive  —  fast? Like the prices for everyday goods and services were going up a lot more quickly than inflation numbers suggest?
 
 **If so, you&#39;re not alone**. Many people, especially **young** people, find that **they can&#39;t afford things that used to be consumer economy staple**s  —  including **home ownership**. That&#39;s why an increasing number of _young adults_, from **Japan&#39;s** [**parasite singles**](https://www.marketwatch.com/story/more-adult-americans-live-with-their-parents-and-grandparents-2016-08-11) to **America&#39;s** [**boomerang kids**](https://www.marketwatch.com/story/more-adult-americans-live-with-their-parents-and-grandparents-2016-08-11), is choosing to live with their parents to save money.
