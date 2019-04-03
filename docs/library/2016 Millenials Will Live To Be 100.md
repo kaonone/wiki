@@ -4,10 +4,14 @@
 
 - Centenarians (people living to 100 years of age) will be the norm. From 451,000 centenarians in 2015 to 3.7 million in 2050 — an _eightfold increase_. [Pew Research Center](http://www.pewresearch.org/fact-tank/2016/04/21/worlds-centenarian-population-projected-to-grow-eightfold-by-2050/)
 
+<img src="../images/library-img/milen%20will%20live%20to%20100yo/1.jpeg" width="90%" alt="drawing" />
+
 - Today, the average life expectancy is around 72 years; the typical person can expect to have to save for 7–10 years of retirement. Living to 100 years will require saving for decades of retirement.
 - This longevity will create an even greater financial strain on the pension-fund-gap problem: from $70-trillion dollar pension gap (_today_) among the largest eight countries tp $400-trillion dollars in 2050.
 
 Eight-fold increase in global centenarians.
+
+<img src="../images/library-img/milen%20will%20live%20to%20100yo/2.png" width="40%" alt="drawing" />
 
 **How Akropolis Envisions Solving This?**
 
