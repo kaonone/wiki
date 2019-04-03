@@ -2,7 +2,7 @@
 
 ### Blockchain technology is fast gaining traction in many industries with respect to data management and security and as of September 2017 Microsoft have made this in reach of most companies.
 
-<img src="../images/library-img/blockch%20in%20pen%20ind/1.png" width="100%" alt="drawing" />
+<img src="/images/library-img/blockch%20in%20pen%20ind/1.png" width="100%" alt="drawing" />
 
 A blockchain is a data structure. It is like a public digital ledger of all transactions that are shared amongst a network of computers. This chain keeps growing as new transactions and &#39;blocks&#39; are added to it and when new records are added this creates a linear blockchain. With the help of blockchain the intermediary is no longer needed thus blockchain provides an efficient way for companies to conduct their transactions and verify them without the need for a separate, central authority.
 
