@@ -1,6 +1,6 @@
 ﻿# Why life is getting more expensive than inflation suggests, and what that means for you  —  Part III
 
-<img src="../images/library-img/inflation1-2-3/3.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/inflation1-2-3/3.jpeg" width="100%" alt="drawing" />
 
 In parts [1](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%201/) and [2](https://wiki.akropolis.io/library/2018%20Why%20life%20is%20getting%20more%20expensive%20than%20inflation%20suggests%202/) of this post, we explained **what inflation really is**  —  and **why real-life inflation may be a lot higher than official figures suggest**. This time, we&#39;re going to look at **specific examples of goods and services** appreciating a lot faster than we think. Specifically, we&#39;ll look at _cars_, _homes_, _education_ and _clothes_, all of which have gotten **a lot** more expensive in the last decade.
 
