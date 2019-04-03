@@ -6,6 +6,7 @@ As evidence of that assertion, we present to you the latest public pension analy
 
 Meanwhile, per the chart below, the average return for the past 15 years has also been well below discount rate assumptions, at just 5.95%.
 
+<img src="/images/library-img/what%20ponzi%20scheme/1.jpeg" width="100%" alt="drawing" />
 Source: [ZeroHedge](https://www.zerohedge.com/news/2017-08-02/what-ponzi-scheme-public-pensions-average-06-return-2016-despite-76-assumption)​
 
 All of which, as we stated above, continues to result in surging liabilities and collapsing funding ratios.
