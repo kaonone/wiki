@@ -1,6 +1,6 @@
 ﻿# 5 Times Pension Schemes Collapsed and Left Millions of People Destitute  —  Part II
 
-<img src="../images/library-img/pen%20scheme/2.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/pen%20scheme/2.jpeg" width="100%" alt="drawing" />
 
 In the first [part](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%201/) of this post, we looked at how **Prichard**, **Alabama** left **150 pensioners** broke **by taking away their lawful pensions**. In this post, we&#39;ll look at 2 more examples of pension schemes that let retirees down. The first is…
 
