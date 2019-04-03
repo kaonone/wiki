@@ -8,9 +8,13 @@ This 2017 report is based on information that was reported by the plan sponsors 
 
 **The Total Pension Liability reported at the last fiscal year ends totaled $4.72 trillion, up from $4.43 trillion as of the prior fiscal year ends.** We estimate that the Total Pension Liability has increased to $4.87 trillion as of June 30, 2017. The aggregate underfunding as of the last fiscal year ends stood at $1.53 trillion, but we estimate that the underfunding has narrowed to $1.43 trillion as of June 30, 2017.
 
+<img src="../images/library-img/few%20simple%20charts/1.jpeg" width="75%" alt="drawing" />
+
 Source: [ZeroHedge](https://www.zerohedge.com/news/2017-10-31/these-two-charts-spell-disaster-public-pension-ponzi-schemes)​
 
 Meanwhile, 32% of the top 100 plans were less than 60% funded.
+
+<img src="../images/library-img/few%20simple%20charts/2.jpeg" width="75%" alt="drawing" />
 
 Source: [ZeroHedge](https://www.zerohedge.com/news/2017-10-31/these-two-charts-spell-disaster-public-pension-ponzi-schemes)​
 
@@ -20,15 +24,25 @@ Of course, the discussion gets far more interesting when Milliman analyzes the p
 
 As Milliman notes, **the median expected return of the 100 largest public pension funds in the U.S. is somewhere around 5.9%** based on the asset allocations of those funds.
 
+<img src="../images/library-img/few%20simple%20charts/3.jpeg" width="75%" alt="drawing" />
+
 Source: [ZeroHedge](https://www.zerohedge.com/news/2017-10-31/these-two-charts-spell-disaster-public-pension-ponzi-schemes)​
 
-Source: [ZeroHedge](https://www.zerohedge.com/news/2017-10-31/these-two-charts-spell-disaster-public-pension-ponzi-schemes) So, what does that mean? Well, Milliman figures that **overstating a fund&#39;s discount rate by just 1% artificially reduces it&#39;s benefit liability by up to 15%.** Therefore, given that the **aggregate liabilities of the top 100 funds are roughly $5 trillion, each 1% adds about $750 billion in liabilities.**
+<img src="../images/library-img/few%20simple%20charts/4.jpeg" width="75%" alt="drawing" />
+
+Source: [ZeroHedge](https://www.zerohedge.com/news/2017-10-31/these-two-charts-spell-disaster-public-pension-ponzi-schemes) 
+
+So, what does that mean? Well, Milliman figures that **overstating a fund&#39;s discount rate by just 1% artificially reduces it&#39;s benefit liability by up to 15%.** Therefore, given that the **aggregate liabilities of the top 100 funds are roughly $5 trillion, each 1% adds about $750 billion in liabilities.**
 
 A relatively small change in the discount rate can have a significant impact on the Total Pension Liability. How big that impact is depends on the makeup of the plan&#39;s membership: a less &quot;mature&quot; plan with more active members than retirees typically has a higher sensitivity to interest rate changes than a more mature plan with a bigger retiree population. Other factors, such as automatic cost of living features, also come into play in determining a plan&#39;s sensitivity. Using a discount rate that is loo basis points higher or lower than the independently determined investment return assumption moves the aggregate recalibrated Total Pension Liability by anywhere from 8% to 15% (see Figure 13).
+
+<img src="../images/library-img/few%20simple%20charts/5.jpeg" width="75%" alt="drawing" />
 
 Source: [ZeroHedge](https://www.zerohedge.com/news/2017-10-31/these-two-charts-spell-disaster-public-pension-ponzi-schemes)​
 
 Adding insult to injury, Milliman notes that the ratio of retired pensioners (those taking money out of the system) to active pensioners (those still funding the ponzi) has surged 16% over the past couple of years.
+
+<img src="../images/library-img/few%20simple%20charts/6.jpeg" width="75%" alt="drawing" />
 
 Source: [ZeroHedge](https://www.zerohedge.com/news/2017-10-31/these-two-charts-spell-disaster-public-pension-ponzi-schemes)​
 
