@@ -2,7 +2,7 @@
 
 **&#39;I hope I can quit working in a few years&#39;** Tom Coomer, 79, outside of the Walmart where he works five days a week in Wagoner, Okla, on Nov. 16. Coomer used to work at the McDonnell Douglas plant in Tulsa before it closed in 1994. He and many of his co-workers could never replace their lost pension benefits and face financial struggles in their old age. (Nick Oxford for The Washington Post)
 
-<img src="../images/library-img/us%20without%20pens/1.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/us%20without%20pens/1.jpeg" width="100%" alt="drawing" />
 
 Source: [The Washington Post](https://www.washingtonpost.com/business/economy/i-hope-i-can-quit-working-in-a-few-years-a-preview-of-the-us-without-pensions/2017/12/22/5cc9fdf6-cf09-11e7-81bc-c55a220c8cbe_story.html?utm_term=.ef7634e36f70)​
 
@@ -39,7 +39,7 @@ For some, financial shortfalls have grown acute enough that they have precipitat
 
 &quot;It&#39;s a struggle, just say that,&quot; said one woman, 72, who filed for bankruptcy in 2013. &quot;You just try to get by.&quot;Charles Glover, 70, on Nov. 16 at the Dollar General in Catoosa, Okla. He works several shifts a week as a clerk. (Nick Oxford for The Washington Post) 
 
-<img src="../images/library-img/us%20without%20pens/2.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/us%20without%20pens/2.jpeg" width="100%" alt="drawing" />
 
 Source: [The Washington Post](https://www.washingtonpost.com/business/economy/i-hope-i-can-quit-working-in-a-few-years-a-preview-of-the-us-without-pensions/2017/12/22/5cc9fdf6-cf09-11e7-81bc-c55a220c8cbe_story.html?utm_term=.ef7634e36f70)​
 
@@ -71,7 +71,7 @@ The GAO recommended that Congress consider creating an independent commission to
 
 &quot;If no action is taken, a retirement crisis could be looming,&quot; it said.Coomer makes a pot of coffee at his home in Wagoner after a day of work at Walmart. &quot;As long as I sit down for about 10 minutes every hour or two, I&#39;m fine,&quot; he says of working eight-hour shifts with the condition spinal stenosis. (Nick Oxford for The Washington Post) 
 
-<img src="../images/library-img/us%20without%20pens/3.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/us%20without%20pens/3.jpeg" width="100%" alt="drawing" />
 
 Source: [The Washington Post](https://www.washingtonpost.com/business/economy/i-hope-i-can-quit-working-in-a-few-years-a-preview-of-the-us-without-pensions/2017/12/22/5cc9fdf6-cf09-11e7-81bc-c55a220c8cbe_story.html?utm_term=.ef7634e36f70)​
 
@@ -99,7 +99,7 @@ Employees eventually won settlements  —  about $30,000 was typical. It hel
 
 &quot;People went to work at these places thinking they&#39;ll work there their whole lives,&quot; Farris said, noting that the pensions held great appeal to the staff. &quot;Their trust and loyalty, though, was not reciprocated.&quot;Ray walks through a collection of junk that he recycles at his home in Claremore. (Nick Oxford for The Washington Post) 
 
-<img src="../images/library-img/us%20without%20pens/4.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/us%20without%20pens/4.jpeg" width="100%" alt="drawing" />
 
 Source: [The Washington Post](https://www.washingtonpost.com/business/economy/i-hope-i-can-quit-working-in-a-few-years-a-preview-of-the-us-without-pensions/2017/12/22/5cc9fdf6-cf09-11e7-81bc-c55a220c8cbe_story.html?utm_term=.ef7634e36f70)​
 
@@ -127,7 +127,7 @@ He shrugs off the difficulty.
 
 &quot;I don&#39;t want to sit around and play checkers and get fat,&quot; Combs says. &quot;I used to pick cotton in 90-degree heat. This is easy.&quot;Coomer relaxes at home with his wife Ellen after working at Walmart. While he seems to enjoy working at Walmart, Cooomer says he really loved working at McDonnell Douglas and had his eye on his pension during his 29 years there. (Nick Oxford for The Washington Post) 
 
-<img src="../images/library-img/us%20without%20pens/5.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/us%20without%20pens/5.jpeg" width="100%" alt="drawing" />
 
 Source: [The Washington Post](https://www.washingtonpost.com/business/economy/i-hope-i-can-quit-working-in-a-few-years-a-preview-of-the-us-without-pensions/2017/12/22/5cc9fdf6-cf09-11e7-81bc-c55a220c8cbe_story.html?utm_term=.ef7634e36f70)​
 
