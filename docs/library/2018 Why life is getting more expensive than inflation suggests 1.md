@@ -1,6 +1,6 @@
 ﻿# Why life is getting more expensive than inflation suggests, and what that means for you  —  Part I
 
-<img src="../images/library-img/inflation1-2-3/1.jpeg" width="100%" alt="drawing" />
+<img src="/images/library-img/inflation1-2-3/1.jpeg" width="100%" alt="drawing" />
 
 Have you ever felt like everything was getting more expensive  —  fast? Like the prices for everyday goods and services were going up a lot more quickly than inflation numbers suggest?
 
