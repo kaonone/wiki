@@ -167,7 +167,7 @@ Token functionality and use is modeled on MakerDAO and is designed to ensure tha
 
 **Token holder type: AFO (Borrowers)**
 
-**Economic Objectives**
+**Economic Objectives:**
 
 * Secure access to well-priced easily available credit
 * Maximize availability of credit and   its price
@@ -181,7 +181,7 @@ Token functionality and use is modeled on MakerDAO and is designed to ensure tha
 
 **Token holder type: Network Keepers**
 
-**Economic Objectives**
+**Economic Objectives:**
 
 * Profit-seeking agents rewarded for correct risk assessment by receiving a network stability fee
 * Maximize stability fee
@@ -195,7 +195,7 @@ Token functionality and use is modeled on MakerDAO and is designed to ensure tha
 
 **Token holder type: Capital Providers (Lenders)**
 
-**Economic Objectives**
+**Economic Objectives:**
 
 * To grant a loans with best risk/profit ratio
 * To be protected from AFO’s fraud and defaults on debts by network mechanisms
