@@ -35,7 +35,9 @@ pages:
   - Team: 'team.md'
   - Partnerships: 'partners.md'
   - Design: 'design.md'
-  - Blog Posts: 'blog.md'
+  - Blog Posts: 
+    - 2019: 'blog/2019.md'
+    - 2018: 'blog/2018.md'
   - Press: 'press.md'
   - Development: 
     - C2FC: 'c2fc/overview.md'
