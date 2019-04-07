@@ -527,10 +527,8 @@
 <li>No need to share your ethereum address over insecure channels like messengers/email/SMS. </li>
 <li>It’s quick, as easy as <a href="https://venmo.com/about/product/">Venmo</a>, safe and private (you hold the keys)</li>
 </ul>
-<p></br></p>
 <h2 id="problem">Problem</h2>
 <p>In order to make a payment over a decentralized network, the user needs to know the recipient’s public key. A public key is a notoriously long set of numbers and letters. It is easy to make a mistake, and copy-pasting isn’t always safe if your device is compromised. As a result, the UX is not intuitive and continues to present a serious hurdle to the mainstream adoption of cryptocurrencies. There are notable teams working on addressing that - shoutout to <a href="https://twitter.com/austingriffith">Austin Griffith</a> from <a href="https://xdai.io/">BurnerWallet</a>, <a href="https://twitter.com/ricburton">Ric</a> from <a href="https://balance.io/">Balance.io</a> and <a href="https://twitter.com/vikmeup">Viktor</a> from <a href="https://trustwallet.com/">TrustWallet</a>. What we are proposing below is our solution that can be integrated with the ecosystem wallets, exchanges and dApps to expand their offering and UX. </p>
-<p></br></p>
 <h2 id="solution">Solution</h2>
 <p>We introduce a NuCypher-based cryptographic scheme, which allows users to send ETH and ERC-20 tokens to a mobile number instead of the recipient’s public key. Our solution has the following features:  </p>
 <ul>
@@ -544,7 +542,6 @@
 <p><strong>Generalised and scalable</strong>: can be used across many identifiers and any cryptocurrencies any other identifier, e.g. email ID, Whatsapp ID, Telegram ID, Signal ID, WeChat ID, etc. This scheme can be extended to include any cryptocurrency. </p>
 </li>
 </ul>
-<p></br></p>
 <h2 id="how-it-works">How it works</h2>
 <ul>
 <li>
@@ -557,7 +554,6 @@
 <p>Send tokens and ethereum using a phone number instead of ethereum address. </p>
 </li>
 </ul>
-<p></br></p>
 <h2 id="target-client-base-lib">Target Client Base (lib)</h2>
 <ul>
 <li>
@@ -570,7 +566,6 @@
 <p>dApps (<a href="https://opensea.io">OpenSea</a>, <a href="https://www.cryptokitties.co/">CryptoKitties</a>, <a href="https://decentraland.org/">Decentraland</a>, etc.).</p>
 </li>
 </ul>
-<p></br></p>
 <h2 id="tech-design">Tech design</h2>
 <p>A) Database: (KMS-like (Key Management System), could be centralized or  decentralized): stores a pair of phone number’s hash and NuCypher public key. </p>
 <p>B) Storage (could be centralized or decentralized): keeps users' encrypted messages with private information: ethereum address, first name and last name (or nickname). </p>
@@ -587,13 +582,10 @@
 <p>6) The application generates a transaction for Alice with the ethereum address from the message as a payee. </p>
 <p><img src="/images/development/nuWallet.jpg" alt="drawing" /></p>
 <p>Thus, users can send each other ETH/ERC-20 using just a mobile number of any other identifier, e.g. email ID, Whatsapp ID, Telegram ID, Signal ID, WeChat ID, etc. This scheme can be extended to include any cryptocurrency. </p>
-<p></br></p>
 <h2 id="why-nucypher">Why NuCypher</h2>
 <p>NuCypher is a decentralized KMS provider based on homomorphic cryptography.  Using NuCypher we can achieve a secure transmission of address data and effect transfers between the two parties without disclosing the addresses themselves, thus delivering robust partial anonymisation of transactions. A complete anonymisation can be achieved using ZK-Snarks, Schnorr signatures or ring signatures however this work is outside of the timeframe allowed for this project and may be included in further iterations. </p>
 <p>As a result, what we get is cryptographically secure solution that guarantees that access to address and phone number data cannot be obtained illegally or on authorities’ demand without the explicit consent of the user.</p>
-<p></br></p>
 <h2 id="video-walkthrough"><a href="https://www.dropbox.com/s/wdu5vdodlbgv542/nuCypher.mp4?dl=0">Video Walkthrough</a></h2>
-<p></br></p>
 <h2 id="force-majeure">Force Majeure</h2>
 <p>Unfortunately, after designing architecture of our product, our lead blockchain developer had to drop out of the work schedule due to a health emergency, therefore we can only demonstrate a pre-recorded prototype. Depending on the feedback from the judges and the community, we’d be happy to conclude the development work. </p>
 <p></br></p>
