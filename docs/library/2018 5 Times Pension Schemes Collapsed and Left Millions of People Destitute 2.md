@@ -47,4 +47,5 @@ By sheer magnitude, this is probably the biggest collapse on this list. **USSR&#
 In the next part of our post, we&#39;ll look at an ancient example of unpaid pensions, then go back to cover modern America&#39;s biggest collapsed private pension fund.
 
 Click here to join our [Telegram](https://t.me/akropolis_official) group and make sure you stay tuned for the last installment of this exciting 3-part series. Thanks for reading, and see you in the next post!
+
 _To read Part 3 of this post, click [here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%203/)_. _To read Part 1 of this post, click [here](https://wiki.akropolis.io/library/2018%205%20Times%20Pension%20Schemes%20Collapsed%20and%20Left%20Millions%20of%20People%20Destitute%201/)_.
