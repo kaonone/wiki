@@ -31,7 +31,7 @@ The protocol is designed to enable scalability of informal member-owned organisa
 
 The problem of insolvency of centralised pensions and social security institutions is a well documented one. Our summary of external resources is below:
 
-* Library of press articles [here](https://akropolis.gitbook.io/knowledge-base/). 
+* Library of press articles [here](https://airtable.com/shrrKv18TLgDZCnMp). 
 
 * Documentary “The Coming Retirement Crisis” by Goldman Sachs’ Raul Pal (our brief video summary is [here](https://www.youtube.com/timedtext_video?v=cFQDgcMR8TE&msg=9&ppub_lang=en)) 
 
