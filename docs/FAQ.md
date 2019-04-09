@@ -6,9 +6,9 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 
 * enable anybody regardless of geography to quickly set up, operate and grow informal autonomous financial organisations (AFOs), e.g. digital co-ops, guilds, mutuals
 
-* enables a previously impossible interoperable scalable network between them and external third parties, whereby value can be exchanged freely in a trust-minimised way (e.g. co-invest, lend/borrow, trade). 
+* enable a previously impossible interoperable scalable network between them and external third parties, whereby value can be exchanged freely in a trust-minimised way (e.g. co-invest, lend/borrow, trade). 
 
-* reduces instances of fraud and misuse of funds 
+* reduce instances of fraud and misuse of funds 
 
 
 
