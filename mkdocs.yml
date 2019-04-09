@@ -38,7 +38,7 @@ pages:
   - Blog Posts: 
     - 2019: 'blog/2019.md'
     - 2018: 'blog/2018.md'
-  - Press: 'press.md'
+  - Media Coverage: 'press.md'
   - Development: 
     - C2FC: 'c2fc/overview.md'
     - Akropolis Network: 'akro-protocol.md'
