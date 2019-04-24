@@ -292,7 +292,7 @@ Ajit has a rich and varied background in risk and regulatory change program impl
 
 **Focus**: Fundraising, Communication strategies, Negotiations, Token Sale Marketing
 
-**Experience**: Co-Founder & Head of Operations, Renowned&Co • BSc Marketing, Academia de Studii Economice din București
+**Experience**: Co-Founder & Head of Operations, Renowned&Co • Codex, Gochain, POA Network advising • BSc Marketing, Academia de Studii Economice din București
 
 Laura has a bachelor degree in Marketing, Communication and PR and more than ten years experience in marketing and
 business development. As Co-Founder and Head of Operations at Renowned&Co, she has helped many blockchain projects to
