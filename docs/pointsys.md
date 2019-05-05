@@ -141,7 +141,7 @@ We will give _50$ to each really cool submission_ (our own subjective choice)
 
 **Additional prizes** for helping/being super active/something (at our own discretion)
 
-Can be not only tokens but also some merch, tickets to meetups, AMA etc
+Can be not only tokens but also some merch, tickets to meetups, AMA etc.
 
 </br>
 
