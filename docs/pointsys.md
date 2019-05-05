@@ -1,5 +1,4 @@
 # Point system
-</br>
 
 ### In this quest, we introduce the point system:
 
