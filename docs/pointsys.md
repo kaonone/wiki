@@ -123,7 +123,7 @@ _3rd place - 100$_
 
 5. **Quest recaps** - 400$
 
-We will choose the best recap (article like Dobrodel did) _for each round and give 50$_
+We will choose the _best recap for each round and give 50$_
 
 </br>
 
