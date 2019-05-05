@@ -62,7 +62,7 @@ _10$ per winner_ - 1000 AKT - 10 points
 
 </br>
 
-1. **Articles** (not some rubbish, but actually good articles connected to round themes and to Akropolis) 2750$ total
+1\. **Articles** (not some rubbish, but actually good articles connected to round themes and to Akropolis) 2750$ total
 
 _1st place - 500$_
 
@@ -86,7 +86,7 @@ _10th place - 50$_
 
 </br>
 
-2. **Video** (again, not some rubbish, but good videos on 5 suggested topics) 4k$ total
+2\. **Video** (again, not some rubbish, but good videos on 5 suggested topics) 4k$ total
 
 _1st place - 1000$_
 
@@ -100,7 +100,7 @@ _5th place - 600$_
 
 </br>
 
-3. **Stickers** - 300$
+3\. **Stickers** - 300$
 
 _1st place - 150$_
 
@@ -110,7 +110,7 @@ _3rd place - 50$_
 
 </br>
 
-4. **GIFs** - 450$
+4\. **GIFs** - 450$
 
 _1st place - 200$_
 
@@ -120,19 +120,19 @@ _3rd place - 100$_
 
 </br>
 
-5. **Quest recaps** - 400$
+5\. **Quest recaps** - 400$
 
 We will choose the _best recap for each round and give 50$_
 
 </br>
 
-6. **Feedback form**
+6\. **Feedback form**
 
 Fill in feedback _typeform and receive 10$_ (only for quest participants - ones who at least tried task 1)
 
 </br>
 
-7. **Task 1 submissions**
+7\. **Task 1 submissions**
 
 We will give _50$ to each really cool submission_ (our own subjective choice)
 
