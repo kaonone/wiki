@@ -129,7 +129,7 @@ We will choose the best recap (article like Dobrodel did) _for each round and gi
 
 6. **Feedback form**
 
-_Fill in feedback__typeform and receive 10$_ (only for quest participants - ones who at least tried task 1)
+Fill in feedback _typeform and receive 10$_ (only for quest participants - ones who at least tried task 1)
 
 </br>
 
