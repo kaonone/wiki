@@ -1,6 +1,6 @@
 # Whitepaper
 
-## Introduction
+## **Introduction**
 
 Financial systems have existed since the beginning of civilization. Over time, they have undergone a vast number of transformations, changing the formats and principles of interaction. However, the essence of Financial Systems has always prevailed - helping people realize their needs. Financial systems started as informal savings and lending groups, and evolved into co-operatives, mutual insurances, and co-operative banks, which became the commercial and retail banks that we know today through centuries of growth, mergers, and acquisitions. The current legacy system has become [opaque, inefficient](https://www.treasurydirect.gov/govt/reports/pd/pd_debttothepenny.htm), and [too big to fail](http://www.agefi.fr/sites/agefi.fr/files/fichiers/2016/03/citi_retraite_hors_bilan_21_mars_1.pdf). The fintech revolution aims to correct these failures by disrupting the financial market and creating new, community-focused models. 
 
@@ -9,14 +9,14 @@ Akropolis is a financial protocol for the [growing billion-dollar informal econo
 We believe that the future of finance belongs to user-owned - but not necessarily user-governed - networks. Our thesis proposes that banks and other financial corporations will be replaced by a federated network of autonomous co-ops, each of which will act in the interests of its owners and interact with other parties in a single digital financial landscape. The Akropolis protocol aims to create this new digital financial landscape by providing a unified program interface for the cooperation and exchange of value of digital financial organizations. 
 
 
-## Overview
+## **Overview**
 
-### What is Akropolis?
+### **What is Akropolis?**
 Akropolis is a domain-specific financial protocol dedicated to the needs of the informal bank-less economy. It can be implemented on any blockchain with a [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) virtual machine. Our proposed initial implementation is on the Ethereum blockchain.  
 
 *Within Akropolis, users are free to choose decentralized smart contract-based self-custody or nominate a regulated custodian. The protocol or its team do, and will not store user data or engage in regulated activities such as facilitating or promoting investment activities.*
 
-### What problems does it address?
+### **What problems does it address?**
 
 * The complexity of starting an autonomous financial organization (AFO)
 
@@ -27,7 +27,7 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 * Security, reliability and transparency of informal financial organizations
 
 
-### How does it propose to solve them?
+### **How does it propose to solve them?**
 
 * Quickly set-up, operate and grow informal autonomous financial organisations (AFOs) like digital co-ops, guilds, and mutuals - with no geographical limits
 
@@ -38,7 +38,7 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 * Providing benefits of aggregation to users who would otherwise not be able to afford access to them
 
 
-### Key Features
+### **Key Features**
 
 * No bank account required
 
@@ -63,13 +63,13 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 * Programmable immutable smart-contracts that allow users to create automated financial algorithms. These algorithms implement the functionality of existing financial instruments and enable the creation of a large array of novel financial tools. 
 
 
-### Target Users
+### **Target Users**
 
 * Unbanked individuals and communities across the globe.
 
 * Individuals are parties, under-served by the legacy financial system
 
-### Network Actors
+### **Network Actors**
 
 * End-users - all network users, participating in at least one AFO.
 
@@ -108,6 +108,35 @@ Each type has a unique set of goals detailed below:
     		</li>
     		<li>
     			End users don’t generally use the AKT tokens 
+    		</li>
+    	</ul>
+    </td> 
+  </tr>
+  <tr>
+    <td>AFOs (Borrowers) and their associations (Guilds)</td>
+    <td>
+    	<ul>
+    		<li>
+    			Secure access to well-priced and easily available credit
+    		</li>
+    		<li>
+				Maximise availability of credit and minimise its price
+			</li>
+			<li>
+				Maximise the duration and terms of the credit lines
+			</li>
+    	</ul>
+    </td> 
+    <td>
+    	<ul>
+    		<li>
+Referral incentives: grow the network through referring other AFOs ( encouraging other AFOs to be moved to or set up on our network). The greater the volume of successfully repaid credit, the greater will be the reputational value of the system, and the lower the cost of credit;
+    		</li>
+    		<li>
+Ability to attract a greater volume of credit proportional to the overall value captured in the system. Two mechanisms: maximise through growth in number of AFO members, or association with new AFOs in Guilds. This is important as a fractional-reserve banking approach is not available or applicable to non-bank AFOs.
+    		</li>
+    		<li>
+The above increases the volume of staked tokens in the system, thus reducing the token circulating supply
     		</li>
     	</ul>
     </td> 
@@ -162,7 +191,7 @@ The governance approach allows Capital Providers to affect network variables tha
   </tr>
    <tr>
     <td>
-    	[Network Keepers](https://medium.com/outlier-ventures-io/incentive-analysis-arbitrage-market-maker-keepers-in-makerdao-20b3e2fd12db)
+    	<a href="https://medium.com/outlier-ventures-io/incentive-analysis-arbitrage-market-maker-keepers-in-makerdao-20b3e2fd12db">Network Keepers</a>
     </td>
     <td>
     	<ul>
@@ -194,14 +223,14 @@ Incentivised to create a public, data-rich reputation or credit scoring system t
 </table>
 
 
-### The Guild concept
+### **The Guild concept**
 
 For the informal economy, the cooperation inside an informal group is as important as interactions between groups. Lack of trust between different groups is a large problem in the interactions between and within informal financial institutions. The Guild concept is a historically proven solution to lack of trust. Guilds, [Chambers Of Commerce]( https://en.wikipedia.org/wiki/Chamber_of_commerce), Business associations, and Self-regulated organizations (SROs, [example](https://www.finma.ch/en/authorisation/self-regulatory-organisations-sros/) of SRO in Swiss jurisdiction) play a significant role for both domestic and international commerce. As a company or a professional worker, being a member of a trusted and respectful association significantly decreases risks associated with interacting. In the Akropolis network, Guilds are associations of AFOs that act as self-governed professional associations to grow trust between AFOs and members.
 
 
 <img src="/images/whitepaper/protocol.png" alt="drawing" />
 
-## Technical Architecture
+## **Technical Architecture**
 
 The architecture of our protocol, as a TCP/IP construction, is structured in several layers, each of which is responsible for a separate function:
 
@@ -224,15 +253,17 @@ Each level has its own API for interacting with other layers or for interacting 
 
 Cross-functionality between AFOs will initially be limited to basic exchanges of value.
 
-### Identity Management Module
+### **Identity Management Module**
 
 One of the limitations of the current state of Decentralised Autonomous Organisation (DAO) frameworks is the lack of a single entry point for digital ID and membership management through all organizations. Our aim is to build a single entry-point for interaction with all AFOs of which the user is a member. The user profile allows registration for membership in several organizations and functions as a single interface for managing all of them, in the same way that Slack supports participation in different teams. A user in a single interface can view all the AFOs in which they are a member, and manage the permissions and privileges that they have granted to the AFOs.
+
 Identity management (IM) occurs through a generalised approach, based on the [Ethereum Naming Service (ENS)](https://docs.ens.domains/).
 
 !!! quote
 	ENS offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names (e.g. akropolis.eth).  ENS is built on smart contracts on the Ethereum blockchain and operates in a distributed fashion for both its infrastructure and governance.
 
 Akropolis uses the same logic to create a single interface for managing all AFOs. 
+
 Our IM keeps the following records: 
 
 * Registry of all users of the protocol and links to user’s external personal data providers, for example, a hash with a document copy or [IPFS](https://docs.ipfs.io/) link  
@@ -256,7 +287,7 @@ IM does not store personal data, neither does it deal with KYCs.
 5. The app requests off-chain identity-relevant information.
 
 
-### Building reputation systems using Akropolis protocol
+### **Building reputation systems using Akropolis protocol**
 
 We envision a scenario where the network participants can provide and request user identification and personal data collection services (using IPFS / [nuCypher](https://www.nucypher.com/) or centralized servers), combine them with financial transactions that are stored on-chain, and provide AFO risk assessment services to third parties.
 
@@ -276,7 +307,7 @@ As noted above, pending an effective anonymisation and gas-effective zkSNARKs so
 5. The Reputation Service calculates the score and provides it to the Network Keeper
 
 
-### Payment processing kernel – C2FC Framework
+### **Payment processing kernel – C2FC Framework**
 
 The Akropolis protocol has created a specialized financial primitive – Commitments to Future Cash Flows (C2FC), which allows us to transform any financial interaction into an exchange of tokenised cash flows.
 
@@ -453,7 +484,7 @@ In our example, Alice creates a cash flow by calling the createCashflow function
 
 
 
-### Network Governance Module
+### **Network Governance Module**
 
 The governance framework allows decision-making within AFOs. Autonomous financial institutions are completely digital objects that can make their own financial decisions, accumulate funds, provide accumulated funds for a long time, take loans and pay them off. 
 
@@ -488,7 +519,7 @@ The governance framework will initially enable the following functionality, supp
 7. Borrower pays for their C2FC obligations. The payments are routed to the Co-op account. 
 
 
-### Network Governance
+### **Network Governance**
 
 All network actors holding tokens can participate in the governance process of the overall network, and vote on ecosystem variables such as the stability fee, penalty fee, governance fee and the intra-network loan rate, modelled on [LIBOR](https://www.investopedia.com/terms/l/libor.asp) or [DIPOR](https://www.theblockcrypto.com/2019/04/11/introducing-dipor-libor-for-open-finance/).
 
@@ -576,6 +607,9 @@ Our incentive analysis demonstrates that all main actors presented in the ecosys
 
 *This model was inspired by the [MakerDAO (MKR) token model](https://makerdao.com/whitepaper/).* 
 
+## **Network Internal Economy**
+
+
 **Staking Mechanism**
 
 The mechanics of a staking process are described below. We used the approach developed by [Livepeer](https://github.com/livepeer/wiki/wiki/Delegating) that comes down to using “rounds” as the definition of time in a staking process. We named the “rounds” “standard periods” within our model:
@@ -588,9 +622,10 @@ The mechanics of a staking process are described below. We used the approach dev
 
 * Each Guild cannot borrow more funds than defined by its share in community trust (staking). A Guild cannot borrow a higher share of the funds from the overall supply in recent N periods than its staking share. This principle works according to this formula:
 
-!!!!!!!!!!!!
-!!!!!!!!!!!!
-!!!!!!!!!!!!
+<img src="/images/whitepaper/formula.png" width="150" align="middle" />
+
+So, If the possibility of taking a loan worth &Delta; for i-th Guild is under consideration, the staking system verifies that if a loan is taken, the equation will be true, meaning that a share of this Guild in a loan-taking process is not exceeding its staking share. The &Sigma;L is referred to all loans during the N periods, including partially or completely repaid ones.
+
 
 This rule is applied only if N periods have passed. If the system is just launched and N periods have not yet passed, the system will wait for a collection of loan-related statistics, and only after this, the application the mentioned limitation will occur. During the initial period, the lenders have to take into account not only the tokens staked in favor of each Guild, but also the Guild’s reputation and payment history as the leading indicators for their decision-making. 
 
@@ -608,7 +643,7 @@ The first token function is a collective selection of trustworthy AFOs via staki
 Any AKT token holder can stake his tokens on behalf of any Guild they trusts, for example, as a result of a careful examination of a Guild’s financial flows and history. The amount of debt that can be issued by a Guild is limited by its share in overall staked tokens, which are equivalent to its community trust. The possibility to work with loans attracted by the Guild is managed inside it, the most obvious approach being to select AFOs by their stakes in favor of this Guild and taking into account its financial history. Whichever method of internal loan management they choose, the responsibility for loan repayment pertains to the Guild as a collective.
 
 
-## Token Model (AKT) 
+## **Token Model (AKT)**
 
 
 <table style="width:100%">
@@ -633,7 +668,7 @@ Governance and Work Token
 Comparable token models
 </td>
     <td>
-MKR* , Livepeer**  
+    	<a href="https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis">MKR*</a>, <a href="https://blog.coinfund.io/livepeer-cryptoeconomics-as-a-case-study-of-active-participation-in-decentralized-networks-19a932415e0e">Livepeer*</a>
 </td> 
   </tr>
   <tr>
@@ -815,10 +850,10 @@ The token functionality and use is modeled using the Livepeer and MakerDAO frame
 (See Table on Page 5 for details on the interaction and uses of the token according to each network actor)
 
 
-## Revenue model
+## **Revenue model**
 
 
-## Risks and Limitations
+## **Risks and Limitations**
 
 **General risks**
 
@@ -861,14 +896,17 @@ The token functionality and use is modeled using the Livepeer and MakerDAO frame
 	* if they destroy the network, they will ultimately lose the value of the tokens 
 	* Initial token distribution to stakeholders that are interested in network growth. The more significant Akropolis’ capitalization becomes, the more complex and expensive such an attack will be.
 
-## Roadmap
+## **Roadmap**
 
 <img src="/images/whitepaper/roadmap.png" alt="drawing" />
 
-## Glossary
+## **Glossary**
 
 <table style="width:100%">
   <tr>
+  	<th>Term</th>
+  	<th>Definition</th>
+  </tr><tr>
     <td>
 AFO (Autonomous financial organisations) 
 </td>
@@ -912,7 +950,8 @@ The IM is analogous to the Ethereum Naming Service, which keeps the following re
    <td>
 Guilds (Association of AFOs)</td>
     <td>
-Guilds are  self-governing structures formed by  AFOs as members. Within the Akropolis network, Guilds can be described as something similar to Chambers Of Trade, Business associations or Self-regulated organizations.
+Guilds are  self-governing structures formed by  AFOs as members. Within the Akropolis network, Guilds can be described as something similar to Chambers Of Trade, Business associations or Self-regulated organizations. The basics about the Guild concept can be found <a href="https://en.wikipedia.org/wiki/Guild">here</a>. Practical aspects of Guilds operation in economy is <a href="https://www.aeaweb.org/articles?id=10.1257/jep.28.4.169">here</a>
+
 </td> </tr>
 <tr>
    <td>
@@ -930,3 +969,5 @@ Staking  - AKT tokens placed as a risky deposit (commonly known as skin in the g
 <br/>
 Growth Fund - storage (smart-contract) for AKT tokens that are used for rewarding Network Keepers during the network bootstrapping process</td> </tr>
  </table>
+
+ <br/>
