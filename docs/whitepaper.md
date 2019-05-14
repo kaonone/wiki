@@ -198,6 +198,9 @@ Incentivised to create a public, data-rich reputation or credit scoring system t
 
 For the informal economy, the cooperation inside an informal group is as important as interactions between groups. Lack of trust between different groups is a large problem in the interactions between and within informal financial institutions. The Guild concept is a historically proven solution to lack of trust. Guilds, [Chambers Of Commerce]( https://en.wikipedia.org/wiki/Chamber_of_commerce), Business associations, and Self-regulated organizations (SROs, [example](https://www.finma.ch/en/authorisation/self-regulatory-organisations-sros/) of SRO in Swiss jurisdiction) play a significant role for both domestic and international commerce. As a company or a professional worker, being a member of a trusted and respectful association significantly decreases risks associated with interacting. In the Akropolis network, Guilds are associations of AFOs that act as self-governed professional associations to grow trust between AFOs and members.
 
+
+<img src="/images/whitepaper/protocol.png" alt="drawing" />
+
 ## Technical Architecture
 
 The architecture of our protocol, as a TCP/IP construction, is structured in several layers, each of which is responsible for a separate function:
@@ -213,6 +216,7 @@ The architecture of our protocol, as a TCP/IP construction, is structured in sev
 * Payment processing Module (C2FC Framework)
 
 
+<img src="/images/whitepaper/layers.png" alt="drawing" />
 
 More details about the functionality of each level will be described in the following sections. 
 
@@ -243,6 +247,14 @@ The IM also provides interfaces for connecting third-party identity systems, bot
 
 IM does not store personal data, neither does it deal with KYCs. 
 
+<img src="/images/whitepaper/layer1.png" alt="drawing" />
+
+1. User connects to any application using our protocol.
+2. The application requests information about the user.
+3. The Identity Management Module retrieves a list of AFOs  of which the user is a member from the on-chain ledger.
+4. The Identity Management Module sends the user address from its public off-chain data (IPFS / Swarm / Server) alongside the list of AFOs to the application
+5. The app requests off-chain identity-relevant information.
+
 
 ### Building reputation systems using Akropolis protocol
 
@@ -253,6 +265,15 @@ We envision a scenario where the network participants can provide and request us
 We provide an API to get data on all issued loans on the  protocol and its repayments. Any third-party can access pseudo-anonymised transactions on-chain and assess the risk on their own, or use third-parties to assess the risk. AFOs may choose to shared off-chain information in order to get access to competitively-priced credit from external capital providers. As a result, a third-party can combine various data sources to create a credit scoring system. 
 
 As noted above, pending an effective anonymisation and gas-effective zkSNARKs solution for Ethereum, our restrictions will be limited to those of the native chain. 
+
+
+<img src="/images/whitepaper/layer2.png" alt="drawing" />
+
+1. User provides KYC and other data to Reputation Service, which is necessary to estimate their risk score.
+2. The Reputation Service gets the links to the user’s external personal data providers from the from Identity Management Module
+3. The Reputation Service gets user data from external data providers
+4. The Reputation Service gets data on user financial operations in the Akropolis protocol (loans received and payments on them, savings) from the on-chain ledger
+5. The Reputation Service calculates the score and provides it to the Network Keeper
 
 
 ### Payment processing kernel – C2FC Framework
@@ -456,6 +477,15 @@ The governance framework will initially enable the following functionality, supp
 
 * Borrow money from another AFO
 
+<img src="/images/whitepaper/layer3.png" alt="drawing" />
+
+1. A borrower issues a C2FC token for getting a loan and puts an order on the C2FC exchange. 
+2. A member of an AFO suggests filing existing loan applications in order to get the loan interest. 
+3. Voting system created. All co-op members can vote.
+4. According to the result of voting, if passed, the relevant finances are withdrawn from the co-op’s account.
+5. AFO/Co-op funds are used to purchase a C2FC token. 
+6. Co-op’s account gets the C2FC token.
+7. Borrower pays for their C2FC obligations. The payments are routed to the Co-op account. 
 
 
 ### Network Governance
@@ -833,5 +863,70 @@ The token functionality and use is modeled using the Livepeer and MakerDAO frame
 
 ## Roadmap
 
+<img src="/images/whitepaper/roadmap.png" alt="drawing" />
 
 ## Glossary
+
+<table style="width:100%">
+  <tr>
+    <td>
+AFO (Autonomous financial organisations) 
+</td>
+    <td>
+Autonomous financial organisations are self-sovereign digital member-owned organisations that provide financial services such as co-savings and co-investing, access to credit on flexible terms, and a basic form of insurance. 
+</td> 
+<tr>
+   <td>
+C2FC (Commitments to Future Cash Flows)
+</td>
+    <td>
+A financial primitive that represents the digital right to operate with future cash flows expected to arrive in any form to any Ethereum address (this could be implemented in any blockchain) within a given time frame. Simply put, it looks like a relay: a C2FC issuer must receive payment within this specified period, but those payments are fully or partially forwarded to the C2FC token holder’s address. Therefore, the future cash flows of any individual, company or service takes the form of a measurable digital unit that can be easily exchanged, traded or used as collateral.
+</td> 
+  </tr>
+ <tr>
+   <td>
+Governance Framework
+</td>
+    <td>
+Autonomous financial organisations work as decentralised autonomous organisations. The governance inside each AFO is different from a protocol governance: only AFO members are able to make decisions . There is no need for every autonomous financial organisation to have a token of its own. <br/>
+The governance Framework provides decision-making support for Autonomous Financial Organisations. The core Governance API supports a number of base level commands, like the registration of a new Autonomous Financial Organisation, making changes to its constitution, or allowing new members in. 
+</td> 
+  </tr>
+ <tr>
+   <td>
+IM (Identity Management)
+</td>
+    <td>
+The IM is analogous to the Ethereum Naming Service, which keeps the following records:
+<ul>
+	<li>Registry of all users of the protocol and links to user’s external personal data providers, e.g. hash with a document copy or IPFS link 
+</li>
+	<li>List of all created AFOs
+</li>
+	<li>List of all AFO members
+</li>
+</ul>
+</td> 
+</tr>
+<tr>
+   <td>
+Guilds (Association of AFOs)</td>
+    <td>
+Guilds are  self-governing structures formed by  AFOs as members. Within the Akropolis network, Guilds can be described as something similar to Chambers Of Trade, Business associations or Self-regulated organizations.
+</td> </tr>
+<tr>
+   <td>
+Basic network variables and definitions
+</td>
+    <td>
+Stability fee - a reward for Network Keepers for staking in favor of "honest" Guilds (whose members repay debts diligently). This reward is charged as part of the interest rate of a loan. <br/>
+Penalty fee - a penalty, applied in situations of debt default of at least one Guild member to the stakes in their favor. All stakes are equally penalized for a certain percentage of tokens for every default event.
+<br/>
+Infra-network interest rate - the maximum value of an interest rate that can be applied to a loan.
+<br/>
+Governance fee - the percentage of a debt that is required to be paid in AKT tokens which are burned thereafter. Similar to MKR in MakerDAO.
+<br/>
+Staking  - AKT tokens placed as a risky deposit (commonly known as skin in the game) on a specific smart contract with purpose to perform the “selection” of honest Guilds by collective risk assessment. If the Guild members repay their debt diligently, the person who made a stake receives a reward in the form of a stability fee and, during the growth process additional rewards in AKT tokens.
+<br/>
+Growth Fund - storage (smart-contract) for AKT tokens that are used for rewarding Network Keepers during the network bootstrapping process</td> </tr>
+ </table>
