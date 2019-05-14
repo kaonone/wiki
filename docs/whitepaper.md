@@ -647,6 +647,7 @@ Any AKT token holder can stake his tokens on behalf of any Guild they trusts, fo
 
 
 <table style="width:100%">
+	<tr><th></th><th></th></tr>
   <tr>
     <td>
 Token Type
