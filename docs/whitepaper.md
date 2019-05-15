@@ -622,7 +622,10 @@ The mechanics of a staking process are described below. We used the approach dev
 
 * Each Guild cannot borrow more funds than defined by its share in community trust (staking). A Guild cannot borrow a higher share of the funds from the overall supply in recent N periods than its staking share. This principle works according to this formula:
 
-<img src="/images/whitepaper/formula.png" width="150" align="middle" />
+<p align="middle">
+	<img src="/images/whitepaper/formula.png" width="150"  />
+</p>
+
 
 So, If the possibility of taking a loan worth &Delta; for i-th Guild is under consideration, the staking system verifies that if a loan is taken, the equation will be true, meaning that a share of this Guild in a loan-taking process is not exceeding its staking share. The &Sigma;L is referred to all loans during the N periods, including partially or completely repaid ones.
 
