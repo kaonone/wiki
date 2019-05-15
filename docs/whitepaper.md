@@ -2,9 +2,9 @@
 
 ## **Introduction**
 
-Financial systems have existed since the beginning of civilization. Over time, they have undergone a vast number of transformations, changing the formats and principles of interaction. However, the essence of Financial Systems has always prevailed - helping people realize their needs. Financial systems started as informal savings and lending groups, and evolved into co-operatives, mutual insurances, and co-operative banks, which became the commercial and retail banks that we know today through centuries of growth, mergers, and acquisitions. The current legacy system has become [opaque, inefficient](https://www.treasurydirect.gov/govt/reports/pd/pd_debttothepenny.htm), and [too big to fail](http://www.agefi.fr/sites/agefi.fr/files/fichiers/2016/03/citi_retraite_hors_bilan_21_mars_1.pdf). The fintech revolution aims to correct these failures by disrupting the financial market and creating new, community-focused models. 
+Financial systems have existed since the beginning of civilization. Over time, they have undergone a vast number of transformations, changing the formats and principles of interaction. However, the essence of Financial Systems has always prevailed - helping people realize their needs. Financial systems started as informal savings and lending groups and evolved into co-operatives, mutual insurances, and co-operative banks, which became the commercial and retail banks that we know today through centuries of growth, mergers, and acquisitions. The current legacy system has become [opaque, inefficient](https://www.treasurydirect.gov/govt/reports/pd/pd_debttothepenny.htm), and [too big to fail](http://www.agefi.fr/sites/agefi.fr/files/fichiers/2016/03/citi_retraite_hors_bilan_21_mars_1.pdf). The fintech revolution aims to correct these failures by disrupting the financial market and creating new, community-focused models. 
 
-Akropolis is a financial protocol for the [growing billion-dollar informal economy](https://s3-eu-central-1.amazonaws.com/fsd-circle/wp-content/uploads/2016/02/30093031/The-2016-FinAccess-household-survey-report4.pdf ). Autonomous Financial Organizations have existed for centuries. They are common throughout the world, whether as rotating savings and credit associations (ROSCAs), or co-operatives. Through rigorous research, we have found that Kenyan Chamas –saving circles – are the most profitable informal financial organizations. Chamas register US$4bn in savings annually, and the overall informal economy contributes more than 47% of Kenya’s GDP. However, due to the nature of their informality, these organizations are oftentimes subject to fraud, fund mismanagement, and corruption.
+Akropolis is a financial protocol for the [growing billion-dollar informal economy](https://s3-eu-central-1.amazonaws.com/fsd-circle/wp-content/uploads/2016/02/30093031/The-2016-FinAccess-household-survey-report4.pdf ). Autonomous Financial Organizations have existed for centuries. They are common throughout the world, whether as rotating savings and credit associations (ROSCAs), or co-operatives. Through rigorous research, we have found that Kenyan Chamas –saving circles – are the most profitable informal financial organizations. Chamas register US$4bn in savings annually and the overall informal economy contributes more than 47% of Kenya’s GDP. However, due to the nature of their informality, these organizations are oftentimes subject to fraud, fund mismanagement, and corruption.
 
 We believe that the future of finance belongs to user-owned - but not necessarily user-governed - networks. Our thesis proposes that banks and other financial corporations will be replaced by a federated network of autonomous co-ops, each of which will act in the interests of its owners and interact with other parties in a single digital financial landscape. The Akropolis protocol aims to create this new digital financial landscape by providing a unified program interface for the cooperation and exchange of value of digital financial organizations. 
 
@@ -54,7 +54,7 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 
 * Scaling potential to co-operative bank model
 
-* User incentives to grow the network, lower the cost of use, and speed up the delivery of services
+* User incentives to grow the network, lower the cost of use and speed up the delivery of services
 
 * Full funds ownerships in a trustless way: funds are stored in an on-chain ledger where only verified users with permissions have access to them
 
@@ -90,7 +90,7 @@ Each type has a unique set of goals detailed below:
     <th>Incentives/Interaction with AKT tokens</th>
   </tr>
   <tr>
-    <td>End user</td>
+    <td>End-user</td>
     <td>
     	<ul>
     		<li>
@@ -155,7 +155,7 @@ The above increases the volume of staked tokens in the system, thus reducing the
     <td>
     	<ul>
     		<li>
-Incentivized to run all internal processes properly - otherwise members can easily leave if they do not have any obligations or debts with the group.
+Incentivized to run all internal processes properly - otherwise, members can easily leave if they do not have any obligations or debts with the group.
     		</li>
     		<li>
 Private AFOs do not participate in the network, therefore not requiring tokens
@@ -209,7 +209,7 @@ Earn additional rewards in tokens from a Growth Fund
 Staking and governance functions are  enabled by holding the token which provides both an incentive and skin in the game to facilitate sustainable network growth.
     		</li>
     		<li>
-Network keepers act as underwriters of Guilds’ default risk. They get  rewards for correct default risk predictions through a % of the Capital Provider income from a specific Guild. In some cases - additional rewards (AKT tokens from Growth Fund). The idea is to to support the network’s bootstrapping at its early stages of operation by awarding additional tokens to the stakers. This approach proved its efficiency to engage token holders stake their tokens in well-known Livepeer project.
+Network keepers act as underwriters of Guilds’ default risk. They get  rewards for correct default risk predictions through a % of the Capital Provider income from a specific Guild. In some cases - additional rewards (AKT tokens from Growth Fund). The idea is to support the network’s bootstrapping at its early stages of operation by awarding additional tokens to the stakers. This approach proved its efficiency to engage token holders to stake their tokens in well-known Livepeer project.
     		</li>
     		<li>
 Their stake is partially burnt if one Guild member defaults on debt
@@ -249,7 +249,7 @@ The architecture of our protocol, as a TCP/IP construction, is structured in sev
 
 More details about the functionality of each level will be described in the following sections. 
 
-Each level has its own API for interacting with other layers or for interacting with applications built on our protocol and third party solutions. 
+Each level has its own API for interacting with other layers or for interacting with applications built on our protocol and third-party solutions. 
 
 Cross-functionality between AFOs will initially be limited to basic exchanges of value.
 
@@ -529,7 +529,7 @@ Our system design does not require an internal stabilisation mechanism, but rath
 
 The main variables to govern are listed below:
 
-* Stability fee, astaker’s reward
+* Stability fee, staker’s reward
 
 * Penalty fee, the penalty applied to a stake in case of dishonest behaviour of a Guild
 Intra-network interest rate, the maximum interest rate that can be applied to a loan in the network
@@ -538,7 +538,7 @@ Intra-network interest rate, the maximum interest rate that can be applied to a 
 
 **Actors incentivization**
 
-The network keepers are interested in high stability fees (giving them higher profits) and low penalty fees (which would reduce their risk). The Guilds (AFOs) are interested mostly in low interest rates, but also high stability fees and low penalty fees, as in this case, if they stake tokens in favor of themselves, they receive a significant discount on an interest rate of a loan at low risk. (. The capital providers are interested in low stability fees (as this leads to higher profits) and high penalty fees (as this would incentivize an increase in the quality of AFO selection by token holders). Thus, these three main network actors have at least two opposite sides in terms of values within the ecosystem variables. Because of their opposing views, all three types of agents in the network have a strong incentive to participate in governance and attempt to influence network parameters in their favor. They can be assured that other agents will act against their interests if they do not.
+The network keepers are interested in high stability fees (giving them higher profits) and low penalty fees (which would reduce their risk). The Guilds (AFOs) are interested mostly in low-interest rates, but also high stability fees and low penalty fees, as in this case, if they stake tokens in favor of themselves, they receive a significant discount on an interest rate of a loan at low risk. (. The capital providers are interested in low stability fees (as this leads to higher profits) and high penalty fees (as this would incentivize an increase in the quality of AFO selection by token holders). Thus, these three main network actors have at least two opposite sides in terms of values within the ecosystem variables. Because of their opposing views, all three types of agents in the network have a strong incentive to participate in governance and attempt to influence network parameters in their favor. They can be assured that other agents will act against their interests if they do not.
 
 The different stakeholders have the following incentives for network parameters:
 
@@ -548,7 +548,7 @@ The different stakeholders have the following incentives for network parameters:
     <th>Stakeholder</th>
     <th>Stability fees</th> 
     <th>Penalty fees</th>
-    <th>Interest rates, controlled trrough infra-network rate</th>
+    <th>Interest rates, controlled through infra-network rate</th>
   </tr>
   <tr>
     <td>
@@ -586,7 +586,7 @@ Capital providers
 Low, for higher profits
 </td> 
     <td>
-High, because trat would incentivize more rigorous risk assessments
+High, because that would incentivize more rigorous risk assessments
 </td>
     <td>
 High, for higher profits
@@ -643,7 +643,7 @@ This rule is applied only if N periods have passed. If the system is just launch
 
 The first token function is a collective selection of trustworthy AFOs via staking in favor of AFO associations, Guilds. An AFOs within-network debt creation is based on the C2FC concept that was described above. The issuance of C2FCs by AFOs is initially limited and depends only on community trust (or number of tokens, staked in favor of their Guild).
 
-Any AKT token holder can stake his tokens on behalf of any Guild they trusts, for example, as a result of a careful examination of a Guild’s financial flows and history. The amount of debt that can be issued by a Guild is limited by its share in overall staked tokens, which are equivalent to its community trust. The possibility to work with loans attracted by the Guild is managed inside it, the most obvious approach being to select AFOs by their stakes in favor of this Guild and taking into account its financial history. Whichever method of internal loan management they choose, the responsibility for loan repayment pertains to the Guild as a collective.
+Any AKT token holder can stake his tokens on behalf of any Guild they trust, for example, as a result of a careful examination of a Guild’s financial flows and history. The amount of debt that can be issued by a Guild is limited by its share in overall staked tokens, which are equivalent to its community trust. The possibility to work with loans attracted by the Guild is managed inside it, the most obvious approach being to select AFOs by their stakes in favor of this Guild and taking into account its financial history. Whichever method of internal loan management they choose, the responsibility for loan repayment pertains to the Guild as a collective.
 
 
 ## **Token Model (AKT)**
@@ -863,7 +863,7 @@ The token functionality and use is modeled using the Livepeer and MakerDAO frame
 
 * Attacks against the decentralized components (smart contracts etc.)
 
-* Failure of centralized infrastructure such as crypto-fiat conversion apps or native mobile apps.
+* Failure of centralized infrastructures such as crypto-fiat conversion apps or native mobile apps.
 
 * Competition with other credit services and organizations, especially informal ones in the areas of operation
 
@@ -872,7 +872,7 @@ The token functionality and use is modeled using the Livepeer and MakerDAO frame
 
 **Risks, connected with implementation of the AKT token model**
 
-* The collection of a majority of tokens by one of the three stakeholder groups (Guilds/AFOs, Network Keepers, Capital Providers), whichwill lead to a non-balanced governance strategy
+* The collection of a majority of tokens by one of the three stakeholder groups (Guilds/AFOs, Network Keepers, Capital Providers), which will lead to a non-balanced governance strategy
 
 * High risks of fraudulent behavior by Guilds/AFOs at the initial stage of network growth, connected to the low volume of stakes and reputation
 
@@ -890,7 +890,7 @@ The token functionality and use is modeled using the Livepeer and MakerDAO frame
 
 * Malefactors could create fraudulent AFOs and Guilds. These structures can act to undertake activities such as intentional loan default. The Community trust staking mechanics is one of the main protection measures for such attacks.
 
-* Spam attacks - the creation a lot of AFOs/Guilds for malicious means. One of the solutions is to freeze a certain amount on tokens for AFO/Guild creation and prevent their withdrawal until the created organization is recognized as honest according to the specific criteria of their members’ activity.
+* Spam attacks - the creation of a lot of AFOs/Guilds for malicious means. One of the solutions is to freeze a certain amount on tokens for AFO/Guild creation and prevent their withdrawal until the created organization is recognized as honest according to the specific criteria of their members’ activity.
 
 **51% attack**
 
@@ -922,7 +922,7 @@ Autonomous financial organisations are self-sovereign digital member-owned organ
 C2FC (Commitments to Future Cash Flows)
 </td>
     <td>
-A financial primitive that represents the digital right to operate with future cash flows expected to arrive in any form to any Ethereum address (this could be implemented in any blockchain) within a given time frame. Simply put, it looks like a relay: a C2FC issuer must receive payment within this specified period, but those payments are fully or partially forwarded to the C2FC token holder’s address. Therefore, the future cash flows of any individual, company or service takes the form of a measurable digital unit that can be easily exchanged, traded or used as collateral.
+A financial primitive that represents the digital right to operate with future cash flows expected to arrive in any form to any Ethereum address (this could be implemented in any blockchain) within a given time frame. Simply put, it looks like a relay: a C2FC issuer must receive payment within this specified period, but those payments are fully or partially forwarded to the C2FC token holder’s address. Therefore, the future cash flows of any individual, company or service take the form of a measurable digital unit that can be easily exchanged, traded or used as collateral.
 </td> 
   </tr>
  <tr>
@@ -930,8 +930,8 @@ A financial primitive that represents the digital right to operate with future c
 Governance Framework
 </td>
     <td>
-Autonomous financial organisations work as decentralised autonomous organisations. The governance inside each AFO is different from a protocol governance: only AFO members are able to make decisions . There is no need for every autonomous financial organisation to have a token of its own. <br/>
-The governance Framework provides decision-making support for Autonomous Financial Organisations. The core Governance API supports a number of base level commands, like the registration of a new Autonomous Financial Organisation, making changes to its constitution, or allowing new members in. 
+Autonomous financial organisations work as decentralised autonomous organisations. The governance inside each AFO is different from protocol governance: only AFO members are able to make decisions. There is no need for every autonomous financial organisation to have a token of its own. <br/>
+The Governance Framework provides decision-making support for Autonomous Financial Organisations. The core Governance API supports a number of base level commands, like the registration of a new Autonomous Financial Organisation, making changes to its constitution, or allowing new members in. 
 </td> 
   </tr>
  <tr>
