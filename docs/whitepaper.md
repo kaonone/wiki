@@ -979,57 +979,57 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 ## **References**
 
-[1] [https://www.treasurydirect.gov/govt/reports/pd/pd_debttothepenny.htm](https://www.treasurydirect.gov/govt/reports/pd/pd_debttothepenny.htm)
+[1] [TresuaryDirect. The data on total public debt outstanding 1993-2019.](https://www.treasurydirect.gov/govt/reports/pd/pd_debttothepenny.htm)
 
 [2] [The coming pension crisis. Citi GPS: Global Perspectives & Solutions, 2016](http://www.agefi.fr/sites/agefi.fr/files/fichiers/2016/03/citi_retraite_hors_bilan_21_mars_1.pdf)
 
-[3] [2016 FinAccess Household Survey, 2016](https://s3-eu-central-1.amazonaws.com/fsd-circle/wp-content/uploads/2016/02/30093031/The-2016-FinAccess-household-survey-report4.pdf)
+[3] [FinAccess Household Survey, 2016](https://s3-eu-central-1.amazonaws.com/fsd-circle/wp-content/uploads/2016/02/30093031/The-2016-FinAccess-household-survey-report4.pdf)
 
 [4] [https://en.wikipedia.org/wiki/Turing_completeness](https://en.wikipedia.org/wiki/Turing_completeness)
 
-[5] [https://medium.com/outlier-ventures-io/incentive-analysis-arbitrage-market-maker-keepers-in-makerdao-20b3e2fd12db](https://medium.com/outlier-ventures-io/incentive-analysis-arbitrage-market-maker-keepers-in-makerdao-20b3e2fd12db)
+[5] [Eden Dhaliwal & Geoff Lefevre. Incentive Analysis: Arbitrage & Market Maker Keepers in MakerDAO, 2018](https://medium.com/outlier-ventures-io/incentive-analysis-arbitrage-market-maker-keepers-in-makerdao-20b3e2fd12db)
 
 [6] [https://en.wikipedia.org/wiki/Chamber_of_commerce](https://en.wikipedia.org/wiki/Chamber_of_commerce)
 
-[7] [SRO in Swiss jurisdiction](https://www.finma.ch/en/authorisation/self-regulatory-organisations-sros/)
+[7] [FINMA Switzerland. Self-regulatory organisations (SROs)](https://www.finma.ch/en/authorisation/self-regulatory-organisations-sros/)
 
-[8] [https://docs.ens.domains/](https://docs.ens.domains/)
+[8] [Ethereum Name Service. ENS Documentation](https://docs.ens.domains/)
 
-[9] [https://docs.ipfs.io/](https://docs.ipfs.io/)
+[9] [InterPlanetary File System. IPFS Documentation](https://docs.ipfs.io/)
 
-[10] [https://z.cash/technology/zksnarks/](https://z.cash/technology/zksnarks/)
+[10] [Z-Cash. What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
 
-[11] [https://eprint.iacr.org/2018/046.pdf](https://eprint.iacr.org/2018/046.pdf)
+[11] [Eli Ben-Sasson, Iddo Bentov, Yinon Horesh, Michael Riabzev. Scalable, transparent, and post-quantum secure computational integrity, 2018.](https://eprint.iacr.org/2018/046.pdf)
 
-[12] [https://www.nucypher.com/](https://www.nucypher.com/)
+[12] [NuCypher](https://www.nucypher.com/)
 
-[13] [https://github.com/ethereum/EIPs/pull/1337](https://github.com/ethereum/EIPs/pull/1337)
+[13] [Gitcoin. ERC 948, EIP 1337 - Subscriptions on the blockchain](https://github.com/ethereum/EIPs/pull/1337)
 
-[14] [https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1620.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1620.md)
+[14] [Paul Berg. ERC-1620 Money Streaming](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1620.md)
 
-[15] [https://www.investopedia.com/terms/l/libor.asp](https://www.investopedia.com/terms/l/libor.asp)
+[15] [Julia Kagan. LIBOR review, 2019](https://www.investopedia.com/terms/l/libor.asp)
 
-[16] [https://www.theblockcrypto.com/2019/04/11/introducing-dipor-libor-for-open-finance/](https://www.theblockcrypto.com/2019/04/11/introducing-dipor-libor-for-open-finance/)
+[16] [Matteo Leibowitz. Introducing DIPOR: LIBOR for Open Finance, 2019](https://www.theblockcrypto.com/2019/04/11/introducing-dipor-libor-for-open-finance/)
 
-[17] [https://makerdao.com/whitepaper/](https://makerdao.com/whitepaper/)
+[17] [MakerDAO. The Dai Stablecoin System, 2017](https://makerdao.com/whitepaper/)
 
-[18] [https://github.com/livepeer/wiki/wiki/Delegating](https://github.com/livepeer/wiki/wiki/Delegating)
+[18] [Eric Tang. Delegating, 2018](https://github.com/livepeer/wiki/wiki/Delegating)
 
-[19] [https://www.placeholder.vc/blog/2019/4/9/defi-liquidity-models](https://www.placeholder.vc/blog/2019/4/9/defi-liquidity-models)
+[19] [Alex Evans. DeFi Liquidity Models, 2019](https://www.placeholder.vc/blog/2019/4/9/defi-liquidity-models)
 
-[20] [https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis)
+[20] [Joel Monegro, Chris Burniske. Maker Investment Thesis, 2019](https://www.placeholder.vc/blog/2019/1/23/maker-investment-thesis)
 
-[21] [https://blog.coinfund.io/livepeer-cryptoeconomics-as-a-case-study-of-active-participation-in-decentralized-networks-19a932415e0e](https://blog.coinfund.io/livepeer-cryptoeconomics-as-a-case-study-of-active-participation-in-decentralized-networks-19a932415e0e)
+[21] [Jake Brukhman, Devin Walsh. Livepeer cryptoeconomics as a case study of active participation in decentralized networks, 2018](https://blog.coinfund.io/livepeer-cryptoeconomics-as-a-case-study-of-active-participation-in-decentralized-networks-19a932415e0e)
 
-[22] [https://outlierventures.io/research/designing-for-user-focused-incentives-using-a-token-utility-canvas/](https://outlierventures.io/research/designing-for-user-focused-incentives-using-a-token-utility-canvas/)
+[22] [Geoff Lefevre. Designing for user focused incentives using a Token utility canvas, 2019](https://outlierventures.io/research/designing-for-user-focused-incentives-using-a-token-utility-canvas/)
 
-[23] [https://www.augur.net/faq/#what-is-reputation](https://www.augur.net/faq/#what-is-reputation)
+[23] [Augur Protocol. FAQ - What is reputation?](https://www.augur.net/faq/#what-is-reputation)
 
-[24] [https://numer.ai/whitepaper.pdf](https://numer.ai/whitepaper.pdf)
+[24] [Richard Craib, Geo↵rey Bradway, Xander Dunn, Joey Krug. Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting, 2017](https://numer.ai/whitepaper.pdf)
 
-[25] [https://oceanprotocol.com/](https://oceanprotocol.com/)
+[25] [Ocean Protocol](https://oceanprotocol.com/)
 
-[26] [https://fetch.ai/](https://fetch.ai/)
+[26] [Fetch](https://fetch.ai/)
 
 [27] [https://en.wikipedia.org/wiki/Voter_apathy](https://en.wikipedia.org/wiki/Voter_apathy)
 
@@ -1037,4 +1037,4 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [29] [https://en.wikipedia.org/wiki/Guild](https://en.wikipedia.org/wiki/Guild)
 
-[30] [https://www.aeaweb.org/articles?id=10.1257/jep.28.4.169](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.169)
+[30] [Sheilagh Ogilvie. The Economics of Guilds, 2014](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.169)
