@@ -1025,7 +1025,7 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [23] [Augur Protocol. FAQ - What is reputation?](https://www.augur.net/faq/#what-is-reputation)
 
-[24] [Richard Craib, Geo↵rey Bradway, Xander Dunn, Joey Krug. Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting, 2017](https://numer.ai/whitepaper.pdf)
+[24] [Richard Craib, Geoffrey Bradway, Xander Dunn, Joey Krug. Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting, 2017](https://numer.ai/whitepaper.pdf)
 
 [25] [Ocean Protocol](https://oceanprotocol.com/)
 
