@@ -906,7 +906,7 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [18] [MakerDAO. The Dai Stablecoin System, 2017](https://makerdao.com/whitepaper/)
 
-[19] [Eric Tang. Delegating, 2018](https://github.com/livepeer/wiki/wiki/Delegating)
+[19] [Eric Tang. Livepeer Delegating, 2018](https://github.com/livepeer/wiki/wiki/Delegating)
 
 [20] [Alex Evans. DeFi Liquidity Models, 2019](https://www.placeholder.vc/blog/2019/4/9/defi-liquidity-models)
 
