@@ -880,7 +880,7 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [5] [Eden Dhaliwal & Geoff Lefevre. Incentive Analysis: Arbitrage & Market Maker Keepers in MakerDAO, 2018](https://medium.com/outlier-ventures-io/incentive-analysis-arbitrage-market-maker-keepers-in-makerdao-20b3e2fd12db)
 
-[6] https://en.wikipedia.org/wiki/Chamber_of_commerce](https://en.wikipedia.org/wiki/Chamber_of_commerce)
+[6] [https://en.wikipedia.org/wiki/Chamber_of_commerce](https://en.wikipedia.org/wiki/Chamber_of_commerce)
 
 [7] [FINMA Switzerland. Self-regulatory organisations (SROs)](https://www.finma.ch/en/authorisation/self-regulatory-organisations-sros/)
 
