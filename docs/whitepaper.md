@@ -930,7 +930,7 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [31] [Sardex](https://www.sardex.net/)
 
-[32] [WIR Bank]https://www.wir.ch/
+[32] [WIR Bank](https://www.wir.ch/)
 
 [33] [https://en.wikipedia.org/wiki/Voter_apathy](https://en.wikipedia.org/wiki/Voter_apathy)
 
