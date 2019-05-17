@@ -916,7 +916,7 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [23] [Geoff Lefevre. Designing for user focused incentives using a Token utility canvas, 2019](https://outlierventures.io/research/designing-for-user-focused-incentives-using-a-token-utility-canvas/)
 
-[24] [Augur Protocol. FAQ - What is reputation?](https://www.augur.net/faq/#what-is-reputation)
+[24] [Augur Protocol. Whitepaper, 2018](https://www.augur.net/whitepaper.pdf)
 
 [25] [Richard Craib, Geoffrey Bradway, Xander Dunn, Joey Krug. Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting, 2017](https://numer.ai/whitepaper.pdf)
 
