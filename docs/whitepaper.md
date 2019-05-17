@@ -8,7 +8,6 @@ Akropolis is a financial protocol for the growing billion-dollar informal econom
 
 We believe that the future of finance belongs to user-owned - but not necessarily user-governed - networks. Our thesis proposes that banks and other financial corporations will be replaced by a federated network of autonomous co-ops, each of which will act in the interests of its owners and interact with other parties in a single digital financial landscape. The Akropolis protocol aims to create this new digital financial landscape by providing a unified program interface for the cooperation and exchange of value of digital financial organizations. 
 
-
 ## **Overview**
 
 ### **What is Akropolis?**
@@ -595,7 +594,6 @@ High, for higher profits
  </table>
 
 
-
  Additionally, Guilds are incentivized to attract reliable members that repay debts adequately, as timely repayments lead to a better reputation and higher level of community trust. Higher community trust, expressed in stakes for the Guild, therefore decreases the cost to access new capital for the Guild. Along with this, Guilds are interested in holding tokens and staking them in favor of themselves to receive an additional deduction from the interest rate of a loan, and in participation in governance to have an influence on network parameters.
 
 Meanwhile, Network Keepers are incentivized to participate in honest Guild selection as it leads to receiving profits and to make the best assessment of the Guilds’ credibility as possible. Besides this, they have to hold as many tokens as they can to have a voice in the governance process, because the stability and penalty fee values are critical for their business.
@@ -608,7 +606,6 @@ Our incentive analysis demonstrates that all main actors presented in the ecosys
 *This model was inspired by the MakerDAO (MKR) token model [18].* 
 
 ## **Network Internal Economy**
-
 
 **Staking Mechanism**
 
@@ -629,15 +626,11 @@ The mechanics of a staking process are described below. We used the approach dev
 
 So, If the possibility of taking a loan worth &Delta; for i-th Guild is under consideration, the staking system verifies that if a loan is taken, the equation will be true, meaning that a share of this Guild in a loan-taking process is not exceeding its staking share. The &Sigma;L is referred to all loans during the N periods, including partially or completely repaid ones.
 
-
 This rule is applied only if N periods have passed. If the system is just launched and N periods have not yet passed, the system will wait for a collection of loan-related statistics, and only after this, the application the mentioned limitation will occur. During the initial period, the lenders have to take into account not only the tokens staked in favor of each Guild, but also the Guild’s reputation and payment history as the leading indicators for their decision-making. 
-
 
 * As all community stakes – including stakes from AFOs that are members of a specific Guild – are placed for a defined period, it is easy to create a graph for every Guild that will indicate a number of staked tokens vs. time in periods. This is important as loans are processes spread over time, so the lender needs to see how many tokens will still be staked for a Guild after some time because it is the Guild’s reliability indicator.
 
-
 * In case of default on debt, the stake in favor of the Guild is penalized according to the established penalty fee.
-
 
 **Collective determination of trustworthy AFOs**
 
@@ -645,9 +638,7 @@ The first token function is a collective selection of trustworthy AFOs via staki
 
 Any AKT token holder can stake his tokens on behalf of any Guild they trust, for example, as a result of a careful examination of a Guild’s financial flows and history. The amount of debt that can be issued by a Guild is limited by its share in overall staked tokens, which are equivalent to its community trust. The possibility to work with loans attracted by the Guild is managed inside it, the most obvious approach being to select AFOs by their stakes in favor of this Guild and taking into account its financial history. Whichever method of internal loan management they choose, the responsibility for loan repayment pertains to the Guild as a collective.
 
-
 ## **Token Model (AKT)**
-
 
 <table style="width:100%">
 	<tr><th></th><th></th></tr>
@@ -688,119 +679,6 @@ Curated supply of community-vetted borrowers and incentivized external lenders b
 *We are using a similar governance approach.
 
 ** We don’t have token inflation as in the Livepeer protocol, but we have similar mechanics to delegate stakes in favor of network actors and allow them to perform actions in the network. Our actors are rewarded in AKT for their staking activity from the Growth Fund.
-
-**Token Allocation**
-<table style="width:100%">
-  <tr>
-    <th>
-Allocation Group
-</th>
-    <th>
-Allocation %
-</th> 
-  </tr>
-  <tr>
-    <td>
-Total for sale
-</td>
-    <td>
-29%
-</td> 
-  </tr>
-  <tr>
-    <td>
-TEAM
-</td>
-    <td>
-17%
-</td> 
-  </tr>
-  <tr>
-    <td>
-Advisors
-</td>
-    <td>
-5%
-</td> 
-  </tr>
-   <tr>
-    <td>
-Bounty, including bug bounty
-</td>
-    <td>
-5%
-</td> 
-  </tr>
-    <tr>
-    <td>
-Marketing, Community, User Acquisition
-</td>
-    <td>
-14%
-</td> 
-  </tr>
-   <tr>
-    <td>
-Foundation (Network Growth)
-</td>
-    <td>
-30%
-</td> 
-  </tr>
- </table>
-
-
-**Use of Proceeds**
-<table style="width:100%">
-  <tr>
-    <th>
-Funding Use
-</th>
-    <th>
-Percent of Proceeds
-</th> 
-  </tr>
-  <tr>
-    <td>
-Product Development
-</td>
-    <td>
-53%
-</td> 
-  </tr>
-  <tr>
-    <td>
-R&D
-</td>
-    <td>
-5%
-</td> 
-  </tr>
-  <tr>
-    <td>
-Marketing & User Acquisition
-</td>
-    <td>
-30%
-</td> 
-  </tr>
-   <tr>
-    <td>
-Operations
-</td>
-    <td>
-5%
-</td> 
-  </tr>
-    <tr>
-    <td>
-Legal
-</td>
-    <td>
-7%
-</td> 
-  </tr>
- </table>
 
 **Token Design Principles**
 
@@ -910,9 +788,8 @@ Our generalised approach will initially focus on informal co-operatives and dias
 
 * In the Akropolis ecosystem, the term “51% attack” refers to an attack on governance processes by a conspiracy of >50% of active token holders (or the collection of this number of tokens by one small group). In this case, the attackers can establish variables of economic parameters serving only their own interests, which could destroy sustainable network operation. There are two protection measures: 
 
-* The economic rationality of the attackers 
-	* if they destroy the network, they will ultimately lose the value of the tokens 
-	* Initial token distribution to stakeholders that are interested in network growth. The more significant Akropolis’ capitalization becomes, the more complex and expensive such an attack will be.
+	* The economic rationality of the attackers - if they destroy the network, they will ultimately lose the value of the tokens 
+	* Initial token distribution to stakeholders that are interested in network growth. The more significant Akropolis’ 		  	    capitalization becomes, the more complex and expensive such an attack will be.
 
 ## **Roadmap**
 
@@ -1017,7 +894,7 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [12] [Eli Ben-Sasson, Iddo Bentov, Yinon Horesh, Michael Riabzev. Scalable, transparent, and post-quantum secure computational integrity, 2018.](https://eprint.iacr.org/2018/046.pdf)
 
-[13] [NuCypher](https://www.nucypher.com/)
+[13] [NuCypher. Whitepaper, 2018](https://www.nucypher.com/static/whitepapers/english.pdf)
 
 [14] [Gitcoin. ERC 948, EIP 1337 - Subscriptions on the blockchain](https://github.com/ethereum/EIPs/pull/1337)
 
@@ -1043,9 +920,9 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [25] [Richard Craib, Geo↵rey Bradway, Xander Dunn, Joey Krug. Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting, 2017](https://numer.ai/whitepaper.pdf)
 
-[26] [Ocean Protocol Whitepaper, 2019](https://oceanprotocol.com/tech-whitepaper.pdf/)
+[26] [Ocean Protocol. Whitepaper, 2019](https://oceanprotocol.com/tech-whitepaper.pdf/)
 
-[27] [Fetch Whitepaper, 2019](https://fetch.ai/uploads/technical-introduction.pdf)
+[27] [Fetch. Whitepaper, 2019](https://fetch.ai/uploads/technical-introduction.pdf)
 
 [29] [https://en.wikipedia.org/wiki/Broodfonds](https://en.wikipedia.org/wiki/Broodfonds)
 
@@ -1059,7 +936,7 @@ Growth Fund - storage (smart-contract) for AKT tokens that are used for rewardin
 
 [34] [https://en.wikipedia.org/wiki/Sybil_attack](https://en.wikipedia.org/wiki/Sybil_attack)
 
-[35] [Akropolis C2FC](https://github.com/akropolisio/c2fc-specs)
+[35] [Akropolis. C2FC](https://github.com/akropolisio/c2fc-specs)
 
 [36] [https://en.wikipedia.org/wiki/Guild](https://en.wikipedia.org/wiki/Guild)
 
