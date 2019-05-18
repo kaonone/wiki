@@ -1,153 +1,215 @@
 # Point system
 
-### In this quest, we introduce the point system:
-
-</br>
-
-**1 point is 100 AKT token**
-
-**1 AKT = 0.01 USD**
-
-</br>
-
-1. 	Points can be converted to AKT tokens after a certain threshold. E.g., if **$1 = 1 point**, one will **need at least 150 points to convert them** to AKT.
-
-2. 	Points can be converted to other bonuses, like merch or a visit to meetup, or a certificate, or save them for future community activities (if they don&#39;t meet the threshold of 	150 points)
-
-</br>
-
-### Max fund for quest is 100,000$ in tokens + 20 ETH
-
-</br>
-
-**8 rounds** - 7,5k$ for each round (for winners) - 60k$ total - 60k points
-
-_1st - 700$_ - 70,000 AKT - 700 points
-
-_2nd - 600$_ - 60,000 AKT - 600 points
-
-_3rd - 500$_ - 50,000 AKT - 500 points
-
-_4th - 400$_ - 40,000 AKT - 400 points
-
-_5th - 300$_ - 30,000 AKT - 300 points
-
-_6-10th - 200$ each (2k total)_ - 200,000 AKT - 2000 points - 200 points each
-
-_11-20th - 150$ each (2k total)_ - 200,000 AKT - 2000 points - 150 points each
-
-_21-30th - 100$ each (1k total)_ - 100,000 AKT - 1000 points - 100 points each
-
-_31-40th - 50$ each (500$)_ - 50,000 AKT - 500 points - 50 points each
-
-</br>
-
-**8 marketing researches** - 8,000 USD in AKT - 800,000 AKT - 8000 points
-
-_10$ for marketing research per person_ - 10 points each - 1000 AKT each
-
-100 people max for each research
-
-</br>
-
-**Flash quizzes** - 1,000 USD in AKT - 100,000 AKT - 1000 points
-
-7 days in total, 10-14 questions per day max
-
-_10$ per winner_ - 1000 AKT - 10 points
-
-</br>
-
-### 31,000 USD in AKT + 20 ETH for additional activities (3,100,000 AKT + 20 ETH) 31,000 points:
-
-</br>
-
-1\. **Articles** (not some rubbish, but actually good articles connected to round themes and to Akropolis) 2750$ total
-
-_1st place - 500$_
-
-_2nd place - 450$_
-
-_3rd place - 400$_
-
-_4th place - 350$_
-
-_5th place - 300$_
-
-_6th place - 250$_
-
-_7th place - 200$_
-
-_8th place - 150$_
-
-_9th place - 100$_
-
-_10th place - 50$_
-
-</br>
-
-2\. **Video** (again, not some rubbish, but good videos on 5 suggested topics) 4k$ total
-
-_1st place - 1000$_
-
-_2nd place - 900$_
-
-_3rd place - 800$_
-
-_4th place - 700$_
-
-_5th place - 600$_
-
-</br>
-
-3\. **Stickers** - 300$
-
-_1st place - 150$_
-
-_2nd place - 100$_
-
-_3rd place - 50$_
-
-</br>
-
-4\. **GIFs** - 450$
-
-_1st place - 200$_
-
-_2nd place - 150$_
-
-_3rd place - 100$_
-
-</br>
-
-5\. **Quest recaps** - 400$
-
-We will choose the _best recap for each round and give 50$_
-
-</br>
-
-6\. **Feedback form**
-
-Fill in feedback _typeform and receive 10$_ (only for quest participants - ones who at least tried task 1)
-
-</br>
-
-7\. **Task 1 submissions**
-
-We will give _50$ to each really cool submission_ (our own subjective choice)
-
-</br>
-
-**Additional prizes** for helping/being super active/something (at our own discretion)
-
-Can be not only tokens but also some merch, tickets to meetups, AMA etc.
-
-</br>
-
-**Points to bonuses:**
-
-100 points - merch pack
-
-50 points - subscription to something (50$)
-
-10 points - postcard from Akropolis (with love from Kate or Yana or your favorite team member)
+## Community Quest Points &amp; Rewards System
+
+**Points: What are they?**
+
+The Akropolis Community Quest (ACQ) uses a points system to accurately assign rewards to active participants of our community venture. Points are earned for actions you take during the quest (e.g. solving the challenging puzzles, creating amazing content and adding value to the community by other means). These points can later be redeemed for Akropolis tokens, namely AKT, and/or various other rewards of choice. Every ACQ point is worth 100 AKT at any given point in time. A minimum of 150 points is required for successful conversion of ACQ points to AKT. Lesser amounts can only be redeemed for reward (check below for more info!).
+
+**Rewards**
+
+Rewards in ACQ are classified into 3 categories: **Round Rewards** , **Activity Rewards** &amp; **Bonus Rewards**.
+
+**Round Rewards** :
+
+For the third installment of the Akropolis Community Quest, there are a total of **6 rounds** that our community can participate in and avail a chance to win a total of **5,400,000 AKT**. Each round comprises of rewards that amount to **900,000 AKT**. A total of **40 winners** will be awarded in every round. Each winner will be rewarded in points, distributed as follows:
+
+<table class="tg">
+  <tr>
+    <td class="tg-0pky"><b>1st place</b><br></th>
+    <td class="tg-0pky">800 Points</th>
+    <td class="tg-0pky">(<b> 80,000 AKT </b>)</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>2nd place</b></td>
+    <td class="tg-0pky">700 Points</td>
+    <td class="tg-0pky">(<b> 70,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>3rd place</b></td>
+    <td class="tg-0pky">600 Points</td>
+    <td class="tg-0pky">(<b> 60,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>4th place</b></td>
+    <td class="tg-0pky">500 Points</td>
+    <td class="tg-0pky">(<b> 50,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>5th place</b></td>
+    <td class="tg-0pky">400 Points</td>
+    <td class="tg-0pky">(<b> 40,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>6-10th places</b></td>
+    <td class="tg-0pky">300 Points each</td>
+    <td class="tg-0pky">(<b> 30,000 AKT each</b>, <b>150,000 AKT</b> in total )</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky"><b>11-20th places<b/></td>
+    <td class="tg-0pky">200 Points each</td>
+    <td class="tg-0pky">(<b> 20,000 AKT  each</b>, <b>200,000 AKT</b> in total )</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>21-30th places</b></td>
+    <td class="tg-0pky">150 Points each</td>
+    <td class="tg-0pky">(<b> 15,000 AKT each</b>, <b>150,000 AKT</b> in total )</td>
+    </tr>
+  <tr>
+    <td class="tg-0pky"><b>31-40th places</b></td>
+    <td class="tg-0pky">100 Points each</td>
+    <td class="tg-0pky">(<b> 10,000 AKT each</b>, <b>100,000 AKT</b> in total )</td>
+  </tr>
+</table>
+
+**Flash Quizzes** :
+
+Akropolis will conduct quizzes in between rounds where a total of **1000 Points** are up for grabs by those with quick wits about them. Each question carries **10 Points** , there are no negatives for a wrong answer.
+
+In addition to quest completion winnings, points will be awarded to those who participate in **market research** pertaining to the subject of the round. Successful submission of your research will gain you **10 Points (1,000 AKT) each**. No more than 100 researches will be rewarded each round.
+
+**Activity Rewards** :
+
+Participation in the Akropolis Community can be rewarded for more than just playing and winning the quest. Activities carried out by community members leading up to and during the quest will also be awarded. A cumulative of **3,900,000 AKT** is available on the table for those who exhibit their creative flair in the ways described below.
+
+**Articles** : **10** well thought out articles submitted leading up to, during, and after the quest (until a set date) will be rewarded a total of **275,000 AKT** , distributed as follows:
+
+<table class="tg">
+  <tr>
+    <td class="tg-0pky"><b>1st place</b><br></th>
+    <td class="tg-0pky">500 Points</th>
+    <td class="tg-0pky">(<b> 50,000 AKT </b>)</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>2nd place</b></td>
+    <td class="tg-0pky">450 Points</td>
+    <td class="tg-0pky">(<b> 45,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>3rd place</b></td>
+    <td class="tg-0pky">400 Points</td>
+    <td class="tg-0pky">(<b> 40,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>4th place</b></td>
+    <td class="tg-0pky">350 Points</td>
+    <td class="tg-0pky">(<b> 35,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>5th place</b></td>
+    <td class="tg-0pky">300 Points</td>
+    <td class="tg-0pky">(<b> 30,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>6th place</b></td>
+    <td class="tg-0pky">250 Points</td>
+    <td class="tg-0pky">(<b> 25,000 AKT </b>)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky"><b/>7th place<b/></td>
+    <td class="tg-0pky">200 Points</td>
+    <td class="tg-0pky">(<b> 20,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>8th place</b></td>
+    <td class="tg-0pky">150 Points</td>
+    <td class="tg-0pky">(<b> 15,000 AKT </b>)</td>
+    </tr>
+  <tr>
+    <td class="tg-0pky"><b>9th place</b></td>
+    <td class="tg-0pky">100 Points</td>
+    <td class="tg-0pky">(<b> 10,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>10th place</b></td>
+    <td class="tg-0pky">50 Points</td>
+    <td class="tg-0pky">(<b> 5,000 AKT </b>)</td>
+</table>
+
+**Videos** : For those with a flair for video making &amp; editing, **5** submissions of suggested topics will be rewarded a total of **400,000 AKT** , distributed as follows:
+
+<table class="tg">
+  <tr>
+    <td class="tg-0pky"><b>1st place</b><br></th>
+    <td class="tg-0pky">1000 Points</th>
+    <td class="tg-0pky">(<b> 100,000 AKT </b>)</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>2nd place</b></td>
+    <td class="tg-0pky">900 Points</td>
+    <td class="tg-0pky">(<b> 90,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b/>3rd place<b/></td>
+    <td class="tg-0pky">800 Points</td>
+    <td class="tg-0pky">(<b> 80,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>4th place</b></td>
+    <td class="tg-0pky">700 Points</td>
+    <td class="tg-0pky">(<b> 70,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>5th place</b></td>
+    <td class="tg-0pky">600 Points</td>
+    <td class="tg-0pky">(<b> 60,000 AKT </b>)</td>
+  </tr>
+</table>
+
+**Stickers** : Creative expression takes different forms, and stickers are one of the best. **30,000 AKT** will be distributed between **3** people that exhibit the best sticker creation abilities:
+
+<table class="tg">
+  <tr>
+    <td class="tg-0pky"><b>1st place</b><br></th>
+    <td class="tg-0pky">150 Points</th>
+    <td class="tg-0pky">(<b> 15,000 AKT </b>)</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>2nd place</b></td>
+    <td class="tg-0pky">100 Points</td>
+    <td class="tg-0pky">(<b> 10,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>3rd place</b></td>
+    <td class="tg-0pky">50 Points</td>
+    <td class="tg-0pky">(<b> 5,000 AKT </b>)</td>
+</table>
+
+**GIFs** : What better than GIFs to capture mood and expression of the moment? **45,000 AKT** are reserved for those with best submissions in this category:
+
+<table class="tg">
+  <tr>
+    <td class="tg-0pky"><b>1st place</b><br></th>
+    <td class="tg-0pky">200 Points</th>
+    <td class="tg-0pky">(<b> 20,000 AKT </b>)</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>2nd place</b></td>
+    <td class="tg-0pky">150 Points</td>
+    <td class="tg-0pky">(<b> 15,000 AKT </b>)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>3rd place</b></td>
+    <td class="tg-0pky">100 Points</td>
+    <td class="tg-0pky">(<b> 10,000 AKT </b>)</td>
+</table>
+
+**Quest Recaps** : One quest recap article will be rewarded **50 Points** each round with a total reward of **30,000 AKT** to be earned spanning 6 rounds.
+
+**Feedbacks** : Fill a &quot;round feedback&quot; form and receive **10 Points each**. We will give you time to compare rounds - feedback forms will be open for every three rounds. Detailed and helpful submissions are expected: i.e. oversimplified answers like &#39;good round&#39; or &#39;tasks were hard&#39; will not qualify.
+
+**Custom** : **50 Points** will be awarded to those submissions that we find particularly well done for Task 1 of each round.
+
+**Bonus Rewards:**
+
+In addition to the above-mentioned prizes, special goodies will be given to those that show their love and support in our community.
+
+**Find and Decode** : Each round, part of the code will be hidden in some place connected to Akropolis. The first person who will be able to find all pieces and decode the word will be awarded 1000 Points.
+
+**Bonuses &amp; Key Takeaways**
+
+1 ACQ Point = **100 AKT** </br>
+Minimum Redeemable Amount for AKT: **150 ACQ Points** </br>
+100 Points: **Merchandise Pack** </br>
+50 Points: **Subscription to Insider Dev Log** </br>
+10 Points: Postcard with a **hand-written message from your favorite team member** </br>
