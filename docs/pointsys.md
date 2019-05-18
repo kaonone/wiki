@@ -12,8 +12,8 @@ Rewards in ACQ are classified into 3 categories: **Round Rewards** , **Activity 
 
 For the third installment of the Akropolis Community Quest, there are a total of **6 rounds** that our community can participate in and avail a chance to win a total of **5,400,000 AKT**. Each round comprises of rewards that amount to **900,000 AKT**. A total of **40 winners** will be awarded in every round. Each winner will be rewarded in points, distributed as follows:
 
+<style type="text/css">
 <table class="tg">
-<table style="width:100%">
   <tr>
     <td class="tg-0pky"><b>1st place</b><br></th>
     <td class="tg-0pky">800 Points</th>
@@ -73,8 +73,8 @@ Participation in the Akropolis Community can be rewarded for more than just play
 
 **Articles** : **10** well thought out articles submitted leading up to, during, and after the quest (until a set date) will be rewarded a total of **275,000 AKT** , distributed as follows:
 
+<style type="text/css">
 <table class="tg">
-<table style="width:100%">
   <tr>
     <td class="tg-0pky"><b>1st place</b><br></th>
     <td class="tg-0pky">500 Points</th>
@@ -128,8 +128,8 @@ Participation in the Akropolis Community can be rewarded for more than just play
 
 **Videos** : For those with a flair for video making &amp; editing, **5** submissions of suggested topics will be rewarded a total of **400,000 AKT** , distributed as follows:
 
+<style type="text/css">
 <table class="tg">
-<table style="width:100%">
   <tr>
     <td class="tg-0pky"><b>1st place</b><br></th>
     <td class="tg-0pky">1000 Points</th>
@@ -159,8 +159,8 @@ Participation in the Akropolis Community can be rewarded for more than just play
 
 **Stickers** : Creative expression takes different forms, and stickers are one of the best. **30,000 AKT** will be distributed between **3** people that exhibit the best sticker creation abilities:
 
+<style type="text/css">
 <table class="tg">
-<table style="width:100%">
   <tr>
     <td class="tg-0pky"><b>1st place</b><br></th>
     <td class="tg-0pky">150 Points</th>
@@ -179,8 +179,8 @@ Participation in the Akropolis Community can be rewarded for more than just play
 
 **GIFs** : What better than GIFs to capture mood and expression of the moment? **45,000 AKT** are reserved for those with best submissions in this category:
 
+<style type="text/css">
 <table class="tg">
-<table style="width:100%">  
   <tr>
     <td class="tg-0pky"><b>1st place</b><br></th>
     <td class="tg-0pky">200 Points</th>
