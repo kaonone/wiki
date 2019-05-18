@@ -1,6 +1,4 @@
-# Point system
-
-## Community Quest Points &amp; Rewards System
+# Community Quest Points &amp; Rewards System
 
 **Points: What are they?**
 
