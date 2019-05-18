@@ -2,7 +2,7 @@
 
 ## Points: What are they?
 
-The Akropolis Community Quest (ACQ) uses a points system to accurately assign rewards to active participants of our community venture. Points are earned for actions you take during the quest (e.g. solving the challenging puzzles, creating amazing content and adding value to the community by other means). These points can later be redeemed for Akropolis tokens, namely AKT, and/or various other rewards of choice. Every ACQ point is worth 100 AKT at any given point in time. A minimum of 150 points is required for successful conversion of ACQ points to AKT. Lesser amounts can only be redeemed for reward (check below for more info!).
+The Akropolis Community Quest (ACQ) uses a points system to accurately assign rewards to active participants of our community venture. Points are earned for actions you take during the quest (e.g. solving the challenging puzzles, creating amazing content and adding value to the community by other means). These points can later be redeemed for Akropolis tokens, namely AKT, and/or various other rewards of choice. Every ACQ point is worth 100 AKT at any given point in time. A minimum of 150 points is required for successful conversion of ACQ points to AKT. Lesser amounts can only be redeemed for bonuses (check below for more info!).
 
 ## Rewards
 
