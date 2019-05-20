@@ -45,7 +45,7 @@ pages:
     - Contracts: 'contracts.md'
   - Whitepaper: 
     - May 2019: 'whitepaper.md'
-    - March 2018: 'whitepaper_old.md'
+    - March 2018: 'tech_whitepaper.md'
   - Tokenomics: 'tokenomics.md'
   - FAQ: 'FAQ.md'
   - Library: 'library.md'
