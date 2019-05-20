@@ -43,7 +43,9 @@ pages:
     - C2FC: 'c2fc/overview.md'
     - Akropolis Network: 'akro-protocol.md'
     - Contracts: 'contracts.md'
-  - Whitepaper: 'whitepaper.md'
+  - Whitepaper: 
+    - May 2019: 'whitepaper.md'
+    - March 2018: 'whitepaper_old.md'
   - Tokenomics: 'tokenomics.md'
   - FAQ: 'FAQ.md'
   - Library: 'library.md'
