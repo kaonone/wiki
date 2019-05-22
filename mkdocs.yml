@@ -43,6 +43,7 @@ pages:
     - C2FC: 'c2fc/overview.md'
     - Akropolis Network: 'akro-protocol.md'
     - Contracts: 'contracts.md'
+  - Lightpaper: 'lightpaper.md'
   - Whitepaper: 
     - May 2019: 'whitepaper.md'
     - March 2018: 'tech_whitepaper.md'
