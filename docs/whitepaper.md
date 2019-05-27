@@ -730,7 +730,7 @@ The token functionality and use is modeled using the Livepeer and MakerDAO frame
 
 Funding mechanisms of open source networks are still subject to research and experimentation, with two notable examples from the commercial world.
 
-We anticipate various potential sources of revenue. All of the below have been validated with our partners and product specialists with reference:
+We anticipate various potential sources of revenue. All of the below have been validated with our partners and product specialists:
 
 * % of the spread charged by external capital providers
 
