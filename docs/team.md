@@ -1,4 +1,4 @@
-
+﻿
 
 ##  **Core Team**
 
@@ -90,24 +90,6 @@ Software Engineer, Consultant, Game Developer & reverse-engineering enthusiast. 
 Peter is a fellow of the UK actuarial profession with a track record spanning over 30 years in DC pensions, life assurance, and asset management in developed and emerging economies.
 He was involved in setting up new businesses in Germany, China and India where he also spent some time as a non-executive director of IDFC (the Infrastructure Development Finance Corporation). He then helped start up Vanguard Investments UK, arguably the most disruptive new venture in European asset management in many years.
 Peter has been involved in the pension industry in Europe, Asia, and the USA in various capacities, including designing innovative and low cost solutions for UK DC pension investors, as an administrator of corporate and individual pension plans, and as a pension scheme trustee in the Eurozone and Asia.
-
-</br>
-</br>
-<img src="/images/team/melo@2x.png" width="180" alt="drawing" />
-
-### [**Dominic Melo**](https://linkedin.com/in/paymentexpert)
-
-
-**Global Payments Infrastructure**
-
-**Focus**: Payments, Business Development, Business Strategy, Mobile Payments, Financial Services
-
-
-**Experience**: iSignthis • Paymundo Systems
-
-[**LinkedIn**](https://linkedin.com/in/paymentexpert) 
-
-Domenic is an experienced professional that has played key roles in designing, executing and analyzing projects for the international business to business and business to consumer markets, especially in the financial services IT arena. An excellent communicator able to translate jargon and IT-speak into clear concepts and ideas for non-technical management or board members. He is a Skilled Security Consultant routinely responsible for securing highly sensitive and classified information for corporate clients. Also using tools and methods to extract encrypted or password protected information for digital asset recovery for civil and criminal investigations. Dominic is consulting leading fiat and crypto operations, focussing on the remittances, non-banking and banking license holders.
 
 </br>
 </br>
