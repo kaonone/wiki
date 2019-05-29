@@ -249,22 +249,6 @@ Bokky is an Actuary and Quantitative Software Developer with over 28 years of in
 
 </br>
 </br>
-<img src="/images/team/dearg@2x.png" width="180" alt="drawing" />
-
-### [**Dearg OBartuin**](https://www.linkedin.com/in/mrdearg/)
-
-
-**Technology & Country Advisor**
-
-**Focus**: Blockchain, Remittances, Product Development, Africa
-
-**Experience**: CTO BitPesa
-
- Dearg has been working as CTO for more than 18 years, scaling financial services and building the world-class engineering teams. In 2017-2018 he worked as CTO at Bitpesa, a digital foreign exchange and payment platform with a focus on Africa, where he was responsible for the technical infrastructure and performance of the company’s payment platform and administration. He is a strategic technical leader bridging the gap between business objectives, product specification, and engineering delivery. Dearg’s work experience includes Unilever, KPMG, The English Heritage, BitPesa, London Block Exchange, and IDT. He also works closely with regulatory authorities such as FCA, MFSA, CBN, FDIC, GFSC. He is an architect of the ‘Clever Ledger’ Exchange Banking design and advisor to Crypto successful Exchange, Remittance & FX scale-ups. In Akropolis Dearg is focusing on blockchain remittances and product development in Africa. 
-
-</br>
-</br>
-
 <img src="/images/team/ajit@2x.png" width="180" alt="drawing" />
 
 ### [**Ajit Tripathi**](https://www.linkedin.com/in/mrdearg/)
