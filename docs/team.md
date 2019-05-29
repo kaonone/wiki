@@ -16,7 +16,9 @@
 
 [**LinkedIn**](https://www.linkedin.com/in/anastasia-andrianova-79198b4)  | [**Twitter**](https://twitter.com/ana_andrianova/)
 
+
 Ana is an experienced special situations investment professional with a strong interest in decentralization and blockchain. A regulated fund management professional and a board member of a regulated private equity fund, She is an Advisor to the Web3 Foundation, and she has analyzed and transacted over USD3.5bn and advised on over USD300mn of private equity and credit transactions. Ana is a business-builder, team-builder, technology and data obsessive, with particular strength in forensic analysis, seeing efficiencies and optimising processes. She’s passionate about individual empowerment and helping others fulfill their potential.
+
 
 </br>
 </br>
