@@ -239,7 +239,7 @@ Ian worked for R3, a $100mn+ blockchain consortium of the largest financial serv
 ### [**Bokky Poobah**](https://github.com/bokkypoobah)
 
 
-**Blockchain Security Advisor**
+**Blockchain Security Auditor**
 
 **Focus**: Security Audit, Solidity, Software Development, Actuarial Science, Quant Software Development, Cryptoderivatives
 
