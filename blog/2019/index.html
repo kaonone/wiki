@@ -67,6 +67,31 @@
     
     
       
+        
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-141608436-1", "auto")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+      
     
     
   </head>
@@ -631,9 +656,9 @@
 Today, we want to share some of our plans for the Summer!</strong></p>
 <p><img src="/images/blog/akrocom.png" alt="drawing" /></p>
 <blockquote>
-<p>We’re announcing a new iteration of the Akropolis Quest! 
+<p>we’re announcing a new iteration of the Akropolis Quest! 
 Token unlock final dates will be announced during the Quest. 
-As we are moving closer to our MVP release, we will be gearing up our marketing with a focus on Asia — Korea, China, and Vietnam.</p>
+And as we are moving closer to our MVP release, we will be gearing up our marketing with a focus on Asia — Korea, China, and Vietnam.</p>
 </blockquote>
 <p><a href="https://medium.com/akropolis/akropolis-community-update-2103d0a75dd">Read more&gt;&gt;</a></p>
 <h2 id="empowering-informal-economies-via-defi-poa-network-and-akropolis-announce-their-partnership"><a href="https://medium.com/akropolis/empowering-informal-economies-via-defi-poa-network-and-akropolis-announce-their-partnership-d8abe8bd0c74">Empowering Informal Economies via DeFi: POA Network and Akropolis announce their partnership</a></h2>
@@ -645,7 +670,7 @@ As we are moving closer to our MVP release, we will be gearing up our marketing 
 <p><a href="https://medium.com/akropolis/empowering-informal-economies-via-defi-poa-network-and-akropolis-announce-their-partnership-d8abe8bd0c74">Read more&gt;&gt;</a></p>
 <h2 id="akropolis-development-update"><a href="https://medium.com/akropolis/akropolis-development-update-82aaee0f5ee2">Akropolis Development Update</a></h2>
 <p><strong>We are happy to share with you our latest Development Update, and our plans for the future.</strong></p>
-<p><img src="/images/blog/akrotech.jpeg" alt="drawing" /></p>
+<p><img src="/images/blog/akrotech.jpg" alt="drawing" /></p>
 <blockquote>
 <p>We migrated the development work to a modular approach, in order to be able to incorporate new nascent Web3 technologies without unnecessary development overhead. Below you will be able to find updates on the modules we are currently focused on.</p>
 </blockquote>
