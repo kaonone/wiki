@@ -179,23 +179,6 @@ Have more then 4 years of development expierence, including blockchain and tradi
 
 </br>
 </br>
-<img src="/images/team/mpf@2x.png" width="180" alt="drawing" />
-
-### [**María Paula Fernández**](https://www.linkedin.com/in/maría-paula-fernández-a96a8034/)
-
-
-**External Communications and PR**
-
-**Focus**: Public Relations, Marketing, Social Media, Events Management, Strategic Communications
-
-**Experience**: External Relations, Golem Factory • External Relations Officer, Web3 Foundation
-
-[**LinkedIn**](https://www.linkedin.com/in/maría-paula-fernández-a96a8034/)
-
-María Paula Fernández is a communications strategy specialist, independent researcher and open source non-technical contributor. She works in the Blockchain space, and has consulted or worked for projects such as Polkadot, Gnosis, Melonport, Ethereum Community Fund,  and other grassroots and established projects in the Ethereum ecosystem. Currently she heads communications at Golem and advises the Akropolis project. Additionally, she is a co-founder for ETHBerlin and the Department of Decentralization and a product manager of the Görli Testnet.
-
-</br>
-</br>
 <img src="/images/team/yana@2x.png" width="180" alt="drawing" />
 
 ### [**Yana Mar**](https://www.linkedin.com/in/yana-marakhonova/)
