@@ -4,6 +4,9 @@ repo_url: 'https://github.com/akropolisio/wiki'
 extra_javascript:
   - js/init.js
 site_description: 'Wiki for the Akropolis Project'
+google_analytics: 
+  - 'UA-141608436-1'
+  - 'auto'
 theme:
   name: 'material'
   palette:
