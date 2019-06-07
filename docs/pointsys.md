@@ -10,7 +10,7 @@ Rewards in ACQ are classified into 3 categories: **Round Rewards**, **Activity R
 
 ### Round Rewards:
 
-For the third installment of the Akropolis Community Quest, there are a total of **6 rounds** that our community can participate in and avail a chance to win a total of **54,000 points**. Each round comprises of rewards that amount to **9000 AKT**. A total of **40 winners** will be awarded in every round. Each winner will be rewarded in points, distributed as follows:
+For the third installment of the Akropolis Community Quest, there are a total of **6 rounds** that our community can participate in and avail a chance to win a total of **54,000 points**. Each round comprises of rewards that amount to **9000 Points**. A total of **40 winners** will be awarded in every round. Each winner will be rewarded in points, distributed as follows:
 
 <table style="width:100%">
   <tr>
