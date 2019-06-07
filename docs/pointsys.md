@@ -2,7 +2,7 @@
 
 ## Points: What are they?
 
-The Akropolis Community Quest (ACQ) uses a points system to accurately assign rewards to active participants of our community venture. Points are earned for actions you take during the quest (e.g. solving the challenging puzzles, creating amazing content and adding value to the community by other means). Points rate in dollars is 1 point = 1 dollar. A minimum of 150 points is required for successful conversion of ACQ points to USD. Lesser amounts can only be redeemed for bonuses (check below for more info!).
+The Akropolis Community Quest (ACQ) uses a points system to accurately assign rewards to active participants of our community venture. Points are earned for actions you take during the quest (e.g. solving the challenging puzzles, creating amazing content and adding value to the community by other means). Points rate in dollars is 1 point = 1 USD in AKT. A minimum of 150 points is required for successful conversion of ACQ points to AKT. Lesser amounts can only be redeemed for bonuses (check below for more info!).
 
 ## Rewards
 
@@ -166,6 +166,8 @@ Participation in the Akropolis Community can be rewarded for more than just play
 **Quest Recaps**: One quest recap article will be rewarded **50 Points** each round with a total reward of **300 AKT** to be earned spanning 6 rounds.
 
 **Feedbacks:** Fill a &quot;round feedback&quot; form and receive **10 Points each**. We will give you time to compare rounds - feedback forms will be open for every three rounds. Detailed and helpful submissions are expected: i.e. oversimplified answers like &#39;good round&#39; or &#39;tasks were hard&#39; will not qualify.
+
+**Testing**: you will be able to test the quest platform before launch of the quest and receive 10 Points. No more than 100 testers can participate.
 
 **Custom**: **50 Points** will be awarded to those submissions that we find particularly well done for Task 1 of each round.
 
