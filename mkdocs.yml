@@ -52,4 +52,7 @@ pages:
     - March 2018: 'tech_whitepaper.md'
   - Tokenomics: 'tokenomics.md'
   - FAQ: 'FAQ.md'
+  - Quest:
+    - Point System: 'pointsys.md'
+    - Rules: 'tc.md'
   - Library: 'library.md'

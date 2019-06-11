@@ -1,0 +1,1 @@
+﻿Please check Term & Conditions of participating [here](https://akropolis.io/assets/eab6c899d05410db052ce0a1a6b2995a.pdf)
