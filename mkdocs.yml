@@ -55,4 +55,5 @@ pages:
   - Quest:
     - Point System: 'pointsys.md'
     - Rules: 'tc.md'
+    - How to register: 'reg.md'
   - Library: 'library.md'
