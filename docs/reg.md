@@ -1,6 +1,6 @@
 # Quest platform registration guide
 
-1\. You need to [**sign up**](quest.akropolisnetwork.com). Even if you participated in the previous quests and still remember your previous account - we are using a new fresh server. 
+1\. You need to [**sign up**](https://quest.akropolisnetwork.com). Even if you participated in the previous quests and still remember your previous account - we are using a new fresh server. 
 
 <img src="/images/qreg/1.png" alt="drawing" />
 
