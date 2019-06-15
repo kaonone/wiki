@@ -6,7 +6,9 @@ The Akropolis Community Quest (ACQ) uses a points system to accurately assign re
 
 ## Where can I see how much points I earned?
 
-We created a special bot for you - the almighty [Akrobot](https://t.me/Akropolisbot)! We will be updating amount of points everyday, after 6 PM UTC.
+We created a special bot for you - the almighty [Akrobot](https://t.me/Akropolisbot)! Simply start the bot to see some magic ?? We will be updating amount of points everyday, after 6 PM UTC.
+
+P.S. You need to have a TG handle (starting with @) to check check the amount of points you earned.
 
 ## Rewards
 
