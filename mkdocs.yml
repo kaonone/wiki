@@ -56,5 +56,6 @@ pages:
     - Point System: 'pointsys.md'
     - Rules: 'tc.md'
     - How to register: 'reg.md'
-    - Round 1: 'quest/round1.md'    
+    - Round 1: 'quest/round1.md'  
+    - Round 1 Answers: 'quest/r1answers.md'    
   - Library: 'library.md'
