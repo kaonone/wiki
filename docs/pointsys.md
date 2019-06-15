@@ -4,6 +4,10 @@
 
 The Akropolis Community Quest (ACQ) uses a points system to accurately assign rewards to active participants of our community venture. Points are earned for actions you take during the quest (e.g. solving the challenging puzzles, creating amazing content and adding value to the community by other means). Points rate in dollars is 1 point = 1 USD in AKT. A minimum of 150 points is required for successful conversion of ACQ points to AKT. Lesser amounts can only be redeemed for bonuses (check below for more info!).
 
+## Where can I see how much points I earned?
+
+We created a special bot for you - the almighty [Akrobot](https://t.me/Akropolisbot)! We will be updating amount of points everyday, after 6 PM UTC.
+
 ## Rewards
 
 Rewards in ACQ are classified into 3 categories: **Round Rewards**, **Activity Rewards** and **Bonus Rewards**.
@@ -53,7 +57,7 @@ For the third installment of the Akropolis Community Quest, there are a total of
 
 ### Flash Quizzes:
 
-Akropolis will conduct quizzes in between rounds where a total of **1000 Points** are up for grabs by those with quick wits about them. Each question carries **10 Points** , there are no negatives for a wrong answer.
+Akropolis will conduct quizzes in between rounds where a total of **1000 Points** are up for grabs by those with quick wits about them. Each question carries **10 Points**, there are no negatives for a wrong answer.
 
 In addition to quest completion winnings, points will be awarded to those who participate in **market research** pertaining to the subject of the round. Successful submission of your research will gain you **10 Points each**. No more than 100 researches will be rewarded each round.
 
@@ -61,7 +65,7 @@ In addition to quest completion winnings, points will be awarded to those who pa
 
 Participation in the Akropolis Community can be rewarded for more than just playing and winning the quest. Activities carried out by community members leading up to and during the quest will also be awarded. A cumulative of **39,000 Points** is available on the table for those who exhibit their creative flair in the ways described below.
 
-**Articles**: **10** well thought out articles submitted leading up to, during, and after the quest (until a set date) will be rewarded a total of **2,750 Points** , distributed as follows:
+**Articles**: **10** well thought out articles submitted leading up to, during, and after the quest (until a set date) will be rewarded a total of **2,750 Points**, distributed as follows:
 
 <table style="width:100%">
   <tr>
@@ -105,7 +109,7 @@ Participation in the Akropolis Community can be rewarded for more than just play
     <td class="tg-0pky">50 Points</td>
 </table>
 
-**Videos**: For those with a flair for video making &amp; editing, **5** submissions of suggested topics will be rewarded a total of **4,000 Points** , distributed as follows:
+**Videos**: For those with a flair for video making &amp; editing, **5** submissions of suggested topics will be rewarded a total of **4,000 Points**, distributed as follows:
 
 <table style="width:100%">
   <tr>
@@ -165,7 +169,7 @@ Participation in the Akropolis Community can be rewarded for more than just play
 
 **Quest Recaps**: One quest recap article will be rewarded **50 Points** each round with a total reward of **300 AKT** to be earned spanning 6 rounds.
 
-**Feedbacks:** Fill a &quot;round feedback&quot; form and receive **10 Points each**. We will give you time to compare rounds - feedback forms will be open for every three rounds. Detailed and helpful submissions are expected: i.e. oversimplified answers like &#39;good round&#39; or &#39;tasks were hard&#39; will not qualify.
+**Feedbacks:** Fill a &quot;round feedback&quot; form and receive **10 Points each**. Feedback forms will be open for every round. Detailed and helpful submissions are expected: i.e. oversimplified answers like &#39;good round&#39; or &#39;tasks were hard&#39; will not qualify.
 
 **Testing**: you will be able to test the quest platform before launch of the quest and receive 10 Points. No more than 100 testers can participate.
 
