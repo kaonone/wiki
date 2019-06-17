@@ -53,9 +53,13 @@ pages:
   - Tokenomics: 'tokenomics.md'
   - FAQ: 'FAQ.md'
   - Quest:
-    - Point System: 'pointsys.md'
-    - Rules: 'tc.md'
-    - How to register: 'reg.md'
-    - Round 1: 'quest/round1.md'  
-    - Round 1 Answers: 'quest/r1answers.md'    
+    - Quest 101:
+      - Quest 101: '101.md'
+      - Rules: 'tc.md'
+      - How to register: 'reg.md'
+      - Point System: 'pointsys.md'
+    - Introductory articles:
+      - Round 1: 'quest/round1.md'  
+    - Answers and recaps:
+      - Round 1 Answers: 'quest/r1answers.md'    
   - Library: 'library.md'
