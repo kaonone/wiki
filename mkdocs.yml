@@ -59,7 +59,8 @@ pages:
       - How to register: 'reg.md'
       - Point System: 'pointsys.md'
     - Introductory articles:
-      - Round 1: 'quest/round1.md'  
+      - Round 1: 'quest/round1.md'
+      - Round 2: 'quest/round2.md'
     - Answers and recaps:
       - Round 1 Answers: 'quest/r1answers.md'    
   - Library: 'library.md'
