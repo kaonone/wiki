@@ -5,18 +5,16 @@
 	<img src="/images/quest/defi.png" alt="drawing" width="75%" height="75%" />
 </p>
 
-### DeFi
-
-**Introduction**
+### Introduction
 
 The main advantage of blockchain technology is a possibility to build applications that are permissionless, reliable, seamlessly interoperable, censorship-resistant, and independent from third-party activity. These properties enable a rethinking of digital industries towards p2p-based, open-source systems that prevent the capture of system value at some central point. The opportunities created are drawing developers, investors, and users to new products built on top of blockchain protocols. In the world of finance, these pioneers are transferring well-known and historically proven financial instruments, approaches and business models into a decentralized environment that aims to reframe the industry. 
 
 
-**What is DeFi?**
+### What is DeFi?
 
 DeFi is a shared community of projects developing open-source financial primitives that started in autumn of 2018. The core principles of DeFi are interoperability, open-source, permissionlessness, and financial transparency. The goal of this community is to promote decentralized finance projects, onboard new users and developers, and cooperate to develop the finance system of a new generation. From the initial 12 projects, DeFi significantly expanded during the last eight months and holds more than $500 mln of value in its financial applications.
 
-**Most notable projects**
+### Most notable projects
 
 A few early projects stand out with visionary protocol designs and early successes in transforming finance. For now, they are built on the Ethereum blockchain.
 
@@ -34,7 +32,7 @@ A few early projects stand out with visionary protocol designs and early success
 
 Another emerging concept that is tightly connected with the DeFi is the Decentralized Autonomous Organization (DAO). Based on blockchain technology, a DAO enables the digital implementation of collaborative work efforts, collective decision-making, and management of shared resources. The best-known platform for DAO creation is Aragon, which also operates as a DAO itself. Akropolis’ vision sees the future of decentralized finance at the intersection of blockchain-based financial primitives and DAO-like models for governance of these protocols. 
 
-**DeFi and Akropolis**
+### DeFi and Akropolis
 
 Akropolis is making use of DeFi applications and its technological foundation to provide new opportunities to the successful structures of the large global informal economy. The Ethereum blockchain serves as the foundation to allow savings groups to operate smoothly in a digital environment, with permissionless, reliable and secure transactions. Akropolis combines the DeFi approach with the concept of Decentralized Autonomous Organizations (DAOs), which have become popular as governance infrastructures for groups to cooperate and oversee a shared crypto venture. Akropolis thus uniquely combines the benefits of DeFi, the lessons from successful DAOs, and a commitment to positive impact by empowering individuals to save and grow as groups within proven social cooperation models.   
  
