@@ -110,7 +110,7 @@ BTC for LTC transaction<br/>
 BTC for Webmoney transfer<br/>
 BTC for pizza delivery<br/>
 
-5) This New Zealand exchange is undergoing a liquidation process after the hack, which resulted in a major loss of funds
+5\. This New Zealand exchange is undergoing a liquidation process after the hack, which resulted in a major loss of funds
 
 **Cryptopia**<br/>
 Bitprime<br/>

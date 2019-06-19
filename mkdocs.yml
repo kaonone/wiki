@@ -62,5 +62,6 @@ pages:
       - Round 1: 'quest/round1.md'
       - Round 2: 'quest/round2.md'
     - Answers and recaps:
-      - Round 1 Answers: 'quest/r1answers.md'    
+      - Round 1 Answers: 'quest/r1answers.md'   
+      - Round 2 Answers: 'quest/r2answers.md'      
   - Library: 'library.md'
