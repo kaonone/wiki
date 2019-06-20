@@ -1,5 +1,7 @@
 # Quest platform registration guide
 
+0\. IMPORTANT! Don't forget to register for the quest itself [here](https://akroquest.typeform.com/to/njqLNv)!
+
 1\. You need to [**sign up**](https://quest.akropolisnetwork.com). Even if you participated in the previous quests and still remember your previous account - we are using a new fresh server. 
 
 <img src="/images/quest/qreg/1.png" alt="drawing" />
