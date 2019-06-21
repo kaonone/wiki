@@ -15,7 +15,7 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 ### **What is DeFi? What is your place in DeFi ecosystem?**
 
 
-[Decentralized finance (#defi)](https://defi.network) refers to a group of financial sector-focussed startups that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries. DeFi is by far the most promising area of blockchain application, with a number of high-quality interoperable projects promising the future of transparent, fully auditable, efficient peer-to-peer interactions, based both on existing financial primitives and creating novel ways to generate and exchange value. 
+[Decentralized finance (#defi)](https://defi.network) refers to a group of financial sector-focussed startups that leverages open source software and decentralized networks to transform traditional financial products  into trustless and transparent protocols that operate without unnecessary intermediaries. DeFi is by far the most promising area of blockchain application, with a number of high-quality interoperable projects promising the future of transparent, fully auditable, efficient peer-to-peer interactions, based both on existing financial primitives and creating novel ways to generate and exchange value. 
 
 We are building an alternative savings infrastructure that can be tested by informal savings groups (or AFOs) in emerging markets now. 
 
@@ -115,13 +115,13 @@ At the protocol level, speed and immediately finality are not as relevant as bei
 
 1. C2FC
 
-2. DCDM
+2. AFO maintenance and Governance Module
 
 3. Identity Management module
 
 4. Accounting module
 
-5. Reputation module
+5. Network Governance module
 
 
 
@@ -130,7 +130,7 @@ At the protocol level, speed and immediately finality are not as relevant as bei
 Commitments to Future Cashflows  (or C2FC) – a financial primitive that represents a digital right to operate with future cashflow that will arrive in any form to any Ethereum address (now it works in Ethereum, but could be implemented in any blockchain)within a given time frame. Simply put, it looks like a relay: a C2FC issuer must receive payment within this specified period, but those payments are fully or partially forwarded to the C2FC token holder’s address. Therefore, the future cashflow of any individual, company or service takes the form of a measurable digital unit that can be easily exchanged, traded or used as collateral.
 
 
-### **What is Digital Community Decision Making (DCDM)?**
+### **What is AFO maintenance and Governance Module?**
 
 
 AFOs work as decentralised autonomous organisations. The governance inside each AFO is different from a protocol governance as only AFO members are able to make decisions thus there is no need for the internal token in every autonomous financial organisation. 
