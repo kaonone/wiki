@@ -128,6 +128,8 @@ Dasset<br/>
 5\. A top-30 cryptocurrency has a privacy-centered browser as a part of it’s ecosystem. What is the name of the browser? *Brave*<br/>
 <br/>
 
+-- .- -.- . .-. / - --- -.- . -. / -.--. -. --- - / ... - .- -... .-.. . -.-. --- .. -. -.--.- .-.-.- / . -..- -.-. .... .- -. --. . / .-- .. - .... / .---- -.... .-.-.- ..--- ----. / .--. . .-. -.-. . -. - / ...- --- .-.. ..- -- . / .- -.-. -.-. --- .-. -.. .. -. --. / - --- / -.-. --- .. -. --. . -.-. -.- --- .-.-.- / . -..- -.-. .... .- -. --. . / ..-. --- ..- -. -.. . .-. / ..-. .. .-. ... - / -. .- -- . .-.-.- 
+
 [**Puzzle 2**](https://puzzel.org/en/crossword/play?p=-LhGQ3ZqJ9911IFrO9Lj)
 
 1\. The primary coding language for developing smart-contract on Ethereum. *Solidity*<br/>
