@@ -26,7 +26,6 @@ Financial security and access to basic financial services without dependence on 
   
 The protocol is designed to enable scalability of informal member-owned organizations, that have existed for centuries globally and remain active in emerging markets, especially in Africa, parts of Europe, US and Asia. This is envisaged as an alternative to challenged financial institutions mandated with providing pensions/banking/social insurance and a more resilient alternative to traditional banks that rely on fractional reserve banking.
 
-For more details, please see our [Wiki FAQ](https://wiki.akropolis.io/FAQ/#how-do-you-know-it-is-a-valid-problem-with-verified-demand).
 
 
 ### **How do you know it is a valid problem with verified demand?**
@@ -41,9 +40,9 @@ The problem of insolvency of centralised pensions and social security institutio
 * Documentary [“The Pension Gamble”](https://www.pbs.org/wgbh/frontline/film/the-pension-gamble/) by the Frontline.
 
 
-### **What’s your competitive advantage [vis-a-vis other DeFi projects]?**
+### **What’s your competitive advantage?**
 
-Competitive advantage over other DeFi solutions: 
+**Competitive advantage over other DeFi solutions:** 
 
 * validated product-market-fit
 
@@ -51,7 +50,7 @@ Competitive advantage over other DeFi solutions:
 
 * clear monetisation model
 
-Competitive advantage over fintech solutions and traditional banking:
+**Competitive advantage over fintech solutions and traditional banking:**
 
 * No bank account required
 
