@@ -20,10 +20,13 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 We are building an alternative savings infrastructure that can be tested by informal savings groups (or AFOs) in emerging markets now. 
 
 
-### **What problem are you seeking to solve?**
+### **What’s the main problem the project solves?**
 
-The protocol is designed to enable scalability of informal member-owned organisations, that have existed for centuries globally and remain active in emerging markets, especially in Africa. This is envisaged as an alternative to challenged centralised institutions mandated with providing pensions/banking/social insurance. 
+Financial security and access to basic financial services without dependence on fractional reserve-based banking system, and therefore resilient to economic crises.
+  
+The protocol is designed to enable scalability of informal member-owned organizations, that have existed for centuries globally and remain active in emerging markets, especially in Africa, parts of Europe, US and Asia. This is envisaged as an alternative to challenged financial institutions mandated with providing pensions/banking/social insurance and a more resilient alternative to traditional banks that rely on fractional reserve banking.
 
+For more details, please see our [Wiki FAQ](https://wiki.akropolis.io/FAQ/#how-do-you-know-it-is-a-valid-problem-with-verified-demand).
 
 
 ### **How do you know it is a valid problem with verified demand?**
@@ -36,6 +39,40 @@ The problem of insolvency of centralised pensions and social security institutio
 * Documentary “The Coming Retirement Crisis” by Goldman Sachs’ Raul Pal (our brief video summary is [here](https://www.youtube.com/timedtext_video?v=cFQDgcMR8TE&msg=9&ppub_lang=en)) 
 
 * Documentary [“The Pension Gamble”](https://www.pbs.org/wgbh/frontline/film/the-pension-gamble/) by the Frontline.
+
+
+### **What’s your competitive advantage [vis-a-vis other DeFi projects]?**
+
+Competitive advantage over other DeFi solutions: 
+
+* validated product-market-fit
+
+* existing non-speculative target user base
+
+* clear monetisation model
+
+Competitive advantage over fintech solutions and traditional banking:
+
+* No bank account required
+
+* DeFi integrations provide for a continuous above-market* savings rate with perfect liquidity
+
+* No need for long-term lockups to receive interest - continuous interest payment
+
+* Resistance to fraud or manipulation
+
+* Provable solvency - no surprise bankruptcies or not being able to access one’s funds
+
+* Ability to receive funds even if the organization dissolves or fails
+
+* Scaling potential to co-operative bank model
+
+* User incentives to grow the network
+
+* Transparent, real-time, immutable financial record-keeping for every user – solving fraud and minimizing the misuse of funds through multi-signature fund deployment
+
+* Easy integration of new financial products due to ethereum interoperability
+ 
 
 ### **What does the world look like if Akropolis is a success?**
 
@@ -88,6 +125,39 @@ Informal savings groups hold hundreds of billions of US$, with remittances betwe
 We see informal economy in Africa, esp. Kenya as an excellent market to verify assumptions and get real user feedback that will help the protocol evolve into a tool for **developed markets** based on our 10-year outlook (failure of centralised pension funds, failure of depositor protection schemes, cash controls, etc.), which if correct will spawn a new wave of digital member-owned financial organisations as safer, more trustworthy alternatives.
 
 
+### **Why adopt blockchain technology?**
+
+Two of our target networks have already decided that they need to move to a blockchain-first infrastructure from their legacy infrastructure which is now >10 years old. The advantages they see is low OpEx, low cost of remittances, resilience to fraud and manipulation, and ability to scale their businesses.
+ 
+On a more general note, a stable financial system relies on trust in the state and private sector financial institutions. In most developed markets, that trust has been lost. In our use case, blockchain technology uniquely enables alternative member-owned financial institutions by providing the following:
+ 
+* trust-minimised exchange of value between the parties that do not know or trust each other
+
+* shared immutable on-chain financial accounting prevents fraud and misuse of funds
+
+* fully transparent and auditable smart contracts ensure provable solvency.
+ 
+For more details, please see our [Wiki FAQ](https://wiki.akropolis.io/FAQ/#why-is-there-a-need-to-use-blockchain-and-what-does-it-uniquely-enable-that-wouldnt-otherwise-be-possible)
+
+### **Please elaborate on your token economy?**
+ 
+MakerDAO and Livepeer as reference models. For more details, please see our [Wiki FAQ](https://wiki.akropolis.io/tokenomics/#token-functionality-and-use-by-stakeholder-type).
+
+### **What’s the necessity for token issuing?**
+ 
+A native AKT token is required to enable fiscal governance of the internal network economy and solve for trust in cases of credit issuance between network members.  
+Token issuance is required to ensure wide initial distribution of the token.
+ 
+For more details, please see our [Tokenomics Wiki Page](https://wiki.akropolis.io/tokenomics/#token-type-what-utility-does-the-token-provide).
+
+
+### **Why not use stablecoin instead of your token?**
+ 
+Our protocol has an internal economy. Governance of the internal economy requires an internal token. The token staking and governance approach requires a token whose value is connected to the current network and not tied to other projects and networks.
+As such, the AKT token is an essential element of the protocol internal economy and cannot be replaced by an external stablecoin. 
+ 
+Our team will continue improving the model through collaboration with the largest blockchain research centre in Europe, University College London, and their token economics research programme, detailed [here](http://blockchain.cs.ucl.ac.uk/call-for-proposals/).
+
 ## **Technology**
 
 ### **Why is there a need to use blockchain and what does it uniquely enable that wouldn’t otherwise be possible?**
@@ -135,7 +205,7 @@ Commitments to Future Cashflows  (or C2FC) – a financial primitive that repres
 
 AFOs work as decentralised autonomous organisations. The governance inside each AFO is different from a protocol governance as only AFO members are able to make decisions thus there is no need for the internal token in every autonomous financial organisation. 
 
-The Digital Community Decision Making (DCDM) Framework provides decision support for Autonomous Financial Organisations. The core DCDM API supports a number of base level commands, like registration of new Autonomous Financial Organisation, making changes to its constitution etc. 
+AFO maintenance and Governance Module provides decision support for Autonomous Financial Organisations. The core API supports a number of base level commands, like registration of new Autonomous Financial Organisation, making changes to its constitution etc. 
 
 
 
