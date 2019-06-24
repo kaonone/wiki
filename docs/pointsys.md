@@ -114,8 +114,6 @@ Participation in the Akropolis Community can be rewarded for more than just play
 
 **Videos**: For those with a flair for video making &amp; editing, **5** submissions of suggested topics will be rewarded a total of **4,000 Points**, distributed as follows:
 
-.- .-. .- --. --- -. / - --- -.- . -. .-.-.- / . -..- -.-. .... .- -. --. . / .-- .. - .... / ----- .-.-.- .---- ..... / .--. . .-. -.-. . -. - / ...- --- .-.. ..- -- . / .- -.-. -.-. --- .-. -.. .. -. --. / - --- / -.-. --- .. -. --. . -.-. -.- --- .-.-.- / . -..- -.-. .... .- -. --. . / -.-. . --- / .-.. .- ... - / -. .- -- . .-.-.- 
-
 <table style="width:100%">
   <tr>
     <td class="tg-0pky"><b>1st place</b><br></th>
