@@ -66,5 +66,6 @@ pages:
     - Answers and recaps:
       - Round 1 Answers: 'quest/r1answers.md'   
       - Round 2 Answers: 'quest/r2answers.md'
-      - Round 3 Answers: 'quest/r3answers.md'      
+      - Round 3 Answers: 'quest/r3answers.md'
+      - Round 4 Answers: 'quest/r4answers.md'      
   - Library: 'library.md'
