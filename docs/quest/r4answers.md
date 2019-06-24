@@ -117,16 +117,16 @@ $25 billion<br/>
 
 [Puzzle 1](https://puzzel.org/en/crossword/play?p=-LfQWTjbPYf_kzh6Sv5_)
 
-1\. This leading non-profit p2p-microfinance organization from California allows people to borrow money to start-up entrepreneurs and students around the world. It has issued more than $1B of loans as of today, mostly to the people who can’t access or denied by traditional financial institutions. What is the name of the CPO’s alma mater? *Columbia*
+1\. This leading non-profit p2p-microfinance organization from California allows people to borrow money to start-up entrepreneurs and students around the world. It has issued more than $1B of loans as of today, mostly to the people who can’t access or denied by traditional financial institutions. What is the name of the CPO’s alma mater? *Columbia*<br/>
 2\. Followers of a certain sociological school in the 1960s argued that the sector of the informal economy would disappear completely (even in the most developed countries) with the tech and economic progress. One of the founders of this school is famous for his work regarding ethics and the spirit What is his last name? *Weber*
-3\. This investment plan for raising capital was developed in the 17th century by an Italian banker, to whom it owns its name. The plan became very popular throughout Europe in the XVIII and XIX centuries. This plan is still used nowadays, mostly within the informal/semi-formal economy for group savings and microcredit schemes. What is the name of this plan? *Tontine*
-4\. According to the World Bank, this country had the highest rate of informal employment in 2017, with more than 90% of total non-agricultural employment being informal. What is the capital of this country? *Dhaka*
-5\. Mobile phone based money transfer is the most popular way of person-to-person monetary transaction in many African countries. What is the name of the largest Kenian mobile career, according to 2018 statistics? *Safaricom*
+3\. This investment plan for raising capital was developed in the 17th century by an Italian banker, to whom it owns its name. The plan became very popular throughout Europe in the XVIII and XIX centuries. This plan is still used nowadays, mostly within the informal/semi-formal economy for group savings and microcredit schemes. What is the name of this plan? *Tontine*<br/>
+4\. According to the World Bank, this country had the highest rate of informal employment in 2017, with more than 90% of total non-agricultural employment being informal. What is the capital of this country? *Dhaka*<br/>
+5\. Mobile phone based money transfer is the most popular way of person-to-person monetary transaction in many African countries. What is the name of the largest Kenian mobile career, according to 2018 statistics? *Safaricom*<br/>
 
 [Puzzle 2](https://puzzel.org/en/crossword/play?p=-LfR9RsPlsmOn0Ye-e-l)
 
-1\. This movement considers local people as a basis for political or economic changes. From the etymological point of view, its associated with agriculture. *Grassroots*
-2\. This idea of collective unity was widely spread in the 1990s. Its name is used as a reference to the humanist philosophy in Southern Africa. Also has something to do with free and open-source software. *Ubuntu*
-3\. Chama-like informal savings groups are also presented in Japan, despite the fact that the country is well developed economically. They originated in a certain period of the Japanese history. What was the factual capital of Japan at that time? *Kamakura*
-4\. Authorship of the first academic research of ROSCA is attributed to a certain scientist, which is also renowned for their research of an African ethnic group. What is the name of this ethnic group? *Bakweri*
-5\. According to this economic system, industries and organizations should be systematized in confederations or co-operatives. It was firstly introduced by radical left movement in France. *Syndicalism*
+1\. This movement considers local people as a basis for political or economic changes. From the etymological point of view, its associated with agriculture. *Grassroots*<br/>
+2\. This idea of collective unity was widely spread in the 1990s. Its name is used as a reference to the humanist philosophy in Southern Africa. Also has something to do with free and open-source software. *Ubuntu*<br/>
+3\. Chama-like informal savings groups are also presented in Japan, despite the fact that the country is well developed economically. They originated in a certain period of the Japanese history. What was the factual capital of Japan at that time? *Kamakura*<br/>
+4\. Authorship of the first academic research of ROSCA is attributed to a certain scientist, which is also renowned for their research of an African ethnic group. What is the name of this ethnic group? *Bakweri*<br/>
+5\. According to this economic system, industries and organizations should be systematized in confederations or co-operatives. It was firstly introduced by radical left movement in France. *Syndicalism*<br/>
