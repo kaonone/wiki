@@ -1,4 +1,4 @@
-# Community Quest Points &amp; Rewards System
+﻿# Community Quest Points &amp; Rewards System
 
 ## Points: What are they?
 
@@ -185,6 +185,8 @@ Participation in the Akropolis Community can be rewarded for more than just play
 In addition to the above-mentioned prizes, special goodies will be given to those that show their love and support in our community.
 
 ### Find and Decode 
+
+abandon auto🔑
 
 Each round, part of the code will be hidden in some place connected to Akropolis. The first person who will be able to find all pieces and decode the word will be awarded 1000 Points.
 
