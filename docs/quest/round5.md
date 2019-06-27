@@ -5,9 +5,11 @@
 	<img src="/images/quest/trfinance.png" alt="drawing" width="75%" height="75%" />
 </p>
 
-The modern world of finances can be considered as a big “stock exchange” market. It seems that all is tradable today: securities, currencies, commodities, volatility, price indexes, “fear” indexes, future interest rates as well as a big variety of derivatives instruments from ordinary ones to really exotic. The cryptocurrency market with current capitalization ~$365 bln looks tiny in comparison with the fantastic scale of the traditional market valued ~$68 trillion by the World Bank [1]:
+The modern world of finances can be considered as a big “stock exchange” market. It seems that all is tradable today: securities, currencies, commodities, volatility, price indexes, “fear” indexes, future interest rates as well as a big variety of derivatives instruments from ordinary ones to really exotic. The cryptocurrency market with current capitalization ~$365 bln looks tiny in comparison with the fantastic scale of the traditional market valued ~$68 trillion by the World Bank:
 
-<iframe src="https://data.worldbank.org/share/widget?end=2018&indicators=CM.MKT.TRAD.CD&start=1975&type=points&view=chart" width='450' height='300' frameBorder='0' scrolling="no" ></iframe>
+<p align="middle">
+<iframe src="https://data.worldbank.org/share/widget?end=2018&indicators=CM.MKT.TRAD.CD&start=1975&type=points&view=chart" width='690' height='430' frameBorder='0' scrolling="no" ></iframe>
+</p>
  
 In fact, prices for almost all base goods, commodities and obligations are determined by stock exchange market and have a critical influence on the world economy on a large scale. The most known example is a crisis of the [subprime mortgage](https://en.wikipedia.org/wiki/Subprime_mortgage) market in the [United States](https://en.wikipedia.org/wiki/United_States) which possessed a full-blown international [banking crisis](https://en.wikipedia.org/wiki/Banking_crisis) driven by the collapse of some investment banks on September 15, 2008. This crisis affected almost all sectors of the economy and led to an extreme market crash that resulted in a significant prices decline. For example, the price of the most tradable commodity - crude oil dropped in 4 times while the NASDAQ index lost 83% of its capitalization. The mentioned indicators that characterize crisis demonstrated that it was the most significant crisis since the Great Depression. It is not surprising that the message, that Satoshi Nakamoto placed in the Bitcoin Genesis block links launch of this independent currency with this crisis and following “money printing” by central banks.
 
