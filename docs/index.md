@@ -14,7 +14,7 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 
 **Telegram:** [https://t.me/akropolis_official](https://t.me/akropolis_official)
 
-**Medium:** [https://medium.com/@akropolis](https://medium.com/akropolis)
+**Medium:** [https://medium.com/akropolis](https://medium.com/akropolis)
 
 **Twitter:** [https://twitter.com/akropolisio](https://twitter.com/akropolisio)
 
