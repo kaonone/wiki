@@ -186,8 +186,6 @@ In addition to the above-mentioned prizes, special goodies will be given to thos
 
 ### Find and Decode 
 
-abandon auto🔑
-
 Each round, part of the code will be hidden in some place connected to Akropolis. The first person who will be able to find all pieces and decode the word will be awarded 1000 Points.
 
 ## Bonuses &amp; Key Takeaways
