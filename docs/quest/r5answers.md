@@ -50,7 +50,7 @@ $100,000<br/>
 2\. What hashtag was quite trendy in 2011-2012 and became a common name for a movement against financial inequality in the US? *Occupywallstreet*<br/>
 3\. A founder of respected Wall Street firm which turned to be a huge Ponzi operation, was sentenced to 150 years in prison in 2009. What is his last name? *Madoff*<br/>
 4\. The ‘Wolf of Wall Street’ first name? *Brandon*<br/>
-5\. According to a historical anecdote, the most evident symptom that the 1920-s bull run on US stock market is almost finished, was an investment tip from this "specialist". *shoeshiner*<br/>  
+5\. According to a historical anecdote, the most evident symptom that the 1920-s bull run on US stock market is almost finished, was an investment tip from this "specialist". *shoeshiner*<br/>
 6\. Even temperature can become a commodity. “Weather derivatives” appeared in the end of 1990-s and started to be traded on exchange in this city. *Chicago*<br/> 
 7\. This German economist and philosopher wrote the world-famous text in four volumes in XIX century with criticism of existed economic system. This text became fundamental for communistic movement. Which city author was born? *Trier*<br/> 
 8\. A movie that deconstructs the housing bubble of 2008 pictures a New York based hedge fund manager among other major characters. This role was played by a comedian, mostly renowned for his other role in an office-themed TV series. What was the last name of the assistant (to the) regional manager in that TV series? *Schrute*<br/>
