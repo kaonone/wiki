@@ -2,15 +2,37 @@
 
 <p align="middle">
 	<img src="/images/quest/round5.png" alt="drawing" width="75%" height="75%" />
-	<img src="/images/quest/trfinance.png" alt="drawing" width="75%" height="75%" />
 </p>
-
-The modern world of finances can be considered as a big “stock exchange” market. It seems that all is tradable today: securities, currencies, commodities, volatility, price indexes, “fear” indexes, future interest rates as well as a big variety of derivatives instruments from ordinary ones to really exotic. The cryptocurrency market with current capitalization ~$365 bln looks tiny in comparison with the fantastic scale of the traditional market valued ~$68 trillion by the World Bank:
-
+<br/>
 <p align="middle">
-<iframe src="https://data.worldbank.org/share/widget?end=2018&indicators=CM.MKT.TRAD.CD&start=1975&type=points&view=chart" width='690' height='430' frameBorder='0' scrolling="no" ></iframe>
+	<img src="/images/quest/akropolis.png" alt="drawing" width="75%" height="75%" />
 </p>
- 
-In fact, prices for almost all base goods, commodities and obligations are determined by stock exchange market and have a critical influence on the world economy on a large scale. The most known example is a crisis of the [subprime mortgage](https://en.wikipedia.org/wiki/Subprime_mortgage) market in the [United States](https://en.wikipedia.org/wiki/United_States) which possessed a full-blown international [banking crisis](https://en.wikipedia.org/wiki/Banking_crisis) driven by the collapse of some investment banks on September 15, 2008. This crisis affected almost all sectors of the economy and led to an extreme market crash that resulted in a significant prices decline. For example, the price of the most tradable commodity - crude oil dropped in 4 times while the NASDAQ index lost 83% of its capitalization. The mentioned indicators that characterize crisis demonstrated that it was the most significant crisis since the Great Depression. It is not surprising that the message, that Satoshi Nakamoto placed in the Bitcoin Genesis block links launch of this independent currency with this crisis and following “money printing” by central banks.
 
-Despite the fact that stocks recovered (as a result of [Quantitative easing](https://en.wikipedia.org/wiki/Quantitative_easing) or QE), the stability of the finance world is doubtful. The global economy is on the verge of another global financial crisis with the global pensions deficit, meaning the total outstanding pensions liabilities to people, including all asset classes, currently at [$78 trillion](http://www.agefi.fr/sites/agefi.fr/files/fichiers/2016/03/citi_retraite_hors_bilan_21_mars_1.pdf). It is expected to reach four times the global GDP by 2050. But, the critical problem with pensions is just one of many. The global debt problem is no less important. Government debts are rising year per year: In the USA alone, the national debt is over [$22 trillion](https://www.treasurydirect.gov/govt/reports/pd/pd_debttothepenny.htm) up to date. However, according to estimates of top-tier economists, the US fiscal gap may be up to [ten times greater](https://www.forbes.com/sites/kotlikoff/2015/05/13/17-nobel-laureates-and-1200-economists-agree-with-ben-carson-re-u-s-fiscal-gap/?utm_campaign=JM-305&utm_medium=ED&utm_source=for#7d17cf0f4d17). Total world debt is estimated to be as high as [$244 trillion](https://www.iif.com/Portals/0/Files/Global Debt Monitor_January_vf.pdf). The mentioned problems draw significant attention from people from all over the world and are the major reason to create an alternative, more stable and transparent economic system based on technologies of web3.0. During this special round of the quest, we decided to examine the community knowledge of  “outdated 2.0 economy” based on fiat money and centralized institutions. Enjoy!
+### Akropolis is a financial protocol for the growing multi-billion informal economy. 
+
+The global economy is on the verge of another global financial crisis with the global pensions deficit, meaning the total outstanding pensions liabilities to people, including all asset classes, currently at $78 trillion. It is expected to reach four times global GDP by 2050.
+Government debts are rising year per year. In the USA alone, the national debt is over $22 trillion up to date. However, according to some estimates, the fiscal gap may be up to ten times greater. Total world debt is estimated to be as high as $244 trillion.<br/>
+In a situation where many existing institutions face bankruptcy and collapse, it is worthwhile to look at how people have previously shown resilience to instability and uncertainty. More precisely, we look at the ways people have used to protect each other and maintain a social contract to preserve and multiply their wealth before the existence of modern-day financial institutions. 
+
+The answer lies in self-sovereignty through the ability to protect one's savings and in growth through trust-based communities as a source of support, informal credit, and emergency social insurance. The concept of self-governed social groups which run finance and social insurance services for its members is already used at scale in countries with an unstable economy, such as many developing countries, and has proved its efficiency and reliability in protecting members from ruin. <br/>
+We believe that the future of finance belongs to user-owned networks. Our thesis proposes that banks and other financial corporations will be replaced by a federated network of autonomous co-operative financial organizations, each of which will act in the interests of its owners and interact with other parties in a single digital financial landscape. The Akropolis protocol aims to create this new digital financial landscape by providing a unified program interface for the cooperation and exchange of value of digital financial organizations. 
+
+The Akropolis protocol addresses the following problems:
+
+• The complexity of starting an autonomous financial organization (AFO)
+
+• The geographic lottery of financial services availability
+
+• Allowing trust-minimized exchanges of value between groups (digital co-ops, guilds, mutuals), as social trust is not scalable.
+
+• Security, reliability, and transparency of informal financial organizations
+
+How does Akropolis allow to solve the mentioned problems?
+
+• Quickly set-up, operate and grow informal autonomous financial organizations (AFOs) like digital co-ops, guilds, and mutuals - with no geographical limits
+
+• Connect AFOs to a previously impossible interoperable scalable network between them and external third parties, whereby value can be exchanged freely in a trust-minimized way (e.g. co-invest, lend/borrow, trade);
+
+• Reducing instances of fraud and misuse of funds
+
+• Providing benefits of aggregation to users who would otherwise not be able to afford access to them
