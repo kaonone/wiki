@@ -1,4 +1,4 @@
-# Whitepaper
+﻿# Whitepaper
 
 ## **Introduction**
 
@@ -437,6 +437,10 @@ This function registers the cash flow in the system, captures the cash flow para
         uint256 stackingTokens
         ) 
         public returns (bool);
+
+	2/3 6 = 2+4
+	7 = 5+1
+	8 = 5+3
 ```
 
 * Function executePayment

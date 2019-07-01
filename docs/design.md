@@ -17,7 +17,7 @@
 
 ### **Portrait mono**
 
-[SVG](/images/logo/svg/akropolislogoportraitmono.svg) | [JPG](/images/logo/1x/jpg/akropolislogoportraitmono.jpg) | [PNG](/images/logo/1x/png/akropolislogoportraitmono.png) | [PDF](/images/logo/pdf/akropolislogoportraitmono.pdf) | [JPG 2X](/images/logo/2x/jpg/akropolislogoportraitmono@2x.jpg) | [PNG 2X](/images/logo/2x/png/akropolislogoportraitmono@2x.png) | [White PNG](/images/logo/white/logo-portrait-white.png)
+[SVG](/images/logo/svg/akropolislogoportraitmono.svg) | [JPG](/images/logo/1x/jpg/akropolislogoportraitmono.jpg) | [PNG](/images/logo/1x/png/akropolislogoportraitmono.png) | [PDF](/images/logo/pdf/akropolislogoportraitmono.pdf) | [JPG 2X](/images/logo/2x/jpg/akropolislogoportraitmono@2x.jpg) | [PNG 2X](/images/logo/2x/png/akropolislogoportraitmono@2x.png) | [White PNG](/images/logo/white/logo-portrait-white.png) | [m2272]()
 
 <img width="256" src="/images/logo/2x/png/akropolislogoportraitmono@2x.png">
 
