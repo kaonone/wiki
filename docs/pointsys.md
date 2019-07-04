@@ -137,7 +137,7 @@ Participation in the Akropolis Community can be rewarded for more than just play
   </tr>
 </table>
 
-**Stickers**: Creative expression takes different forms, and stickers are one of the best. **300 AKT** will be distributed between **3** people that exhibit the best sticker creation abilities:
+**Stickers**: Creative expression takes different forms, and stickers are one of the best. **300 Points** will be distributed between **3** people that exhibit the best sticker creation abilities:
 
 <table style="width:100%">
   <tr>
@@ -170,7 +170,7 @@ Participation in the Akropolis Community can be rewarded for more than just play
 </table>
 
 
-**Quest Recaps**: One quest recap article will be rewarded **50 Points** each round with a total reward of **300 AKT** to be earned spanning 6 rounds.
+**Quest Recaps**: One quest recap article will be rewarded **50 Points** each round with a total reward of **300 Points** to be earned spanning 6 rounds.
 
 **Feedbacks:** Fill a &quot;round feedback&quot; form and receive **10 Points each**. Feedback forms will be open for every round. Detailed and helpful submissions are expected: i.e. oversimplified answers like &#39;good round&#39; or &#39;tasks were hard&#39; will not qualify.
 
