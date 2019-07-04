@@ -119,10 +119,10 @@ TCRParty<br/>
 [**Puzzle 1**](https://puzzel.org/en/crossword/play?p=-LioCNhwDNaGx0DXiLZG)
 
 1\. Famous protocol for inter-blockchain communication known as “The Internet of blockchains”. *Polkadot*<br/>
-2\. The first “fair” (and famous) casino built back in 2012 on top of Bitcoin. BITDICE
-The name of the world first “decentralized central bank” or stablecoin issuance system in which interest rate is managed by the DAO. *Maker*<>br/
-3\. The first BTC mining pool. *Slush*<br/>
-4\. Metro station in NYC which name differs by one letter from famous blockchain developer and founder. *Lorimer*<br/>
+2\. The first “fair” (and famous) casino built back in 2012 on top of Bitcoin. *Bitdice*<br/>
+3\. The name of the world first “decentralized central bank” or stablecoin issuance system in which interest rate is managed by the DAO. *Maker*<br/>
+4\. The first BTC mining pool. *Slush*<br/>
+5\. Metro station in NYC which name differs by one letter from famous blockchain developer and founder. *Lorimer*<br/>
 
 [**Puzzle 2**](https://puzzel.org/en/crossword/play?p=-LioE-bHMciGDSY7JGoS)
 
