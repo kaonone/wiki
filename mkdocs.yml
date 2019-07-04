@@ -71,5 +71,7 @@ pages:
       - Round 2 Answers: 'quest/r2answers.md'
       - Round 3 Answers: 'quest/r3answers.md'
       - Round 4 Answers: 'quest/r4answers.md'   
-      - Special Round Answers: 'quest/r5answers.md'     
+      - Special Round Answers: 'quest/special1answers.md'
+      - Round 5 Answers: 'quest/r5answers.md'
+      - Special Round 2 Answers: 'quest/special2answers.md'      
   - Library: 'library.md'
