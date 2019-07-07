@@ -48,7 +48,7 @@ DeFi Chain<br/>
 
 ### **1b**
 
-1.\ Recently, Huobi Group announced the new blockchain they’re building. What is its name?
+1\. Recently, Huobi Group announced the new blockchain they’re building. What is its name?
 
 **Huobi Finance Chain**<br/>
 Exchange Chain<br/>
@@ -99,7 +99,7 @@ Exchange Chain<br/>
 Huobi Global Chain<br/>
 DeFi Chain<br/>
 
-3\. How many BTC does Huobi have in their Security Reserve Fund?
+2\. How many BTC does Huobi have in their Security Reserve Fund?
 
 **20,000 BTC**<br/>
 15,000 BTC<br/>
@@ -115,10 +115,10 @@ DeFi Chain<br/>
 
 4\. How many crypto assets does Huobi Global have??
  
-208
-100
-148
-356
+**208**<br/>
+100<br/>
+148<br/>
+356<br/>
 
 5\. What was the first official cryptocurrency exchange that allowed trading of Bitcoin? 
 
@@ -144,6 +144,6 @@ Bitstamp<br/>
 5\. Alternative trading system which gives the opportunity to exchange assets privately. *Darkpool*<br/>
 6\. In 2014, Huobi acquired this bitcoin wallet provider. *Quickwallet*<br/>
 7\. An investment arm of Huobi Group. *HuobiCapital*<br/>
-8\. Which indicator calculates the highest close and lowest close within the look back period and averages the two values? *Midpoint*<br/>    
+8\. Which indicator calculates the highest close and lowest close within the look back period and averages the two values? *Midpoint*<br/>
 9\. What is the fourth word in the Huobi Mining Pool slogan? *Easier*<br/>
 10\. This Huobi API public repository has the biggest amount of stargazers. Which language does this repository is written in? *Python*<br/>
