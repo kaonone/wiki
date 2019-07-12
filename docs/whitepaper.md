@@ -86,7 +86,7 @@ Each type has a unique set of goals detailed below:
   <tr>
     <th>Type of actor</th>
     <th>Economic objectives</th> 
-    <th>Incentives/Interaction with AKT tokens</th>
+    <th>Incentives/Interaction with AKRO tokens</th>
   </tr>
   <tr>
     <td>End-user</td>
@@ -106,7 +106,7 @@ Each type has a unique set of goals detailed below:
     			Incentivized to commit money into the AFO according to the established plan and to repay loans taken from the AFO budget as a result of internal social pressure.
     		</li>
     		<li>
-    			End users don’t generally use the AKT tokens 
+    			End users don’t generally use the AKRO tokens 
     		</li>
     	</ul>
     </td> 
@@ -208,7 +208,7 @@ Earn additional rewards in tokens from a Growth Fund
 Staking and governance functions are  enabled by holding the token which provides both an incentive and skin in the game to facilitate sustainable network growth.
     		</li>
     		<li>
-Network keepers act as underwriters of Guilds’ default risk. They get  rewards for correct default risk predictions through a % of the Capital Provider income from a specific Guild. In some cases - additional rewards (AKT tokens from Growth Fund). The idea is to support the network’s bootstrapping at its early stages of operation by awarding additional tokens to the stakers. This approach proved its efficiency to engage token holders to stake their tokens in well-known Livepeer project.
+Network keepers act as underwriters of Guilds’ default risk. They get  rewards for correct default risk predictions through a % of the Capital Provider income from a specific Guild. In some cases - additional rewards (AKRO tokens from Growth Fund). The idea is to support the network’s bootstrapping at its early stages of operation by awarding additional tokens to the stakers. This approach proved its efficiency to engage token holders to stake their tokens in well-known Livepeer project.
     		</li>
     		<li>
 Their stake is partially burnt if one Guild member defaults on debt
@@ -534,7 +534,7 @@ The main variables to govern are listed below:
 * Penalty fee, the penalty applied to a stake in case of dishonest behaviour of a Guild
 Intra-network interest rate, the maximum interest rate that can be applied to a loan in the network
 
-* Governance fee,  which is charged in AKT tokens from every successfully repaid loan and burned, initially established as zero
+* Governance fee,  which is charged in AKRO tokens from every successfully repaid loan and burned, initially established as zero
 
 **Actors incentivization**
 
@@ -637,9 +637,9 @@ This rule is applied only if N periods have passed. If the system is just launch
 
 The first token function is a collective selection of trustworthy AFOs via staking in favor of AFO associations, Guilds. An AFOs within-network debt creation is based on the C2FC concept that was described above. The issuance of C2FCs by AFOs is initially limited and depends only on community trust (or number of tokens, staked in favor of their Guild).
 
-Any AKT token holder can stake his tokens on behalf of any Guild they trust, for example, as a result of a careful examination of a Guild’s financial flows and history. The amount of debt that can be issued by a Guild is limited by its share in overall staked tokens, which are equivalent to its community trust. The possibility to work with loans attracted by the Guild is managed inside it, the most obvious approach being to select AFOs by their stakes in favor of this Guild and taking into account its financial history. Whichever method of internal loan management they choose, the responsibility for loan repayment pertains to the Guild as a collective.
+Any AKRO token holder can stake his tokens on behalf of any Guild they trust, for example, as a result of a careful examination of a Guild’s financial flows and history. The amount of debt that can be issued by a Guild is limited by its share in overall staked tokens, which are equivalent to its community trust. The possibility to work with loans attracted by the Guild is managed inside it, the most obvious approach being to select AFOs by their stakes in favor of this Guild and taking into account its financial history. Whichever method of internal loan management they choose, the responsibility for loan repayment pertains to the Guild as a collective.
 
-## **Token Model (AKT)**
+## **Token Model (AKRO)**
 
 <table style="width:100%">
 	<tr><th></th><th></th></tr>
@@ -679,13 +679,13 @@ Curated supply of community-vetted borrowers and incentivized external lenders b
 
 *We are using a similar governance approach.
 
-** We don’t have token inflation as in the Livepeer protocol, but we have similar mechanics to delegate stakes in favor of network actors and allow them to perform actions in the network. Our actors are rewarded in AKT for their staking activity from the Growth Fund.
+** We don’t have token inflation as in the Livepeer protocol, but we have similar mechanics to delegate stakes in favor of network actors and allow them to perform actions in the network. Our actors are rewarded in AKRO for their staking activity from the Growth Fund.
 
 **Token Design Principles**
 
-The main issue that prevents the informal economy from scaling is the fact that AFOs are economically isolated from each other due to a lack of trust. The AKT token design was introduced with the purpose to solve this problem and establish a trusted network amongst potentially adversarial parties. 
+The main issue that prevents the informal economy from scaling is the fact that AFOs are economically isolated from each other due to a lack of trust. The AKRO token design was introduced with the purpose to solve this problem and establish a trusted network amongst potentially adversarial parties. 
 
-The AKT token was designed to solve the problem of network trust and enable network governance. At its core, it involves two processes: Community Trust –staking in favor of Guilds – and the Governance process.
+The AKRO token was designed to solve the problem of network trust and enable network governance. At its core, it involves two processes: Community Trust –staking in favor of Guilds – and the Governance process.
 
 The problem of mistrust is solved by using special staking mechanisms (Community trust). The staking process is designed to make fraudulent activity unprofitable and reward honest and reliable participants. The governance process is modelled largely on MakerDAO and designed to balance the interests of various actors in the network.
 
@@ -697,11 +697,11 @@ Using the OutlierVentures classification [23], the Akropolis token can be classi
 
 Our token is classified as a Network Token, combining the Work and Governance functionalities. It provides functionality within the Akropolis network, and can be used to control the access to liquidity, provide governance functionality, and/or contribute capital to the network. 
 
-<u>As such, the AKT token is an essential element of the protocol internal economy and cannot be replaced by an external stablecoin. The token staking and governance approach requires a token whose value is connected to the current network and not tied to other projects and networks.</u>
+<u>As such, the AKRO token is an essential element of the protocol internal economy and cannot be replaced by an external stablecoin. The token staking and governance approach requires a token whose value is connected to the current network and not tied to other projects and networks.</u>
 
 Other examples of network tokens with aligned objectives are those of Ocean Protocol [26], Fetch [27], and Ethereum.
 
-The loans will be provided in known and reliable stablecoins, which will be further used to repay such loans and interest. AKT will not be used for this purpose. AKT tokens only serve to create an incentivization scheme for the interaction of different AFOs with each other. The implementation of this mechanism will be within the interoperability layer of our protocol. The interoperability layer’s main purpose is to enable AFOs to seamlessly and cheaply exchange value and data.
+The loans will be provided in known and reliable stablecoins, which will be further used to repay such loans and interest. AKRO will not be used for this purpose. AKRO tokens only serve to create an incentivization scheme for the interaction of different AFOs with each other. The implementation of this mechanism will be within the interoperability layer of our protocol. The interoperability layer’s main purpose is to enable AFOs to seamlessly and cheaply exchange value and data.
 
 **Value Proposition**
 
@@ -765,7 +765,7 @@ Our generalised approach will initially focus on informal co-operatives and dias
 
 * Complexity of product usage for ordinary users in target countries
 
-**Risks, connected with implementation of the AKT token model**
+**Risks, connected with implementation of the AKRO token model**
 
 * The collection of a majority of tokens by one of the three stakeholder groups (Guilds/AFOs, Network Keepers, Capital Providers), which will lead to a non-balanced governance strategy
 
@@ -859,11 +859,11 @@ Penalty fee - a penalty, applied in situations of debt default of at least one G
 <br/>
 Infra-network interest rate [37] - the maximum value of an interest rate that can be applied to a loan.
 <br/>
-Governance fee - the percentage of a debt that is required to be paid in AKT tokens which are burned thereafter. Similar to MKR in MakerDAO.
+Governance fee - the percentage of a debt that is required to be paid in AKRO tokens which are burned thereafter. Similar to MKR in MakerDAO.
 <br/>
-Staking  - AKT tokens placed as a risky deposit (commonly known as skin in the game) on a specific smart contract with purpose to perform the “selection” of honest Guilds by collective risk assessment. If the Guild members repay their debt diligently, the person who made a stake receives a reward in the form of a stability fee and, during the growth process additional rewards in AKT tokens.
+Staking  - AKRO tokens placed as a risky deposit (commonly known as skin in the game) on a specific smart contract with purpose to perform the “selection” of honest Guilds by collective risk assessment. If the Guild members repay their debt diligently, the person who made a stake receives a reward in the form of a stability fee and, during the growth process additional rewards in AKRO tokens.
 <br/>
-Growth Fund - storage (smart-contract) for AKT tokens that are used for rewarding Network Keepers during the network bootstrapping process</td> </tr>
+Growth Fund - storage (smart-contract) for AKRO tokens that are used for rewarding Network Keepers during the network bootstrapping process</td> </tr>
  </table>
 
  <br/>

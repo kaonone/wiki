@@ -144,7 +144,7 @@ MakerDAO and Livepeer as reference models. For more details, please see our [Wik
 
 ### **What’s the necessity for token issuing?**
  
-A native AKT token is required to enable fiscal governance of the internal network economy and solve for trust in cases of credit issuance between network members.  
+A native AKRO token is required to enable fiscal governance of the internal network economy and solve for trust in cases of credit issuance between network members.  
 Token issuance is required to ensure wide initial distribution of the token.
  
 For more details, please see our [Tokenomics Wiki Page](https://wiki.akropolis.io/tokenomics/#token-type-what-utility-does-the-token-provide).
@@ -153,7 +153,7 @@ For more details, please see our [Tokenomics Wiki Page](https://wiki.akropolis.i
 ### **Why not use stablecoin instead of your token?**
  
 Our protocol has an internal economy. Governance of the internal economy requires an internal token. The token staking and governance approach requires a token whose value is connected to the current network and not tied to other projects and networks.
-As such, the AKT token is an essential element of the protocol internal economy and cannot be replaced by an external stablecoin. 
+As such, the AKRO token is an essential element of the protocol internal economy and cannot be replaced by an external stablecoin. 
  
 Our team will continue improving the model through collaboration with the largest blockchain research centre in Europe, University College London, and their token economics research programme, detailed [here](http://blockchain.cs.ucl.ac.uk/call-for-proposals/).
 
