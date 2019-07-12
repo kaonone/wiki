@@ -2,21 +2,25 @@
 
 ## 1st round: 
 
-bvfsdzbniruelbgh 
+bvfsdzbniruelbgh<br/> 
 abandon autokey
 
 ## 2nd round:
 
-ivojvubjediktjfj
-6 = 2+4
-7 = 5+1
-8 = 5+3
+ivojvubjediktjfj<br/>
+
+6 = 2+4<br/>
+7 = 5+1<br/>
+8 = 5+3<br/>
 
 ## 3rd round:
 
 4C6H 8C2A6 2?J 2:>
 <br/>
 <br/>
+
+red 47
+
 
 It's not all the parts, you need to find the ones released today.
 Then go and fill your answer [here](https://akroquest.typeform.com/to/qQTpX1).
