@@ -27,5 +27,10 @@
 
 <img width="256" src="/images/logo/2x/png/akropolislogoportraitcolor@2x.png">
 
+### **Logo**
+
+<img width="256" src="/images/logo/akrocmc.png">
+
+
 <br/>
 <br/>
