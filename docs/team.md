@@ -109,22 +109,7 @@ Peter has been involved in the pension industry in Europe, Asia, and the USA in 
 
 Fintech professional with 10+ years experience. Prior to joining Akropolis overseed all product development for incubator projects at fintech fund. Earlier worked at Digital Business Development Department at VTB Bank, one of the leading universal banks of Russia. Graduated Lomonosov MSU, PhD in computer Science & Mathematics. Launched several startups from 0, also under management VTB bank integrated and launched digital sales.
 
-</br>
-</br>
-<img src="/images/team/andrey@2x.png" width="180" alt="drawing" />
 
-### [**Andrew Bal**](https://www.linkedin.com/in/abalyasnikov)
-
-
-**Product**
-
-**Focus**: PCustomer Development, Product Development, Product Management, Digital Marketing, Data Analysis
-
-**Experience**: Senior Product Owner, QIWI • Head of Product, Zerion • BSc World Economy
-
-[**LinkedIn**](https://www.linkedin.com/in/abalyasnikov)
-
-Product Owner with more than 5 years experience, including Nasdaq-listed payment service provider QIWI, market cap US$882M and backed by Sberbank fintech startup Evotor. Andrew worked as a Product Owner and Senior Product Owner at QIWI in 2014-2015. In Q4 2014 he successfully launched more than 20 marketing campaigns (including joint campaigns with AliExpress and eBay) that brought more than 3M new users to QIWI Wallet. He was one of the first employees of fintech startup Evotor and was instrumental in company's growth from 10 to 250+ people and from 0 to 300 000+ business clients. In Evotor he built the product development process from scratch and hired more than 30 employees. Evotor is a smart cashier platform and marketplace founded in 2016 by QIWI co-founder Andrey Romanenko and is majority backed by Sberbank, the largest state-owned bank in Russia. 
 
 </br>
 </br>
