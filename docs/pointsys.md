@@ -66,7 +66,7 @@ In addition to quest completion winnings, points will be awarded to those who pa
 
 ## Activity Rewards
 
-Participation in the Akropolis Community can be rewarded for more than just playing and winning the quest. Activities carried out by community members leading up to and during the quest will also be awarded. A cumulative of **39,000 Points** is available on the table for those who exhibit their creative flair in the ways described below. Deadline for sumbissions is July 31st, 2019. Please fill this form https://akroquest.typeform.com/to/YeBgSw
+Participation in the Akropolis Community can be rewarded for more than just playing and winning the quest. Activities carried out by community members leading up to and during the quest will also be awarded. A cumulative of **39,000 Points** is available on the table for those who exhibit their creative flair in the ways described below. Deadline for sumbissions is July 31st, 2019. Please fill [this form](https://akroquest.typeform.com/to/YeBgSw).
 
 **Articles**: **10** well thought out articles submitted leading up to, during, and after the quest (until a set date) will be rewarded a total of **2,750 Points**, distributed as follows:
 
