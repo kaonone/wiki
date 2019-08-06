@@ -50,7 +50,9 @@ pages:
   - Whitepaper: 
     - May 2019: 'whitepaper.md'
     - March 2018: 'tech_whitepaper.md'
-  - Tokenomics: 'tokenomics.md'
+  - Tokenomics: 
+    - Incentive Design & Token Utility: 'tokenomics.md'
+    - Token Release: 'tokendetails.md'
   - FAQ: 'FAQ.md'
   - Quest:
     - Quest 101:
