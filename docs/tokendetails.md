@@ -1,5 +1,17 @@
-# Token Release Schedule
+# Token Details
 
+**Contract address** - 0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7
+
+**Symbol** - AKRO
+
+**Decimals** - 18
+
+**Sypply** - 4,000,000,000
+
+
+## Token Release Schedule
+
+460,000,000 tokens (11.5% of total token supply) was released on listing on Huobi Global (8% - Huobi Prime Offering, 3.5% - Foundation). 
 
 | **Who**|**Timelock contract address**|**Release date**|**Total number of tokens**|
 |----------	|-------------	|---	|---	|
@@ -7,7 +19,7 @@
 | Pre-sale, Marketing |  0x5baFf73622FE06282496FABebc8711b57cC75d42 |  16.09.2019 | 135,000,000 (75,000,000 - Pre-sale, 60,000,000 - Marketing)| 
 | Pre-sale, Marketing, Foundation | 0x7E8D536600d2a66321f8A02DdC9763520200145D | 16.10.2019 | 135,000,000 (75,000,000 - Pre-sale, 40,000,000 - Marketing, 20,000,000 - Foundation)|
 | Pre-sale, Marketing, Foundation | 0xa2cdF1944C40f2511Cb3fdD975b45fF0D217296c | 16.11.2019 | 195,000,000 (75,000,000 - Pre-sale, 100,000,000 - Marketing, 20,000,000 - Foundation)|
-| Pre-sale, Marketing | 0x7aDCAcC6D4b3cB8FE456B57EF6d9A9ab3368d0e8 | 16.12.2019 | 235,000,000 (75,000,000 - Pre-sale, 160,000,000 - Marketing)|
+| Pre-sale, Marketing | 0x7aDCAcC6D4b3cB8FE456B57EF6d9A9ab3368d0e8 | 16.12.2019 | 235,000,000 (75,000,000 - Pre-sale, 120,000,000 - Marketing)|
 | Pre-sale, Marketing, Foundation | 0x88D73c2Ad07b026b5CBA10C3186C9dd107f171a9 | 16.01.2020 | 235,000,000 (75,000,000 - Pre-sale, 160,000,000 - Marketing, 40,000,000 - Foundation)|
 |Pre-sale | 0xcd9Af4fCB3B0eaC14bfF9F2753f627d43ee08dA9 | 16.02.2020 | 75,000,000 | 
 | Pre-sale | 0x176a211D5f4C2045310555c31E7DaDB5550aCB58 | 16.03.2020 | 75,000,000 |
