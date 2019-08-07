@@ -26,7 +26,7 @@ Creating an AFO in the Akropolis Protocol is simple and easy-:
 
 2. Select “Rinkeby Test Network” from the top menu with the networks (yellow dot indicates Rinkeby).
 
-3. Request funds to the Rinkeby Faucet, follow their steps.
+3. Request funds to the [Rinkeby Faucet](https://faucet.rinkeby.io/), follow their steps.
 
 4. Request Test DAI tokens — please fill up this form, we will be sending test DAI on a daily basis.
 5. Check the funds are in your Rinkeby Wallet.
