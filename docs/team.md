@@ -58,23 +58,6 @@ Alex has both shipped product in fintech, banking, and gaming, and is passionate
 
 </br>
 </br>
-<img src="/images/team/koz@2x.png" width="180" alt="drawing" />
-
-### [**Alex Koz**](https://github.com/fzzr-)
-
-
-**Blockchain R&D**
-
-**Focus**: Polkadot/Substrate, Rust, WASM, Haxe, Java, Obj-C++, Python
-
-**Experience**: VMail.ru • Rambler • Sberbank • Leo Burnett • Open Source contributor
-
-[**LinkedIn**](https://www.linkedin.com/in/akozlovskij/)  | [**Github**](https://github.com/fzzr-)
-
-Software Engineer, Consultant, Game Developer & reverse-engineering enthusiast. OSS enthusiast, active contributor of DDG, Haxe. Had more than fifteen years of development of real-world applications since 2000. Worked for many companies such as SmartGames, Dulton Media, Games.Mail.ru, Leo Burnett, Rambler, Clickberry and other companies with various projects.
-
-</br>
-</br>
 <img src="/images/team/peter@2x.png" width="180" alt="drawing" />
 
 ###[**Peter Robertson**](https://www.linkedin.com/in/peter-robertson-0780bba/)
