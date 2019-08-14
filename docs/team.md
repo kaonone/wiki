@@ -147,6 +147,40 @@ Have more then 4 years of development expierence, including blockchain and tradi
 
 </br>
 </br>
+<img src="/images/team/andrew@2x.png" width="180" alt="drawing" />
+
+### [**Andrew Orlov**](https://github.com/andor0)
+
+
+**Software Development**
+
+**Focus**: Rust, Erlang, Elixir, Python, Haskell, WASM, Polkadot/Substrate
+
+**Experience**: MSc Computer systems, Complexes and Networks
+
+[**Github**](https://github.com/andor0)
+
+Andrew is a MSc Computer systems, Complexes and Networks. His skills incude  Rust, Erlang, Elixir, Python, Haskell, WASM, Polkadot/Substrate. 13+ years of commercial development.
+
+</br>
+</br>
+<img src="/images/team/alexg@2x.png" width="180" alt="drawing" />
+
+### [**Alex Gnatovskyi**](https://github.com/alekspickle)
+
+
+**Software Development**
+
+**Focus**: Rust, NodeJs, Python, React, Polkadot/Substrate
+
+**Experience**: BSc Electrical Engineering and Electrotechnologies
+
+[**Github**](https://github.com/alekspickle)
+
+Alex is a BSc Electrical Engineering and Electrotechnologies. His skills include Rust, NodeJs, Python, React, Polkadot/Substrate. 2.5+ years of commercial development experience.
+
+</br>
+</br>
 <img src="/images/team/mpf@2x.png" width="180" alt="drawing" />
 
 ### [**María Paula Fernández**](https://www.linkedin.com/in/maría-paula-fernández-a96a8034/)
