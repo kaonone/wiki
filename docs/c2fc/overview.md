@@ -26,9 +26,13 @@ Use this dApp made by the Akropolis team to manage C2FC creation, trading and co
 
 **Built with [MakerDAO](https://makerdao.com) + [0x](http://0x.org) + [MetaMask](https://metamask.io/)**
 
-## [**TestNetApp (Kovan)**](https://testnet.cashflowrelay.com/)
+## [CashflowRelay Tutorial Video](https://www.youtube.com/watch?v=-FPbc-ttMd4c)
 
-## [**Mainnet App**](https://mainnet.cashflowrelay.com/)
+[![](http://i3.ytimg.com/vi/-FPbc-ttMd4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-FPbc-ttMd4c)
+
+### [**Try the TestNetApp on Kovan**](https://testnet.cashflowrelay.com/)
+
+### [**Try the Mainnet App**](https://mainnet.cashflowrelay.com/)
 
 
 </br>
@@ -103,19 +107,10 @@ Step 2: Sign the encrypted message to prove ownership of your address.
 
 Step 3: Select options you want and get ready to own the first C2FC, linked personally to you. Now you can trade it on 0x.
 
-## [Akropolis Cashflow Relay](https://www.youtube.com/watch?v=-FPbc-ttMd4c)
 
-C2FC bridges traditional finance and Web3 by providing DeFi and Web3 entrepreneurs with capital to grow. Accelerate growth without giving up equity if you are an company or unlock new ways of funding your future if you are an independent.
+ [**TestNetApp (Kovan)**](https://testnet.cashflowrelay.com/)
 
-[![](http://i3.ytimg.com/vi/-FPbc-ttMd4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-FPbc-ttMd4c)
-
-[*Watch on Youtube>>*](https://www.youtube.com/watch?v=-FPbc-ttMd4c)
-<br/>
-<br/>
-
- [**>>>Try the TestNetApp on Kovan**](https://testnet.cashflowrelay.com/)
-
- [**>>>Try theMainnet App**](https://mainnet.cashflowrelay.com/)
+ [**Mainnet App**](https://mainnet.cashflowrelay.com/)
 
 </br>
 </br>
