@@ -1020,34 +1020,36 @@
 <p>2) Go to <em>Settings</em> -&gt; <em>Developer</em>  and insert the following types description in the textbox (just copy&amp;paste it) and hit “Save it” button. </p>
 <pre><code class="bash">
 {
-    &quot;Count&quot;: &quot;u64&quot;,
-    &quot;DaoId&quot;: &quot;u64&quot;,
-    &quot;MemberId&quot;: &quot;u64&quot;,
-    &quot;ProposalId&quot;: &quot;u64&quot;,
-    &quot;VotesCount&quot;: &quot;MemberId&quot;,
-
-    &quot;Dao&quot;: {
-     &quot;address&quot;: &quot;AccountId&quot;,
-     &quot;name&quot;: &quot;Text&quot;,
-     &quot;description&quot;: &quot;Bytes&quot;,
-     &quot;founder&quot;: &quot;AccountId&quot;
-    },
-    &quot;Action&quot;: {
-     &quot;_enum&quot;: {
-       &quot;EmptyAction&quot;: null,
-
-       &quot;AddMember&quot;: &quot;AccountId&quot;,
-       &quot;RemoveMember&quot;: &quot;AccountId&quot;
-     }
-    },
-    &quot;Proposal&quot;: {
-     &quot;dao_id&quot;: &quot;DaoId&quot;,
-     &quot;action&quot;: &quot;Action&quot;,
-     &quot;open&quot;: &quot;bool&quot;,
-     &quot;voting_deadline&quot;: &quot;BlockNumber&quot;,
-     &quot;yes_count&quot;: &quot;MemberId&quot;,
-     &quot;no_count&quot;: &quot;MemberId&quot;
+  &quot;Count&quot;: &quot;u64&quot;,
+  &quot;DaoId&quot;: &quot;u64&quot;,
+  &quot;MemberId&quot;: &quot;u64&quot;,
+  &quot;ProposalId&quot;: &quot;u64&quot;,
+  &quot;VotesCount&quot;: &quot;MemberId&quot;,
+  &quot;Days&quot;: &quot;u32&quot;,
+  &quot;Rate&quot;: &quot;u32&quot;,
+  &quot;Dao&quot;: {
+    &quot;address&quot;: &quot;AccountId&quot;,
+    &quot;name&quot;: &quot;Text&quot;,
+    &quot;description&quot;: &quot;Bytes&quot;,
+    &quot;founder&quot;: &quot;AccountId&quot;
+  },
+  &quot;Action&quot;: {
+    &quot;_enum&quot;: {
+      &quot;EmptyAction&quot;: null,
+      &quot;AddMember&quot;: &quot;AccountId&quot;,
+      &quot;RemoveMember&quot;: &quot;AccountId&quot;,
+      &quot;GetLoan&quot;: &quot;(Vec&lt;u8&gt;, Days, Rate, Balance)&quot;,
+      &quot;Withdraw&quot;: &quot;(AccountId, Balance, Vec&lt;u8&gt;)&quot;
     }
+  },
+  &quot;Proposal&quot;: {
+    &quot;dao_id&quot;: &quot;DaoId&quot;,
+    &quot;action&quot;: &quot;Action&quot;,
+    &quot;open&quot;: &quot;bool&quot;,
+    &quot;voting_deadline&quot;: &quot;BlockNumber&quot;,
+    &quot;yes_count&quot;: &quot;VotesCount&quot;,
+    &quot;no_count&quot;: &quot;VotesCount&quot;
+  }
 }
 
 
@@ -1099,7 +1101,7 @@
 <p>To create a DAO you will need an account with some AKROs. </p>
 <p>1) Go to <em>Extrinsics</em> tab and select your account address in <em>using the selected account</em>. </p>
 <p>2) Select "dao" in <em>submit the following extrinsic</em></p>
-<p>3) Insert <em>name</em> of new DAO and it's <em>description</em> in the HEX format. You can use this<a href="https://www.rapidtables.com/convert/number/ascii-to-hex.html">utility</a> to convert ASCII symbols to HEX (please remove space symbols). Length of DAO's name should be less than 255 symbols, the length of description is between 10 and 4096 symbols. </p>
+<p>3) Insert <em>name</em> of new DAO and it's <em>description</em> in the HEX format. You can use this <a href="https://www.rapidtables.com/convert/number/ascii-to-hex.html">utility</a> to convert ASCII symbols to HEX (please remove space symbols). Dao's name should have only 'a' - 'z', 'A' - 'Z', '0' - '9', '_' and '-' symbols. Length of DAO's name is between 10 and 255 symbols, the length of description is between 10 and 4096 symbols. </p>
 <p>3) Click <em>Submit</em> button</p>
 <p>After DAO is created you will see a DAO page with minimal balance:</p>
 <p>4) You can checkDAO stats in <em>Chain state</em> tab. Select <em>dao</em> in <em>selected state query</em> and select what kind of data you want to get: </p>
