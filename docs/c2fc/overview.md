@@ -30,9 +30,14 @@ Use this dApp made by the Akropolis team to manage C2FC creation, trading and co
 
 [![](http://i3.ytimg.com/vi/-FPbc-ttMd4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-FPbc-ttMd4c)
 
-### [**Try the TestNetApp on Kovan**](https://testnet.cashflowrelay.com/)
-
-### [**Try the Mainnet App**](https://mainnet.cashflowrelay.com/)
+<div align="middle">
+  <a href="https://testnet.cashflowrelay.com/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/development/kovan.png" alt="drawing" width="230">
+  </a>
+  <a href="https://mainnet.cashflowrelay.com/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/development/mainnet.png" alt="drawing" width="230">
+  </a>
+</div>
 
 
 </br>
