@@ -15,34 +15,36 @@ This guide will walk you through the process of connecting and creating your acc
 ```bash
 
 {
-    "Count": "u64",
-    "DaoId": "u64",
-    "MemberId": "u64",
-    "ProposalId": "u64",
-    "VotesCount": "MemberId",
-    
-    "Dao": {
-     "address": "AccountId",
-     "name": "Text",
-     "description": "Bytes",
-     "founder": "AccountId"
-    },
-    "Action": {
-     "_enum": {
-       "EmptyAction": null,
-    
-       "AddMember": "AccountId",
-       "RemoveMember": "AccountId"
-     }
-    },
-    "Proposal": {
-     "dao_id": "DaoId",
-     "action": "Action",
-     "open": "bool",
-     "voting_deadline": "BlockNumber",
-     "yes_count": "MemberId",
-     "no_count": "MemberId"
+  "Count": "u64",
+  "DaoId": "u64",
+  "MemberId": "u64",
+  "ProposalId": "u64",
+  "VotesCount": "MemberId",
+  "Days": "u32",
+  "Rate": "u32",
+  "Dao": {
+    "address": "AccountId",
+    "name": "Text",
+    "description": "Bytes",
+    "founder": "AccountId"
+  },
+  "Action": {
+    "_enum": {
+      "EmptyAction": null,
+      "AddMember": "AccountId",
+      "RemoveMember": "AccountId",
+      "GetLoan": "(Vec<u8>, Days, Rate, Balance)",
+      "Withdraw": "(AccountId, Balance, Vec<u8>)"
     }
+  },
+  "Proposal": {
+    "dao_id": "DaoId",
+    "action": "Action",
+    "open": "bool",
+    "voting_deadline": "BlockNumber",
+    "yes_count": "VotesCount",
+    "no_count": "VotesCount"
+  }
 }
 
 
@@ -100,7 +102,7 @@ To create a DAO you will need an account with some AKROs.
 
 2) Select "dao" in *submit the following extrinsic*
 
-3) Insert *name* of new DAO and it's *description* in the HEX format. You can use this[utility](https://www.rapidtables.com/convert/number/ascii-to-hex.html) to convert ASCII symbols to HEX (please remove space symbols). Length of DAO's name should be less than 255 symbols, the length of description is between 10 and 4096 symbols. 
+3) Insert *name* of new DAO and it's *description* in the HEX format. You can use this [utility](https://www.rapidtables.com/convert/number/ascii-to-hex.html) to convert ASCII symbols to HEX (please remove space symbols). Dao's name should have only 'a' - 'z', 'A' - 'Z', '0' - '9', '_' and '-' symbols. Length of DAO's name is between 10 and 255 symbols, the length of description is between 10 and 4096 symbols. 
 
 3) Click *Submit* button
 
