@@ -219,23 +219,6 @@ Yana Marakhonova is a young blockchain and crypto enthusiast. She has been manag
 ## **Advisors**
 
 
-<img src="/images/team/ian@2x.png" width="180" alt="drawing" />
-
-### [**Ian Grigg**](https://www.linkedin.com/in/ian-grigg-0379/)
-
-
-**Blockchain R&D Advisor**
-
-**Focus**: Financial Cryptography, Blockchain architecture, Java
-
-**Experience**: Partner at Block.one (EOS) • Architecture Consultant at R3 • Inventor of Ricardian Contract
-
-Ian is a noted financial cryptographer, having entered the space in 1995. He invented the Ricardian Contract as a process to capture all of the prose in a legal contract of issuance, and permit unique identification among many competing issues without the need for a centralised registry.
-He is co-inventor of triple entry accounting, which has been termed by some as the most significant change to accounting in 500 years. As well as doing seminal work in digital payment and issuance or registry systems, he has created models for identity and community which have been trialled successfully in low trust environments.
-Ian worked for R3, a $100mn+ blockchain consortium of the largest financial services firms and technology companies in the world. Leading investors included SBI Group, Bank of America Merrill Lynch, HSBC, Intel and Temasek. Ian continues to consult with leading firms in the blockchain space and he is currently a partner at a $200mn post-ICO venture Block One.
-
-</br>
-</br>
 <img src="/images/team/bokky@2x.png" width="180" alt="drawing" />
 
 ### [**Bokky Poobah**](https://github.com/bokkypoobah)
@@ -254,7 +237,7 @@ Bokky is an Actuary and Quantitative Software Developer with over 28 years of in
 </br>
 <img src="/images/team/ajit@2x.png" width="180" alt="drawing" />
 
-### [**Ajit Tripathi**](https://www.linkedin.com/in/mrdearg/)
+### [**Ajit Tripathi**](https://www.linkedin.com/in/ajitkt/)
 
 
 **Fintech Advisor**
