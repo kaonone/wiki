@@ -2,7 +2,7 @@
 
 ##[DeFi](https://defi.network)
 
-<img src="/images/defi/definet.png" alt="drawing" />
+<img src="/images/defi/definet.jpg" alt="drawing" />
 
 An official site of DeFi movement with explanation of its concept and main ideas.
 
@@ -11,7 +11,7 @@ An official site of DeFi movement with explanation of its concept and main ideas
 
 ##[DeFi Pulse](https://defipulse.com)
 
-<img src="/images/defi/defipulse.png" alt="drawing" />
+<img src="/images/defi/defipulse.jpg" alt="drawing"/>
 
 DeFi projects global list and ranking.
 
@@ -20,15 +20,15 @@ DeFi projects global list and ranking.
 
 ##[DeFi Prime](https://defiprime.com)
 
-<img src="/images/defi/defiprime.png" alt="drawing" />
+<img src="/images/defi/defiprime.jpg" alt="drawing" />
 
 DeFi projects catalog with landing rates, blog and events tracking.
 
 <br/>
 <br/>
 
-##[DeFi](https://defirate.com)
+##[DeFi Rate](https://defirate.com)
 
-<img src="/images/defi/defirate.png" alt="drawing" />
+<img src="/images/defi/defirate.jpg" alt="drawing" />
 
 Reviews of different DeFi sectors and how do they work.
