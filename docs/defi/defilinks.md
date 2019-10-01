@@ -1,6 +1,6 @@
 ﻿# Useful links
 
-##[DeFi](https://defi.network)
+##[DeFi](https://t.me/de_fi)
 
 <img src="/images/defi/definet.jpg" alt="drawing" />
 
