@@ -3,3 +3,11 @@
 ## Articles
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrvQJ4EL31BDlQdB?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## Telegram Channels
+
+[DeFi](t.me/de_fi)
+
+[DeFi Reserach Team](t.me/DeFiResearch)
+
+[DeFi Leaders & Investors](t.me/DeFiLeaders)
