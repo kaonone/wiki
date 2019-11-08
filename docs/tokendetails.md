@@ -1,12 +1,12 @@
 # Token Details
 
-**Contract address** - 0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7
+**Contract address** - [0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7](https://etherscan.io/address/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7)
 
 **Symbol** - AKRO
 
 **Decimals** - 18
 
-**Sypply** - 4,000,000,000
+**Supply** - 4,000,000,000
 
 
 ## Token Release Schedule
