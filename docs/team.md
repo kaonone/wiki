@@ -60,24 +60,6 @@ Alex has both shipped product in fintech, banking, and gaming, and is passionate
 </br>
 <img src="/images/team/peter@2x.png" width="180" alt="drawing" />
 
-###[**Peter Robertson**](https://www.linkedin.com/in/peter-robertson-0780bba/)
-
-
-**Pensions & Insurance**
-
-**Focus**: Digital Assets, Actuarial Science, Financial Product Design, Pensions, Insurance, Strategy, Business Development
-
-**Experience**: Genesis Mining • Vanguard Asset Management • Kings College London
-
-[**LinkedIn**](https://www.linkedin.com/in/peter-robertson-0780bba/) 
-
-Peter is a fellow of the UK actuarial profession with a track record spanning over 30 years in DC pensions, life assurance, and asset management in developed and emerging economies.
-He was involved in setting up new businesses in Germany, China and India where he also spent some time as a non-executive director of IDFC (the Infrastructure Development Finance Corporation). He then helped start up Vanguard Investments UK, arguably the most disruptive new venture in European asset management in many years.
-Peter has been involved in the pension industry in Europe, Asia, and the USA in various capacities, including designing innovative and low cost solutions for UK DC pension investors, as an administrator of corporate and individual pension plans, and as a pension scheme trustee in the Eurozone and Asia.
-
-</br>
-</br>
-<img src="/images/team/ilgiz@2x.png" width="180" alt="drawing" />
 
 ### [**Ilgiz Gimal**](https://ru.linkedin.com/in/ilgiz-gimaltdinov-8bbba411)
 
@@ -115,39 +97,6 @@ Graduated from the Tomsk Polytechnic University in Information Systems and Techn
 </br>
 <img src="/images/team/mikhailk@2x.png" width="180" alt="drawing" />
 
-### [**Mike Krash**](https://github.com/krashaen/)
-
-
-**Software Development**
-
-**Focus**: React, Redux
-
-**Experience**: MSc Engineering • Lead Developer
-
-[**Github**](https://github.com/krashaen/)
-
-Graduated from the Tomsk Polytechnic University, MSc Software Engineering. 5 years development expierence. Prevously worked in several starups as React/Redux Senior Developer.
-
-</br>
-</br>
-<img src="/images/team/dmitryh@2x.png" width="180" alt="drawing" />
-
-### [**Dima Hurs**](https://github.com/Burize/)
-
-
-**Software Development**
-
-**Focus**: React, Redux, Typescript, React Native, Dart, Flutter
-
-**Experience**: BSc Computer Science
-
-[**Github**](https://github.com/Burize/)
-
-Have more then 4 years of development expierence, including blockchain and trading projects. Dima's skills includes deep knowledge in Typescript, Redux, React Native. He was also engaged in mobile apps development, projects architecture optimization and functional updatings. Graduated from the Tomsk Polytechnic University, BSc Computer Science.
-
-</br>
-</br>
-<img src="/images/team/andrew@2x.png" width="180" alt="drawing" />
 
 ### [**Andrew Orlov**](https://github.com/andor0)
 
