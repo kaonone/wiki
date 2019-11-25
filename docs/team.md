@@ -58,7 +58,7 @@ Alex has both shipped product in fintech, banking, and gaming, and is passionate
 
 </br>
 </br>
-<img src="/images/team/peter@2x.png" width="180" alt="drawing" />
+<img src="/images/team/ilgiz@2x.png" width="180" alt="drawing" />
 
 
 ### [**Ilgiz Gimal**](https://ru.linkedin.com/in/ilgiz-gimaltdinov-8bbba411)
@@ -181,6 +181,25 @@ Yana Marakhonova is a young blockchain and crypto enthusiast. She has been manag
 
  Bokky is a world-renowned blockchain and smart contract security expert, who rescues trapped ETH on a regular basis. Also an active Ethereum community leader, Bokky has been working on the ETH Blockchain since it’s platform launch in 2015. The prospect of transacting monetary value over a trusted Ethereum platform by means of smart contract is what excites him the most. Bokky is also a respected smart contract security auditor, having developed and audited smart contracts for over 20 companies, including Status, Cindicator, Stox and others.
 Bokky is an Actuary and Quantitative Software Developer with over 28 years of industry experience with expertise in fixed interest & derivatives in risk management and trading systems, and other blockchain technologies. 
+
+</br>
+</br>
+<img src="/images/team/peter@2x.png" width="180" alt="drawing" />
+
+### [**Peter Robertson**](https://www.linkedin.com/in/peter-robertson-0780bba/)
+
+
+**Pension & Insurance Advisor**
+
+**Focus**: Digital Assets, Actuarial Science, Financial Product Design, Pensions, Insurance, Strategy, Business Development
+
+**Experience**: Genesis Mining • Vanguard Asset Management • Kings College London
+
+Peter is a fellow of the UK actuarial profession with a track record spanning over 30 years in DC pensions, life assurance, and asset management in developed and emerging economies.
+
+He was involved in setting up new businesses in Germany, China and India where he also spent some time as a non-executive director of IDFC (the Infrastructure Development Finance Corporation). He then helped start up Vanguard Investments UK, arguably the most disruptive new venture in European asset management in many years.
+
+Peter has been involved in the pension industry in Europe, Asia, and the USA in various capacities, including designing innovative and low cost solutions for UK DC pension investors, as an administrator of corporate and individual pension plans, and as a pension scheme trustee in the Eurozone and Asia.
 
 </br>
 </br>
