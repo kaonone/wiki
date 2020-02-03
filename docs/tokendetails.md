@@ -18,8 +18,6 @@ Circulating supply *(on 16.01.2020):* &nbsp;&nbsp; 1,105,000,000 <br/>
 
 Actual circulating supply *(on 16.01.2020):* &nbsp;&nbsp; 899 889 500 <br/>
 
-Should have been unlocked *(on 16.01.2020):* &nbsp;&nbsp; 1,475,000,000 <br/>
-
 <table>
 <thead>
 <tr>
