@@ -14,9 +14,11 @@
 460,000,000 AKRO (11.5% of total token supply) were released upon listing on Huobi Global (8% - Huobi Prime Offering, 3.5% - Foundation). 
 <br/> 
 <br/>
-Circulating supply *(on 16.11.2019):* &nbsp;&nbsp; 1,005,000,000 <br/> 
+Circulating supply *(on 16.01.2020):* &nbsp;&nbsp; 1,105,000,000 <br/> 
 
-Actual circulating supply *(on 16.11.2019):* &nbsp;&nbsp; 751 000 000 <br/>
+Actual circulating supply *(on 16.01.2020):* &nbsp;&nbsp; 899 889 500 <br/>
+
+Should have been unlocked *(on 16.01.2020):* &nbsp;&nbsp; 1,475,000,000 <br/>
 
 <table>
 <thead>
@@ -55,21 +57,21 @@ Actual circulating supply *(on 16.11.2019):* &nbsp;&nbsp; 751 000 000 <br/>
 <td><a href="https://etherscan.io/address/0xa2cdF1944C40f2511Cb3fdD975b45fF0D217296c">0xa2c...296c</a></td>
 <td>16.11.2019</td>
 <td>195,000,000 (75,000,000 - Pre-sale, 100,000,000 - Marketing, 20,000,000 - Foundation)</td>
-<td>39%</td>
+<td>100%</td>
 </tr>
 <tr>
 <td>Pre-sale, Marketing</td>
 <td><a href="https://etherscan.io/address/0x7aDCAcC6D4b3cB8FE456B57EF6d9A9ab3368d0e8">0x7aD...d0e8</a></td>
 <td>16.12.2019</td>
 <td>235,000,000 (75,000,000 - Pre-sale, 160,000,000 - Marketing)</td>
-<td>0%</td>
+<td>12.72%</td>
 </tr>
 <tr>
 <td>Pre-sale, Marketing, Foundation</td>
 <td><a href="https://etherscan.io/address/0x88D73c2Ad07b026b5CBA10C3186C9dd107f171a9">0x88D...71a9</a></td>
 <td>16.01.2020</td>
 <td>235,000,000 (75,000,000 - Pre-sale, 120,000,000 - Marketing, 40,000,000 - Foundation)</td>
-<td>0%</td>
+<td>Locked*</td>
 </tr>
 <tr>
 <td>Pre-sale</td>
