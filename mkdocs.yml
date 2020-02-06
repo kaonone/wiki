@@ -45,6 +45,7 @@ pages:
   - Development: 
     - C2FC: 'c2fc/overview.md'
     - Akropolis Network: 'akro-protocol.md'
+    - Akropolis Pool: 'pool.md'
     - Contracts: 'contracts.md'
   - Roadmap: 'roadmap.md'
   - Lightpaper: 'lightpaper.md'
