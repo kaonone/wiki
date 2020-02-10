@@ -1315,10 +1315,10 @@
 <li>Lending funds with the maximum percentage, taking loss risk into account</li>
 <li>Liquidity provision to avoid cash gap and subsequent bankruptcy</li>
 </ul>
-<p>The goal of our pool is to create a community-owned fund that helps its members earn high-interest rates by providing unsecured loans to the members and by providing capital to various liquid DeFi instruments.</p>
+<p>The goal of our pool is to create a community-owned fund that helps its members earn high-interest rates by providing unsecured loans to its the members and by providing capital to various liquid DeFi instruments.</p>
 <h2 id="motivation-objective-features">Motivation / Objective / Features</h2>
 <ol>
-<li>Uncollateralised lending available through the pooling of funds. Currently, in DeFi all lending is over-collateralised.</li>
+<li>Uncollateralised lending available through the pooling of funds. Currently, in DeFi most lending is over-collateralised.</li>
 <li>Maximise earnings to its members</li>
 <li>Incentives for early adopters/users of the pool</li>
 <li>Incentives to grow the pool size through referrals</li>
@@ -1327,8 +1327,8 @@
 <ol>
 <li>Early membership is incentivized by the bonding curve</li>
 <li>Pools growth is incentivized by borrowers as it leads to decreasing of loan&#39;s interest rate</li>
-<li>Incentivize responsible credit risk assessment - risk assessors act as guarantors for the credit and risk their funds being slashed in case of wrong assessment.</li>
-<li>Active voting (equivalent to risk assessment) is incentivized – only active voters earn money in the pool.</li>
+<li>Incentivize responsible credit risk assessment - risk assessors act as guarantors for the credit and their funds are at risk of being slashed in the case of wrong assessment.</li>
+<li>Active voting (equivalent to risk assessment) is incentivized – only active voters i.e. guarantors earn money in the pool.</li>
 </ol>
 <h2 id="improvements-over-traditional-legacy-models">Improvements over traditional / legacy models</h2>
 <ol>
@@ -1346,12 +1346,12 @@
 <h2 id="how-does-it-work">How does it work?</h2>
 <h3 id="entering-and-leaving-the-pool">Entering and leaving the pool</h3>
 <p>A DAO is a community-owned organization where community members collectively made decisions regarding fund management. This can scare people away from entering or leaving the DAO as their funds may be blocked in the DAO, for one reason or another.</p>
-<p>To solve this problem, we use the Continuous Token Model. Users can enter and exit the DAO by selling pTokens price of which is determined by the bonding curve (mathematical curve defining price/supply correlation). This approach not only solves the problem of potential funds lock but also gives an additional incentive for the first users due to the bonding curve design. The cost of the token on the bonding curve depends on the amount of liquidity in the pool: with increasing liquidity, the cost of the DAO token increases, while lesser liquidity decreases it.</p>
+<p>To solve this problem, we use the Continuous Token Model. Users can enter and exit the DAO by buying and selling pTokens price of which is determined by the bonding curve (mathematical curve defining price/supply correlation). This approach not only solves the problem of potential funds lock but also gives an additional incentive for the first users due to the bonding curve design. The cost of the token on the bonding curve depends on the amount of liquidity in the pool: with increasing liquidity, the cost of the DAO token increases, while lesser liquidity decreases it.</p>
 <p>However, exiting the DAO using the bonding curve exposes the liquidity problem - <em>what if someone wants to exit the pool with no liquidity?</em> (for example, all liquid assets are distributed to borrowers). In our case, such a situation is impossible due to the design of the pool.</p>
 <p>&quot;Ragequit&quot; is a mechanism for leaving the pool at any moment, if you haven&#39;t staked (voted to give a loan) for somebody. MolochDAO was first to introduce this approach. We implemented our own variation of &quot;ragequit&quot; using the Bonding Curve mechanism. More on it in &quot;Bonding curve section&quot;</p>
 <h3 id="redit-issuance">Сredit issuance</h3>
 <p><img src="/images/development/pool/issuance.jpg" alt="drawing" /></p>
-<p>One of the main use cases of our product is attracting unsecured (uncollateralized) credit by pool users. Why the creation of such a product is so important to us? In developing countries, unsecured credit is often considered as the only tool to improve life quality (see Grameen Bank, Chamas, etc.), because people there don&#39;t have access to the proper banking system. At the same time, all existing DeFi products offer over-collateralized lending that attracts only specific users - either traders who want more leverage for trading or holders who believe in asset growth but need DAI to pay for current expenses. Our focus is on building financial products for underbanked people, who are not knowledgeable on the crypto market.</p>
+<p>One of the main use cases of our product is attracting unsecured (uncollateralized) credit by pool users. Why the creation of such a product is so important to us? In developing countries, unsecured credit is often considered as the only tool to improve life quality (see Grameen Bank, Chamas, etc.), because people there don&#39;t have access to the proper banking system. At the same time, most existing DeFi products offer over-collateralized lending that attracts only specific users - either traders who want more leverage for trading or holders who believe in asset growth but need DAI to pay for current expenses. Our focus is on building financial products for underbanked people, who are not knowledgeable on the crypto market.</p>
 <p>But how can we guarantee the system stability and decrease to a minimum possibility of lending funds to unreliable borrowers (which will lead to the cash gap in the pool)? We decided to use a social reputation system to solve this issue. Moreover, at the current level of development of decentralized services, we do not believe in opportunistic attempts to create a &quot;single rating / scoring&quot; for all users.</p>
 <p>We have chosen to use a simpler approach in our product, which we call &quot;Community grant&quot; - all platform loans must be 100% secured. In addition to the user&#39;s deposit, other members of the pool can vouch for it. How it works:</p>
 <ol>
@@ -1378,7 +1378,7 @@
 <h3 id="interest-rate-share">Interest rate share</h3>
 <p><img src="/images/development/pool/interest.jpg" alt="drawing" /></p>
 <p>When repaying a loan in DAI, the borrower also pays interest on his loan. 50% of the interest remains in the pool, while the remaining 50% is equally distributed in the form of pTokens between the users who vouched for the borrower, depending on their stake.</p>
-<p>The interest rate is paid by the guarantor in the form of PTK (DAI received from the borrower is used to purchase PTK and distribute it among the guarantors).</p>
+<p>The interest rate is paid by the borrower in the form of PTK (DAI received from the borrower is used to purchase PTK and distribute it among the guarantors).</p>
 <h3 id="ptokens-burning">pTokens burning</h3>
 <p>If the borrower delays the repayment of the loan and does not repay (in full or in part) within the specified period:</p>
 <ol>
