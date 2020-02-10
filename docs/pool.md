@@ -6,7 +6,7 @@ Our pool automates the work of financial organizations, and solves the following
 - Lending funds with the maximum percentage, taking loss risk into account
 - Liquidity provision to avoid cash gap and subsequent bankruptcy
 
-The goal of our pool is to create a community-owned fund that helps its members earn high-interest rates by providing unsecured loans to its the members and by providing capital to various liquid DeFi instruments.
+The goal of our pool is to create a community-owned fund that helps its members earn high-interest rates by providing unsecured loans to its members and by providing capital to various liquid DeFi instruments.
 
 ## Motivation / Objective / Features
 
