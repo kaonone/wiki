@@ -6,11 +6,11 @@ Our pool automates the work of financial organizations, and solves the following
 - Lending funds with the maximum percentage, taking loss risk into account
 - Liquidity provision to avoid cash gap and subsequent bankruptcy
 
-The goal of our pool is to create a community-owned fund that helps its members earn high-interest rates by providing unsecured loans to the members and by providing capital to various liquid DeFi instruments.
+The goal of our pool is to create a community-owned fund that helps its members earn high-interest rates by providing unsecured loans to its the members and by providing capital to various liquid DeFi instruments.
 
 ## Motivation / Objective / Features
 
-1. Uncollateralised lending available through the pooling of funds. Currently, in DeFi all lending is over-collateralised.
+1. Uncollateralised lending available through the pooling of funds. Currently, in DeFi most lending is over-collateralised.
 2. Maximise earnings to its members
 3. Incentives for early adopters/users of the pool
 4. Incentives to grow the pool size through referrals
@@ -19,8 +19,8 @@ The goal of our pool is to create a community-owned fund that helps its members 
 
 1. Early membership is incentivized by the bonding curve
 2. Pools growth is incentivized by borrowers as it leads to decreasing of loan&#39;s interest rate
-3. Incentivize responsible credit risk assessment - risk assessors act as guarantors for the credit and risk their funds being slashed in case of wrong assessment.
-4. Active voting (equivalent to risk assessment) is incentivized – only active voters earn money in the pool.
+3. Incentivize responsible credit risk assessment - risk assessors act as guarantors for the credit and their funds are at risk of being slashed in the case of wrong assessment.
+4. Active voting (equivalent to risk assessment) is incentivized – only active voters i.e. guarantors earn money in the pool.
 
 ## Improvements over traditional / legacy models
 
@@ -41,7 +41,7 @@ The goal of our pool is to create a community-owned fund that helps its members 
 
 A DAO is a community-owned organization where community members collectively made decisions regarding fund management. This can scare people away from entering or leaving the DAO as their funds may be blocked in the DAO, for one reason or another.
 
-To solve this problem, we use the Continuous Token Model. Users can enter and exit the DAO by selling pTokens price of which is determined by the bonding curve (mathematical curve defining price/supply correlation). This approach not only solves the problem of potential funds lock but also gives an additional incentive for the first users due to the bonding curve design. The cost of the token on the bonding curve depends on the amount of liquidity in the pool: with increasing liquidity, the cost of the DAO token increases, while lesser liquidity decreases it.
+To solve this problem, we use the Continuous Token Model. Users can enter and exit the DAO by buying and selling pTokens price of which is determined by the bonding curve (mathematical curve defining price/supply correlation). This approach not only solves the problem of potential funds lock but also gives an additional incentive for the first users due to the bonding curve design. The cost of the token on the bonding curve depends on the amount of liquidity in the pool: with increasing liquidity, the cost of the DAO token increases, while lesser liquidity decreases it.
 
 However, exiting the DAO using the bonding curve exposes the liquidity problem - _what if someone wants to exit the pool with no liquidity?_ (for example, all liquid assets are distributed to borrowers). In our case, such a situation is impossible due to the design of the pool.
 
@@ -51,7 +51,7 @@ However, exiting the DAO using the bonding curve exposes the liquidity problem -
 
 <img src="/images/development/pool/issuance.jpg" alt="drawing" />
 
-One of the main use cases of our product is attracting unsecured (uncollateralized) credit by pool users. Why the creation of such a product is so important to us? In developing countries, unsecured credit is often considered as the only tool to improve life quality (see Grameen Bank, Chamas, etc.), because people there don&#39;t have access to the proper banking system. At the same time, all existing DeFi products offer over-collateralized lending that attracts only specific users - either traders who want more leverage for trading or holders who believe in asset growth but need DAI to pay for current expenses. Our focus is on building financial products for underbanked people, who are not knowledgeable on the crypto market.
+One of the main use cases of our product is attracting unsecured (uncollateralized) credit by pool users. Why the creation of such a product is so important to us? In developing countries, unsecured credit is often considered as the only tool to improve life quality (see Grameen Bank, Chamas, etc.), because people there don&#39;t have access to the proper banking system. At the same time, most existing DeFi products offer over-collateralized lending that attracts only specific users - either traders who want more leverage for trading or holders who believe in asset growth but need DAI to pay for current expenses. Our focus is on building financial products for underbanked people, who are not knowledgeable on the crypto market.
 
 But how can we guarantee the system stability and decrease to a minimum possibility of lending funds to unreliable borrowers (which will lead to the cash gap in the pool)? We decided to use a social reputation system to solve this issue. Moreover, at the current level of development of decentralized services, we do not believe in opportunistic attempts to create a &quot;single rating / scoring&quot; for all users.
 
@@ -81,7 +81,7 @@ To address the second question, we assume that the guarantors from the pool will
 
 When repaying a loan in DAI, the borrower also pays interest on his loan. 50% of the interest remains in the pool, while the remaining 50% is equally distributed in the form of pTokens between the users who vouched for the borrower, depending on their stake.
 
-The interest rate is paid by the guarantor in the form of PTK (DAI received from the borrower is used to purchase PTK and distribute it among the guarantors).
+The interest rate is paid by the borrower in the form of PTK (DAI received from the borrower is used to purchase PTK and distribute it among the guarantors).
 
 ### pTokens burning
 
