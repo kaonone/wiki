@@ -14,7 +14,7 @@
 460,000,000 AKRO (11.5% of total token supply) were released upon listing on Huobi Global (8% - Huobi Prime Offering, 3.5% - Foundation). 
 <br/> 
 <br/>
-Circulating supply *(on 16.01.2020):* &nbsp;&nbsp; 1,105,000,000 <br/> 
+Circulating supply *(on 16.01.2020):* &nbsp;&nbsp; 1,105,000,000.00 <br/> 
 
 Actual circulating supply *(on 16.02.2020):* &nbsp;&nbsp; 960,184,500.00 <br/>
 
