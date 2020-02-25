@@ -61,7 +61,9 @@ After creating the request, you can see it on the “Proposals” page and on th
 
 <details>
 <summary></br></summary> 
+<img src="/images/poolfaq/getcredit3_1.png" alt="drawing" />
 <img src="/images/poolfaq/getcredit3.png" alt="drawing" />
+
 </details>
 
 ### How can I lend funds?
@@ -101,6 +103,7 @@ Yes. Prior to the activation of a loan, any guarantor can withdraw a deposit fro
 <details>
 <summary></br></summary> 
 <img src="/images/poolfaq/stake4.png" alt="drawing" />
+<img src="/images/poolfaq/stake3.png" alt="drawing" />
 </details>
 
 In the pop-up that opens, you need to enter the amount for withdrawal and confirm the intention to withdraw the stake from the loan request, then confirm the transaction is sent.
