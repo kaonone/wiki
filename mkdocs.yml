@@ -46,6 +46,7 @@ pages:
     - C2FC: 'c2fc/overview.md'
     - Akropolis Network: 'akro-protocol.md'
     - Akropolis Pool: 'pool.md'
+    - Akropolis Pool FAQ: 'poolfaq.md'
     - Contracts: 'contracts.md'
   - Roadmap: 'roadmap.md'
   - Lightpaper: 'lightpaper.md'
