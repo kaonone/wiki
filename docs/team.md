@@ -58,26 +58,6 @@ Alex has both shipped product in fintech, banking, and gaming, and is passionate
 
 </br>
 </br>
-<img src="/images/team/ilgiz@2x.png" width="180" alt="drawing" />
-
-
-### [**Ilgiz Gimal**](https://ru.linkedin.com/in/ilgiz-gimaltdinov-8bbba411)
-
-
-**Product**
-
-**Focus**: Product Development, Staging Development, Project Management, Ecosystem Analysis
-
-**Experience**: VTB Bank • PhD Computer Science & Mathematics
-
-[**LinkedIn**](https://ru.linkedin.com/in/ilgiz-gimaltdinov-8bbba411) | [**Github**](https://github.com/apeir99n)
-
-Fintech professional with 10+ years experience. Prior to joining Akropolis overseed all product development for incubator projects at fintech fund. Earlier worked at Digital Business Development Department at VTB Bank, one of the leading universal banks of Russia. Graduated Lomonosov MSU, PhD in computer Science & Mathematics. Launched several startups from 0, also under management VTB bank integrated and launched digital sales.
-
-
-
-</br>
-</br>
 <img src="/images/team/serdtsev@2x.png" width="180" alt="drawing" />
 
 ### [**Dima Serd**](https://github.com/in19farkt)
