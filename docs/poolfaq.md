@@ -4,18 +4,19 @@
 
 ### What is Akropolis pool?
 
-Akropolis Pool is a credit pool where you can get access to loans without the need of large collaterals. Its mechanics allows you to get an undercollateralized loan, as well as provide funds at a percentage of interest.
+Akropolis Pool is a credit pool where users can get access to loans without the need of large collaterals. Its mechanics allows the Akropolis users to get an undercollateralized loan, as well as provide funds at a percentage of interest.
 
 ### Why Akropolis?
 
-Akropolis model solves the over-collateralization problem in DeFi. With it, you can get access to a loan with 50% collateral. One of the advantages of our pool is that we have aof collective responsibility and staking guarantee approach. Because users are being rewarded for voting for good participants, they act as native risk assessors in the system, supporting its stability.
-Additionally,we implemented a bonding curve (Continuous Token Model with pToken) to our pool. This gives an additional incentive for users to join the pool at the start of it. It also  allows them to leave the pool at any moment without the problem of locked funds due to of lack of liquidity assets.
+Akropolis model solves the over-collateralization problem in DeFi. With it, users can get access to a loan with 50% collateral. One of the advantages of our pool is that we have a collective responsibility and staking guarantee approach. Because the users are being rewarded for voting for good participants, they act as native risk assessors in the system, supporting its stability.
+
+Additionally, we implemented a bonding curve (Continuous Token Model with pToken) to our pool. This gives an additional incentive for users to join the pool at the start of it. It also  allows them to leave the pool at any moment without the problem of locked funds due to lack of liquidity assets.
 
 ### But what is a bonding curve?
-A bonding curve is a mathematical curve defining the price/supply correlation.A user enters and exit the DAO by buying and selling pTokens on a price determined by this curve.
+A bonding curve is a mathematical curve defining the price/supply correlation. A user enters and exit the DAO by buying and selling pTokens on a price determined by this curve.
 
 ### What is the pToken?
-pToken – the native ERC20 token of the DAO, minted on the bonding curve. Gives the right to vote for investment decisions and to get access to loans. The PTK minting is “fully UI abstracted”, meaning you don’t need to deal with it directly.
+pToken – the native ERC20 token of the DAO, minted on the bonding curve. Gives the right to vote for investment decisions and to get access to loans. The PTK minting is “fully UI abstracted”, meaning users don’t need to deal with it directly.
 
 ### How do I use the service?
 Connect your wallet to our platform and deposit DAI. After that, you can start using the pool.
@@ -27,7 +28,7 @@ Our pool does not take commissions at the moment.
 
 ###How can I join the pool?
 
-Click on this link to access Akropolis Beta. Connect with your wallet (Bitski, Metamask, Connectwallet, Formatic, Portis, Squarelink) and deposit DAI. When you enter the pool, your entrance automatically calculates the poolToken price and you receive an equal amount of PTK, enabling you to use the pool.
+Click on this [link](http://pool.akropolis.io) to access Akropolis Beta. Connect with your wallet (Bitski, Metamask, Connectwallet, Formatic, Portis, Squarelink) and deposit DAI. When you enter the pool, your entrance automatically calculates the poolToken price and you receive an equal amount of PTK, enabling you to use the pool.
 
 ### How can I leave the pool? 
 
@@ -35,7 +36,7 @@ Just click “withdraw” and your available funds will sell on the bonding curv
 
 ### Why is my available balance different from the deposited amount?
 
-Conducting any operations in DAI, whether they’re deposit or withdrawal, will be represented as PTK in the pool. As there is a spread between entry and exit prices, as well as fluctuation of the price on the bonding curve, you actual deposit will differ from available balance. For example, after depositing 100 DAI you may see only 97 DAI available and -3 DAI in profit.
+Conducting any operations in DAI, whether they’re deposit or withdrawal, will be represented as PTK in the pool. As there is a spread between entry and exit prices, as well as fluctuation of the price on the bonding curve, your actual deposit will differ from available balance. For example, after depositing 100 DAI you may see only 97 DAI available and -3 DAI in profit.
 
 ## Loan issuance
 
@@ -43,7 +44,7 @@ Conducting any operations in DAI, whether they’re deposit or withdrawal, will 
 
 When creating a loan request, you need to provide half of the loan amount as collateral. The pool members will need to stake the remaining 50% in your favour. A request with 100% collateral can only be activated by the borrower.
 
-To create a loan request, you need to go to the Pool overview page and in the Pool information section, click the “Get loan” button.
+To create a loan request, go to the Pool overview page and in the Pool information section, click the “Get loan” button.
 
 <details>
 <summary></br></summary> 
@@ -75,21 +76,21 @@ Staking for a loan request allows the user to receive part of the loan interest 
 <img src="/images/poolfaq/stake0.png" alt="drawing" />
 </details>
 
-When you see thethe pop-up, you need to enter the amount of the deposit and confirm the intention to make a deposit, then confirm the sending of the transaction.
+When you see the pop-up, you need to enter the amount of the deposit and confirm the intention to make it, then confirm the sending of the transaction.
 
 <details>
 <summary></br></summary> 
 <img src="/images/poolfaq/stake1.png" alt="drawing" />
 </details>
 
-After making a stake on the Proposals page, the user will see his share of interest that received  from payments on this loan.
+After making a stake on the Proposals page, you will see your share of interest that you received from the payments on this loan.
 
 <details>
 <summary></br></summary> 
 <img src="/images/poolfaq/stake2.png" alt="drawing" />
 </details>
 
-All loans in which the user is the guarantor can be viewed on the page My guarantees.
+All loans in which the user is the guarantor can be viewed on the page “My guarantees”.
 
 <details>
 <summary></br></summary> 
@@ -115,32 +116,35 @@ In the pop-up that opens, you need to enter the amount for withdrawal and confir
 
 ### How can I repay a loan?
 
-In order to repay a loan, you need to click on the “Repay” button on the My loan page.
+IIn order to repay a loan, you need to click on the “Repay” button on the “My loan” page.
 
 Next, you need to enter the amount for the cancellation and confirm the intention to perform the cancellation, then confirm the sending of the transaction.
 After the repayment, the loan amount displayed in the “Loan” column on the “My loans” page should decrease, and all guarantors should unlock a part of the collateral and accrue interest.
 
 ### How can I claim interest?
 
-On the “My guarantees” page, the user can see how much interest was accumulated in the issued loans, and how much collateral is available for unlocking. The accumulated interest is displayed in the Earn column, and the Unlock X.XX DAI button will display how much can be unlocked.
+On the “My guarantees” page, you can see how much interest was accumulated in the issued loans, and how much collateral is available for unlocking. The accumulated interest is displayed in the Earn column, and the Unlock X.XX DAI button will display how much can be unlocked.
 
 After clicking the Unlock X.XX DAI button, you will need to confirm the intention to withdraw funds from the loan, then confirm the sending of the transaction. Unlocked funds fall into the available balance.
 
 ### What happens if a loan is not repaid?
 
-In the case of non-repaymen loan is liquidated 90 days after the issuance or partial repayment of. The deposited collateral will be burnt and a partial repayment (if exist) will be distributed between the users who staked for this loan.
+In the case of non-repayment loan is liquidated 90 days after the issuance or partial repayment of. The deposited collateral will be burnt and a partial repayment (if exist) will be distributed between the users who staked for this loan.
 
 ## Security
 
 ### Where are my deposited funds stored?
-User funds are stored on-chain in smart contracts, Akropolis is not a custodial solution.
-Has your product been audited?
+
+All user funds are stored on-chain in smart contracts, Akropolis is not a custodial solution.
+
+### Has your product been audited?
+
 Akropolis is currently undergoing a security audit from CertiK, which will take about a month. After the audit, the results will be announced publicly.
 
 ### Have you modelled potential attacks on the pool?
 
 We plan to launch a regression testing in the near future. 
-For this, we willcreate scripts that we described in the YML format. As part of this approach, we will manipulate various parameters that the pool works with and monitor its behaviour. This way we can predict how the pool works under certain circumstances.
+For this, we will create scripts that we described in the YML format. As part of this approach, we will manipulate various parameters that the pool works with and monitor its behaviour. This way we can predict how the pool works under certain circumstances.
 
 ### Is a flashloan attack against your pool possible?
 
