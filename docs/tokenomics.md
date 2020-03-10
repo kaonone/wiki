@@ -34,7 +34,7 @@ The Risk Assessors are staking their tokens in favor of borrowers, that they con
 
 ## Underlying value: what is the value of the token tied to?
 
-The value of the pToken is tied to the real assets held in the DAO. Each time DAI is deposited or withdrawn, pToken is minted or burned in accordance with the DAI. The pToken price is defined by the bonding curve algorithm.
+The value of the pToken is tied to the real assets held in the DAO. Each time DAI is deposited or withdrawn, pToken is minted or burned. The pToken price is defined by the bonding curve algorithm.
 
 It should be noted that the token holder does not receive any profits by simply holding the token. pToken does not grant the right to receive any profits, income, payments, returns, dividends from Akropolis or any entity from its group of companies, nor is it intended to be a security, commodity, bond, debt instrument or any kind of financial instrument or investment carrying equivalent rights.
 
@@ -47,7 +47,7 @@ The token functionality and use is similar to the one used in the Nexus Mutual b
 |----------	|-------------	|---	|
 | Borrower 	|  <li>Have access to uncollateralized loans; <li>Have a regular availability to take a loan;|  <li>The token issued equivalently to the amount of DAI allows you to make a request for an unsecured loan in the pool and collateralize a loan. The user can get a 200% loan of the amount of pToken available. <li>Also, high liquidity in the pool formed by depositing funds, using a token, attracting users according to the bonding curve-  implies the constant presence of a “living” asset available for a loan. Thus, the user has access to an unsecured loan.  |
 | Capital Provider 	|  <li>To grant loans with the best risk/profit ratio  |  <li>Providing capital in pToken, the provider can stake for the requests of the borrowers, receiving a percentage of interest.  |
-|  Risk Assessor  |  <li>Get rewarded for the correct risk assessment and tokens staking  |  <li>pToken allows you to delegate the management of tokens of other users to a risk assessor. Upon successful risk management, the assessor receives his set percentage of interest for staking.  |
+|  Risk Assessor  |  <li>Get rewarded for the correct risk assessment and tokens staking  |  <li>pToken allows you to delegate the management of your funds to a risk assessor. Upon successful risk management, the assessor receives his set percentage of interest for staking.  |
 
 
 ## AKRO Governance
@@ -57,7 +57,7 @@ By purchasing and staking AKRO tokens, the user can:
 
 ●	Participate in the system governance - vote for changes in bonding curve parameters, collateralization level, buyback parameters, etc. It can be only done only by AKRO holders (and not pTokens holders) to prevent pool members from abusing their power (e.g. entering the pool, change bonding curve and make the pTokens too expensive to enter the pool for future members). 
 
-●	Buyback & Burn - there is a spread between enter and exit price of the pToken, which forms pool earnings (formula in [Bonding curve mechanics]). It is used for AKRO tokens buyback from the market and burn it.
+●	Buyback & Burn - there is a spread between enter and exit price of the pToken, which forms pool earnings (formula in [Bonding curve mechanics](https://wiki.akropolis.io/pool/#bonding-curve-mechanics)). It is used for AKRO tokens buyback and burn.
 
 
 
