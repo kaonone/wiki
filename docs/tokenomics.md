@@ -14,7 +14,7 @@
 
 ## pToken
 
-## Role and purpose: what is the role of the token?
+## Role and purpose: what is the role of the pToken?
 
 pToken is classified as a Network Token, combining the Work token and Governance functionality. It provides voting and staking functionalities within the Pool, and gives the right to get an uncollateralized loan.
 
