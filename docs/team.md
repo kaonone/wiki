@@ -5,7 +5,7 @@
 
 <img src="/images/team/andrianova@2x.png" width="180" alt="drawing" />
 
-### [**Ana Andria**](https://www.linkedin.com/in/anastasia-andrianova-79198b4)
+### [**Anastasia Andrianova**](https://www.linkedin.com/in/anastasia-andrianova-79198b4)
 
 
 **CEO & Founder**
