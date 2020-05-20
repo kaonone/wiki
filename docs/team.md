@@ -5,7 +5,7 @@
 
 <img src="/images/team/andrianova@2x.png" width="180" alt="drawing" />
 
-### [**Anastasia Andrianova**](https://www.linkedin.com/in/anastasia-andrianova-79198b4)
+### [**Ana Andrianova**](https://www.linkedin.com/in/anastasia-andrianova-79198b4)
 
 
 **CEO & Founder**
@@ -55,6 +55,23 @@ As a Head of Analytics, she used her trading experience to develop a suite of re
 Blockchain engineer, educator and a co-founder of St.Petersburg Ethereum meetup, Alex graduated with BSc Applied Mathematics and Computing Sciences and is a PhD (cand.) Machine Learning.
 He has 16 scientific publications focussing on natural language recognition and 10 commercially implemented applications to his name.
 Alex has both shipped product in fintech, banking, and gaming, and is passionate about educating the new generation of blockchain developers.
+
+</br>
+</br>
+<img src="/images/team/rubin@2x.png" width="180" alt="drawing" />
+
+### [**Dima Serd**](https://github.com/pash7ka)
+
+
+**Solidity Developer**
+
+**Focus**: Solidity, Smart-contracts, PHP, Java, Typescript, Backend
+
+**Experience**: MSc Design and Technology of Electronic Equipment • 16 commercial implementations
+
+[**Github**](https://github.com/pash7ka)
+
+Graduated from the Moscow Institute of Electronics and Mathematics. Participated in development of 16 commercial projects, including those in crypto sphere.
 
 </br>
 </br>
