@@ -92,7 +92,7 @@ Graduated from the Tomsk Polytechnic University in Information Systems and Techn
 
 </br>
 </br>
-<img src="/images/team/mikhailk@2x.png" width="180" alt="drawing" />
+<img src="/images/team/andrew@2x.png" width="180" alt="drawing" />
 
 
 ### [**Andrew Orlov**](https://github.com/andor0)
