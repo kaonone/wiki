@@ -60,7 +60,7 @@ Alex has both shipped product in fintech, banking, and gaming, and is passionate
 </br>
 <img src="/images/team/rubin@2x.png" width="180" alt="drawing" />
 
-### [**Dima Serd**](https://github.com/pash7ka)
+### [**Pavel Rubin**](https://github.com/pash7ka)
 
 
 **Solidity Developer**
