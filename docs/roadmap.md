@@ -1,6 +1,6 @@
 # Akropolis Roadmap
 
-Our updated roadmap сan be found [here](https://www.notion.so/576a82c59fe74b9d9a9df5a7f47cc11d). 
+Our updated roadmap сan be found [here](https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433?v=db48448e7fb146b28d7ed731a02ec516). 
 
 <img src="/images/whitepaper/roadmap.png" alt="drawing" />
 
