@@ -1,10 +1,10 @@
-﻿#Akro Pool FAQ
+﻿#Sparta FAQ
 
 ## General
 
-### What is Akropolis pool?
+### What is Sparta?
 
-Akropolis Pool is a credit pool where users can get access to loans without the need of large collaterals. Its mechanics allows the Akropolis users to get an undercollateralized loan, as well as provide funds at a percentage of interest.
+Sparta is a credit pool where users can get access to loans without the need of large collaterals. Its mechanics allows the Akropolis users to get an undercollateralized loan, as well as provide funds at a percentage of interest.
 
 ### Why Akropolis?
 
@@ -62,7 +62,6 @@ After creating the request, you can see it on the “Proposals” page and on th
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/getcredit3_1.png" alt="drawing" />
 <img src="/images/poolfaq/getcredit3.png" alt="drawing" />
 
 </details>

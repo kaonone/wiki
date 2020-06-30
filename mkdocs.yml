@@ -44,8 +44,8 @@ pages:
   - Media Coverage: 'press.md'
   - Development: 
     - C2FC: 'c2fc/overview.md'
-    - Akropolis Pool: 'pool.md'
-    - Pool FAQ: 'poolfaq.md'
+    - Sparta: 'pool.md'
+    - Sparta FAQ: 'poolfaq.md'
   - Roadmap: 'roadmap.md'
   - Whitepaper: 
     - May 2019: 'whitepaper.md'

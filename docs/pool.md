@@ -1,4 +1,4 @@
-﻿## What is the Savings and Uncollateralized Lending Pool?
+﻿## What is the Sparta Pool?
 
 Our pool automates the work of financial organizations, and solves the following challenges:
 
