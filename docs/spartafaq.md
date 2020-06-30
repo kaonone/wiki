@@ -28,7 +28,7 @@ Our pool does not take commissions at the moment.
 
 ###How can I join the pool?
 
-Click on this [link](http://sparta.akropolis.io) to access Beta. Connect with your wallet (Bitski, Metamask, Connectwallet, Formatic, Portis, Squarelink) and deposit DAI. When you enter the pool, your entrance automatically calculates the poolToken price and you receive an equal amount of PTK, enabling you to use the pool.
+Click on this [link](http://sparta.akropolis.io) to access Sparta. Connect with your wallet (Bitski, Metamask, Connectwallet, Formatic, Portis, Squarelink) and deposit DAI. When you enter the pool, your entrance automatically calculates the poolToken price and you receive an equal amount of PTK, enabling you to use the pool.
 
 ### How can I leave the pool? 
 
