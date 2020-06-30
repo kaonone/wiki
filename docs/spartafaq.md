@@ -16,7 +16,7 @@ Additionally, we implemented a bonding curve (Continuous Token Model with ASPT) 
 A bonding curve is a mathematical curve defining the price/supply correlation. A user enters and exit the DAO by buying and selling ASPTs on a price determined by this curve.
 
 ### What is the Akropolis Sparta Pool Token (ASPT)?
-ASPT – the native ERC20 token of the DAO, minted on the bonding curve. Gives the right to vote for investment decisions and to get access to loans. The PTK minting is “fully UI abstracted”, meaning users don’t need to deal with it directly.
+ASPT – the native ERC20 token of the DAO, minted on the bonding curve. Gives the right to vote for investment decisions and to get access to loans. The ASPT minting is “fully UI abstracted”, meaning users don’t need to deal with it directly.
 
 ### How do I use the service?
 Connect your wallet to our platform and deposit DAI. After that, you can start using the pool.
@@ -28,7 +28,7 @@ Our pool does not take commissions at the moment.
 
 ###How can I join the pool?
 
-Click on this [link](http://sparta.akropolis.io) to access Sparta. Connect with your wallet (Bitski, Metamask, Connectwallet, Formatic, Portis, Squarelink) and deposit DAI. When you enter the pool, your entrance automatically calculates the poolToken price and you receive an equal amount of PTK, enabling you to use the pool.
+Click on this [link](http://sparta.akropolis.io) to access Sparta. Connect with your wallet (Bitski, Metamask, Connectwallet, Formatic, Portis, Squarelink) and deposit DAI. When you enter the pool, your entrance automatically calculates the poolToken price and you receive an equal amount of ASPT, enabling you to use the pool.
 
 ### How can I leave the pool? 
 
@@ -36,7 +36,7 @@ Just click “withdraw” and your available funds will sell on the bonding curv
 
 ### Why is my available balance different from the deposited amount?
 
-Conducting any operations in DAI, whether they’re deposit or withdrawal, will be represented as PTK in the pool. As there is a spread between entry and exit prices, as well as fluctuation of the price on the bonding curve, your actual deposit will differ from available balance. For example, after depositing 100 DAI you may see only 97 DAI available and -3 DAI in profit.
+Conducting any operations in DAI, whether they’re deposit or withdrawal, will be represented as ASPT in the pool. As there is a spread between entry and exit prices, as well as fluctuation of the price on the bonding curve, your actual deposit will differ from available balance. For example, after depositing 100 DAI you may see only 97 DAI available and -3 DAI in profit.
 
 ## Loan issuance
 
