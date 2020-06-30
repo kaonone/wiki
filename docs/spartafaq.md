@@ -10,13 +10,13 @@ Sparta is a credit pool where users can get access to loans without the need of 
 
 Sparta model solves the over-collateralization problem in DeFi. With it, users can get access to a loan with 50% collateral. One of the advantages of our pool is that we have a collective responsibility and staking guarantee approach. Because the users are being rewarded for voting for good participants, they act as native risk assessors in the system, supporting its stability.
 
-Additionally, we implemented a bonding curve (Continuous Token Model with pToken) to our pool. This gives an additional incentive for users to join the pool at the start of it. It also  allows them to leave the pool at any moment without the problem of locked funds due to lack of liquidity assets.
+Additionally, we implemented a bonding curve (Continuous Token Model with ASPT) to our pool. This gives an additional incentive for users to join the pool at the start of it. It also  allows them to leave the pool at any moment without the problem of locked funds due to lack of liquidity assets.
 
 ### But what is a bonding curve?
-A bonding curve is a mathematical curve defining the price/supply correlation. A user enters and exit the DAO by buying and selling pTokens on a price determined by this curve.
+A bonding curve is a mathematical curve defining the price/supply correlation. A user enters and exit the DAO by buying and selling ASPTs on a price determined by this curve.
 
-### What is the pToken?
-pToken – the native ERC20 token of the DAO, minted on the bonding curve. Gives the right to vote for investment decisions and to get access to loans. The PTK minting is “fully UI abstracted”, meaning users don’t need to deal with it directly.
+### What is the Akropolis Sparta Pool Token (ASPT)?
+ASPT – the native ERC20 token of the DAO, minted on the bonding curve. Gives the right to vote for investment decisions and to get access to loans. The PTK minting is “fully UI abstracted”, meaning users don’t need to deal with it directly.
 
 ### How do I use the service?
 Connect your wallet to our platform and deposit DAI. After that, you can start using the pool.
