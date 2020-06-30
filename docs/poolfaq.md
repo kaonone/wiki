@@ -4,11 +4,11 @@
 
 ### What is Sparta?
 
-Sparta is a credit pool where users can get access to loans without the need of large collaterals. Its mechanics allows the Akropolis users to get an undercollateralized loan, as well as provide funds at a percentage of interest.
+Sparta is a credit pool where users can get access to loans without the need of large collaterals. Its mechanics allows the Sparta users to get an undercollateralized loan, as well as provide funds at a percentage of interest.
 
-### Why Akropolis?
+### Why Sparta?
 
-Akropolis model solves the over-collateralization problem in DeFi. With it, users can get access to a loan with 50% collateral. One of the advantages of our pool is that we have a collective responsibility and staking guarantee approach. Because the users are being rewarded for voting for good participants, they act as native risk assessors in the system, supporting its stability.
+Sparta model solves the over-collateralization problem in DeFi. With it, users can get access to a loan with 50% collateral. One of the advantages of our pool is that we have a collective responsibility and staking guarantee approach. Because the users are being rewarded for voting for good participants, they act as native risk assessors in the system, supporting its stability.
 
 Additionally, we implemented a bonding curve (Continuous Token Model with pToken) to our pool. This gives an additional incentive for users to join the pool at the start of it. It also  allows them to leave the pool at any moment without the problem of locked funds due to lack of liquidity assets.
 
@@ -28,7 +28,7 @@ Our pool does not take commissions at the moment.
 
 ###How can I join the pool?
 
-Click on this [link](http://pool.akropolis.io) to access Akropolis Beta. Connect with your wallet (Bitski, Metamask, Connectwallet, Formatic, Portis, Squarelink) and deposit DAI. When you enter the pool, your entrance automatically calculates the poolToken price and you receive an equal amount of PTK, enabling you to use the pool.
+Click on this [link](http://pool.akropolis.io) to access Beta. Connect with your wallet (Bitski, Metamask, Connectwallet, Formatic, Portis, Squarelink) and deposit DAI. When you enter the pool, your entrance automatically calculates the poolToken price and you receive an equal amount of PTK, enabling you to use the pool.
 
 ### How can I leave the pool? 
 
@@ -42,7 +42,7 @@ Conducting any operations in DAI, whether they’re deposit or withdrawal, will 
 
 ### How can I take a loan?
 
-When creating a loan request, you need to provide half of the loan amount as collateral. The pool members will need to stake the remaining 50% in your favour. A request with 100% collateral can only be activated by the borrower.
+When creating a loan request, you need to provide half of the loan amount as collateral. The pool members will need to stake additional 100% in your favour. A request with 150% collateral can only be activated by the borrower.
 
 To create a loan request, go to the Pool overview page and in the Pool information section, click the “Get loan” button.
 
@@ -134,7 +134,7 @@ In the case of non-repayment loan is liquidated 90 days after the issuance or pa
 
 ### Where are my deposited funds stored?
 
-All user funds are stored on-chain in smart contracts, Akropolis is not a custodial solution.
+All user funds are stored on-chain in smart contracts, Sparta is not a custodial solution.
 
 ### Has your product been audited?
 
@@ -147,7 +147,7 @@ For this, we will create scripts that we described in the YML format. As part of
 
 ### Is a flashloan attack against your pool possible?
 
-These kinds of attacks do not affect the Akropolis Pool. Attacks of this type are specific to flash loans platforms. A flash loan is an unsecured form of loan that is issued for an ultra-short time. In fact everything is executed in one transaction. Accordingly, in the interval between the beginning of a transaction and its end, opens up a possibility for manipulation. This type of attack could be a potential threat to our governance module, but this element is still under development and we will add preventive measures before it goes live.
+These kinds of attacks do not affect the Sparta. Attacks of this type are specific to flash loans platforms. A flash loan is an unsecured form of loan that is issued for an ultra-short time. In fact everything is executed in one transaction. Accordingly, in the interval between the beginning of a transaction and its end, opens up a possibility for manipulation. This type of attack could be a potential threat to our governance module, but this element is still under development and we will add preventive measures before it goes live.
 
 ### Is your code open-source?
 
