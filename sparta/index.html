@@ -492,15 +492,15 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#ptokens-burning" title="pTokens burning" class="md-nav__link">
-    pTokens burning
+  <a href="#aspts-burning" title="ASPTs burning" class="md-nav__link">
+    ASPTs burning
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#ptoken-role" title="pToken role" class="md-nav__link">
-    pToken role
+  <a href="#aspt-role" title="ASPT role" class="md-nav__link">
+    ASPT role
   </a>
   
 </li>
@@ -569,7 +569,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../poolfaq/" title="Sparta FAQ" class="md-nav__link">
+    <a href="../spartafaq/" title="Sparta FAQ" class="md-nav__link">
       Sparta FAQ
     </a>
   </li>
@@ -831,15 +831,15 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#ptokens-burning" title="pTokens burning" class="md-nav__link">
-    pTokens burning
+  <a href="#aspts-burning" title="ASPTs burning" class="md-nav__link">
+    ASPTs burning
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#ptoken-role" title="pToken role" class="md-nav__link">
-    pToken role
+  <a href="#aspt-role" title="ASPT role" class="md-nav__link">
+    ASPT role
   </a>
   
 </li>
@@ -907,7 +907,7 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/akropolisio/wiki/edit/master/docs/pool.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/akropolisio/wiki/edit/master/docs/sparta.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
                   <h1>Sparta</h1>
@@ -943,14 +943,14 @@
 <h2 id="definitions-and-principles">Definitions and principles</h2>
 <ol>
 <li>Initial deposits only in DAI.</li>
-<li>pToken – ERC20 token of DAO. Gives the right to vote for governance/investment decision and to get uncollateralized loan.</li>
+<li>Akropolis Sparta Pool Token (ASPT) – ERC20 token of DAO. Gives the right to vote for governance/investment decision and to get uncollateralized loan.</li>
 <li>Ragequit - immediate pool leaving mechanism without funds blocked in DAO (in case you haven&#39;t staked (voted for) anyone).</li>
 <li>Bonding curve – mathematical curve defining price/supply correlation.</li>
 </ol>
 <h2 id="how-does-it-work">How does it work?</h2>
 <h3 id="entering-and-leaving-the-pool">Entering and leaving the pool</h3>
 <p>A DAO is a community-owned organization where community members collectively made decisions regarding fund management. This can scare people away from entering or leaving the DAO as their funds may be blocked in the DAO, for one reason or another.</p>
-<p>To solve this problem, we use the Continuous Token Model. Users can enter and exit the DAO by buying and selling pTokens price of which is determined by the bonding curve (mathematical curve defining price/supply correlation). This approach not only solves the problem of potential funds lock but also gives an additional incentive for the first users due to the bonding curve design. The cost of the token on the bonding curve depends on the amount of liquidity in the pool: with increasing liquidity, the cost of the DAO token increases, while lesser liquidity decreases it.</p>
+<p>To solve this problem, we use the Continuous Token Model. Users can enter and exit the DAO by buying and selling ASPTs price of which is determined by the bonding curve (mathematical curve defining price/supply correlation). This approach not only solves the problem of potential funds lock but also gives an additional incentive for the first users due to the bonding curve design. The cost of the token on the bonding curve depends on the amount of liquidity in the pool: with increasing liquidity, the cost of the DAO token increases, while lesser liquidity decreases it.</p>
 <p>However, exiting the DAO using the bonding curve exposes the liquidity problem - <em>what if someone wants to exit the pool with no liquidity?</em> (for example, all liquid assets are distributed to borrowers). In our case, such a situation is impossible due to the design of the pool.</p>
 <p>&quot;Ragequit&quot; is a mechanism for leaving the pool at any moment, if you haven&#39;t staked (voted to give a loan) for somebody. MolochDAO was first to introduce this approach. We implemented our own variation of &quot;ragequit&quot; using the Bonding Curve mechanism. More on it in &quot;Bonding curve section&quot;</p>
 <h3 id="redit-issuance">Сredit issuance</h3>
@@ -960,13 +960,13 @@
 <p>We have chosen to use a simpler approach in our product, which we call &quot;Community grant&quot; - all platform loans must be 100% secured. In addition to the user&#39;s deposit, other members of the pool can vouch for it. How it works:</p>
 <ol>
 <li>
-<p>The user pledges his pTokens as collateral (the deposit should be no less than 50% of the loan amount, i.e. the user will not be able to take a loan more than 200% relative to the size of pTokens that he has)</p>
+<p>The user pledges his ASPTs as collateral (the deposit should be no less than 50% of the loan amount, i.e. the user will not be able to take a loan more than 200% relative to the size of ASPTs that he has)</p>
 </li>
 <li>
-<p>Pool members who consider the user to be a good borrower vouch for him and lock their pTokens as collateral.</p>
+<p>Pool members who consider the user to be a good borrower vouch for him and lock their ASPTs as collateral.</p>
 </li>
 </ol>
-<p>If the sum of pTokens locked (both borrower and pool members) equals to the size of the loan than the borrower receives a loan in DAI.</p>
+<p>If the sum of ASPTs locked (both borrower and pool members) equals to the size of the loan than the borrower receives a loan in DAI.</p>
 <p>This design leads to two main questions:</p>
 <ul>
 <li>
@@ -981,21 +981,21 @@
 <p><img src="/images/development/pool/collateral.jpg" alt="drawing" /></p>
 <h3 id="interest-rate-share">Interest rate share</h3>
 <p><img src="/images/development/pool/interest.jpg" alt="drawing" /></p>
-<p>When repaying a loan in DAI, the borrower also pays interest on his loan. 50% of the interest remains in the pool, while the remaining 50% is equally distributed in the form of pTokens between the users who vouched for the borrower, depending on their stake.</p>
-<p>The interest rate is paid by the borrower in the form of PTK (DAI received from the borrower is used to purchase PTK and distribute it among the guarantors).</p>
-<h3 id="ptokens-burning">pTokens burning</h3>
+<p>When repaying a loan in DAI, the borrower also pays interest on his loan. 50% of the interest remains in the pool, while the remaining 50% is equally distributed in the form of ASPTs between the users who vouched for the borrower, depending on their stake.</p>
+<p>The interest rate is paid by the borrower in the form of ASPT (DAI received from the borrower is used to purchase ASPT and distribute it among the guarantors).</p>
+<h3 id="aspts-burning">ASPTs burning</h3>
 <p>If the borrower delays the repayment of the loan and does not repay (in full or in part) within the specified period:</p>
 <ol>
-<li>pTokens are burned in proportion to the interest rate.</li>
-<li>If the user has X delays (for example, 6 - the governed parameter), then all pTokens are burned</li>
+<li>ASPTs are burned in proportion to the interest rate.</li>
+<li>If the user has X delays (for example, 6 - the governed parameter), then all ASPTs are burned</li>
 </ol>
-<p>In such case, pTokens supply, price, and pool liquidity decrease.</p>
-<h3 id="ptoken-role">pToken role</h3>
+<p>In such case, ASPT supply, price, and pool liquidity decrease.</p>
+<h3 id="aspt-role">ASPT role</h3>
 <ul>
 <li>Acts as collateral for loan issuance</li>
 <li>Used to distribute interest earned after right risk assessment and repayment of the loan by borrower</li>
 <li>Right to act as a guarantor for the loan</li>
-<li>Spreads between enter and exit price of pToken (pool earnings) used for AKRO buyback from the market and further use in the Development Fund.</li>
+<li>Spreads between enter and exit price of ASPT (pool earnings) used for AKRO buyback from the market and further use in the Development Fund.</li>
 </ul>
 <h3 id="bonding-curve-mechanics">Bonding Curve Mechanics</h3>
 <p>Bonding Curve has two prices - the purchase price and the sale price.</p>
@@ -1003,7 +1003,7 @@
 <p>There is a spread &#39;d&#39; between the purchase price and the sale price, - the fee for exiting the pool.</p>
 <p>Upon entering the pool, the price is formed as follows:</p>
 <p><img src="/images/development/pool/formula1.PNG" alt="drawing" width="40%" height="40%"/></p>
-<p>where <em>A</em> is the volume of  total assets (liquid assets in Pool + debt commitments), <em>Deposit</em> is the size of the deposit, <em>dx</em> is the number of pTokens tokens received.</p>
+<p>where <em>A</em> is the volume of  total assets (liquid assets in Pool + debt commitments), <em>Deposit</em> is the size of the deposit, <em>dx</em> is the number of ASPTs tokens received.</p>
 <p>When you exit the pool, the price is formed as follows:</p>
 <p><img src="/images/development/pool/formula2.PNG" alt="drawing" width="43%" height="43%"/></p>
 <p>Or (the same)</p>
@@ -1012,19 +1012,19 @@
 <p><img src="/images/development/pool/formula4.PNG" alt="drawing" width="50%" height="50%"/></p>
 <p>The sum</p>
 <p><img src="/images/development/pool/formula5.PNG" alt="drawing" width="20%" height="20%"/></p>
-<p>forms the pool earnings - spread between enter and exit price of pToken,</p>
+<p>forms the pool earnings - spread between enter and exit price of ASPT,</p>
 <p><img src="/images/development/pool/formula5.PNG" alt="drawing" width="20%" height="20%"/></p>
 <p>amount of money user gets.</p>
 <p>To calculate <em>f(S)</em> we propose to use the following formula</p>
 <p><img src="/images/development/pool/formula6.PNG" alt="drawing" width="63%" height="63%"/></p>
 <h3 id="preventing-attacks-on-the-pool">Preventing attacks on the pool</h3>
 <p>Let&#39;s suppose there are <em>x</em> funds in the pool and <em>f(x)</em> liquid tokens accordingly.</p>
-<p>Let&#39;s also suppose a fraudster wants to take a loan <em>m</em>, . The fraudster has accomplices with the amount of funds <em>P</em>. To process the attack, the accomplices pre-enter the pool, which in turn increases the cost of pTokens, then vote for the fraudster and he gets a loan. After that, the fraudster accomplices leave the pool. If no one spots it , they will be able to repeat such a scheme over and over again, leading to pool bankrupcy. Let&#39;s check under which conditions would this be possible:</p>
+<p>Let&#39;s also suppose a fraudster wants to take a loan <em>m</em>, . The fraudster has accomplices with the amount of funds <em>P</em>. To process the attack, the accomplices pre-enter the pool, which in turn increases the cost of ASPTs, then vote for the fraudster and he gets a loan. After that, the fraudster accomplices leave the pool. If no one spots it , they will be able to repeat such a scheme over and over again, leading to pool bankrupcy. Let&#39;s check under which conditions would this be possible:</p>
 <ol>
 <li>Accomplices enter the pool, buying <em>G = f(x + P) - f(x)</em> tokens for the amount of funds <em>P</em>, where <em>f(x + P)</em> stands for liquid tokens in the pool.</li>
 <li>Pool liquidity increases and has <em>x + P</em> liquidity.</li>
 <li>Fraudster gets a loan <em>m</em>. To do this, he and his accomplices lock <em>Q = f(x + p)-f(x + p - m)</em> tokens, whereas <em>f(x + p - m)</em> is liquid tokens in the pool and <em>x + p - m</em> is the pool liquidity.</li>
-<li>Fraudster accomplices own <em>G - Q</em> liquid pTokens. They take them out and get <em>H = x + P - m - f^{-1}[f(x + p - m)- G + Q]</em> for them.</li>
+<li>Fraudster accomplices own <em>G - Q</em> liquid ASPTs. They take them out and get <em>H = x + P - m - f^{-1}[f(x + p - m)- G + Q]</em> for them.</li>
 <li>As a result, the fraudster and his accomplices have <em>m + H</em> funds. If <em>m + H vs P</em>, then the fraudsters made money:</li>
 </ol>
 <p><img src="/images/development/pool/formula7.PNG" alt="drawing" width="45%" height="45%"/></p>
@@ -1054,13 +1054,13 @@
 </ul>
 <p>This logic can be generalized to an arbitrary number of credits / affiliations in the DAO.</p>
 <h3 id="risk-assessor-role-in-the-pool">Risk assessor role in the pool</h3>
-<p>Usually, low voting activity is one of the key issues in the DAO. As a way to solve this problem, we decided to implement the pToken delegation mechanism.</p>
-<p>Users delegate the management of their pTokens, all of them or partially, to risk assessors, receiving a percentage of interest from successful staking done by the risk assessor.</p>
-<p>The risk assessor creates a proposal indicating the commission that he will take for his services. Seeing the staking statistics on the blockchain - profitable or unprofitable - pool users decide to delegate the management of their pTokens to a particular risk assessor or not.</p>
+<p>Usually, low voting activity is one of the key issues in the DAO. As a way to solve this problem, we decided to implement the ASPT delegation mechanism.</p>
+<p>Users delegate the management of their ASPTs, all of them or partially, to risk assessors, receiving a percentage of interest from successful staking done by the risk assessor.</p>
+<p>The risk assessor creates a proposal indicating the commission that he will take for his services. Seeing the staking statistics on the blockchain - profitable or unprofitable - pool users decide to delegate the management of their ASPTs to a particular risk assessor or not.</p>
 <p>This model is similar to the work of Livepeer, where working nodes indicate what commission they charge as well as statistics of their work.</p>
 <h3 id="akro-governance">AKRO Governance</h3>
 <p>Our management system is similar in its principles to the MakerDAO governance.</p>
-<p>By purchasing and staking AKRO pool tokens, the user can  participate in the system governance - vote for changes in bonding curve parameters, collateralization level, buyback parameters, etc. It can be done only by AKRO holders (and not pTokens holders) to prevent pool members from abusing their power (e.g. entering the pool, change bonding curve and make pTokens too expensive to enter the pool for future members).</p>
+<p>By purchasing and staking AKRO pool tokens, the user can  participate in the system governance - vote for changes in bonding curve parameters, collateralization level, buyback parameters, etc. It can be done only by AKRO holders (and not ASPTs holders) to prevent pool members from abusing their power (e.g. entering the pool, change bonding curve and make ASPTs too expensive to enter the pool for future members).</p>
 <h2 id="roles-on-the-platform">Roles on the platform</h2>
 <table>
 <thead>
@@ -1074,17 +1074,17 @@
 <tr>
 <td>Borrower</td>
 <td>Have access to an unsecured creditHave a regular availability of credit</td>
-<td>The token issued equivalently to the amount of DAI allows you to leave a request for an unsecured loan in the pool and collateralize a loan. The user can get a 200% loan of the amount of pToken available.Also, high liquidity in the pool formed by depositing funds, using a token, attracting users according to the bonding curve, implies the constant presence of a &quot;living&quot; asset available for a loan. Thus, the user has access to an unsecured loan.</td>
+<td>The token issued equivalently to the amount of DAI allows you to leave a request for an unsecured loan in the pool and collateralize a loan. The user can get a 200% loan of the amount of ASPT available.Also, high liquidity in the pool formed by depositing funds, using a token, attracting users according to the bonding curve, implies the constant presence of a &quot;living&quot; asset available for a loan. Thus, the user has access to an unsecured loan.</td>
 </tr>
 <tr>
 <td>Capital provider</td>
 <td>To grant loans with the best risk/profit ratio</td>
-<td>Providing capital in pToken, the provider can stake for the requests of borrowers, receiving a percentage of interest. Also, since the governance is working by voting in pToken, its holding allows participating in collective voting for various decisions, for example, changing the interest rate or bonding curve parameters.</td>
+<td>Providing capital in ASPT, the provider can stake for the requests of borrowers, receiving a percentage of interest. Also, since the governance is working by voting in ASPT, its holding allows participating in collective voting for various decisions, for example, changing the interest rate or bonding curve parameters.</td>
 </tr>
 <tr>
 <td>Risk Assessor</td>
 <td>Get rewarded for the correct risk assessment and tokens staking</td>
-<td>pToken allows you to delegate the management of tokens of other users to a risk assessor. Upon successful risk management, the assessor receives his set percentage of interest for staking.</td>
+<td>ASPT allows you to delegate the management of tokens of other users to a risk assessor. Upon successful risk management, the assessor receives his set percentage of interest for staking.</td>
 </tr>
 </tbody>
 </table>
@@ -1123,7 +1123,7 @@
           </a>
         
         
-          <a href="../poolfaq/" title="Sparta FAQ" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../spartafaq/" title="Sparta FAQ" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
