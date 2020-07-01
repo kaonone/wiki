@@ -35,6 +35,9 @@ markdown_extensions:
     - admonition
 pages:
   - Home: 'index.md'
+  - Product: 
+    - Sparta: 'sparta.md'
+    - Sparta FAQ: 'spartafaq.md'
   - Team: 'team.md'
   - Partnerships: 'partners.md'
   - Design: 'design.md'
@@ -42,10 +45,8 @@ pages:
     - 2019: 'blog/2019.md'
     - 2018: 'blog/2018.md'
   - Media Coverage: 'press.md'
-  - Development: 
+  - Open Source Development: 
     - C2FC: 'c2fc/overview.md'
-    - Sparta: 'sparta.md'
-    - Sparta FAQ: 'spartafaq.md'
   - Roadmap: 'roadmap.md'
   - Whitepaper: 
     - May 2019: 'whitepaper.md'
