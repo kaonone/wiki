@@ -48,21 +48,21 @@ To create a loan request, go to the Pool overview page and in the Pool informati
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/getcredit1.png" alt="drawing"/>
+<img src="/images/develpment/spartafaq/getcredit1.png" alt="drawing"/>
 </details>
 
 A pop-up will open. There, you’ll need to enter the loan parameters and confirm the intention to create a deposit, then confirm the transaction sending.
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/getcredit2.png" alt="drawing" />
+<img src="/images/development/spartafaq/getcredit2.png" alt="drawing" />
 </details>
 
 After creating the request, you can see it on the “Proposals” page and on the “My loans” page.
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/getcredit3.png" alt="drawing" />
+<img src="/images/development/spartafaq/getcredit3.png" alt="drawing" />
 
 </details>
 
@@ -72,28 +72,28 @@ Staking for a loan request allows the user to receive part of the loan interest 
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/stake0.png" alt="drawing" />
+<img src="/images/development/spartafaq/stake0.png" alt="drawing" />
 </details>
 
 When you see the pop-up, you need to enter the amount of the deposit and confirm the intention to make it, then confirm the sending of the transaction.
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/stake1.png" alt="drawing" />
+<img src="/images/development/spartafaq/stake1.png" alt="drawing" />
 </details>
 
 After making a stake on the Proposals page, you will see your share of interest that you received from the payments on this loan.
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/stake2.png" alt="drawing" />
+<img src="/images/development/spartafaq/stake2.png" alt="drawing" />
 </details>
 
 All loans in which the user is the guarantor can be viewed on the page “My guarantees”.
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/stake3.png" alt="drawing" />
+<img src="/images/development/spartafaq/stake3.png" alt="drawing" />
 </details>
 
 ### Can I unstake my funds?
@@ -102,15 +102,15 @@ Yes. Prior to the activation of a loan, any guarantor can withdraw a deposit fro
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/stake4.png" alt="drawing" />
-<img src="/images/poolfaq/stake3.png" alt="drawing" />
+<img src="/images/development/spartafaq/stake4.png" alt="drawing" />
+<img src="/images/development/spartafaq/stake3.png" alt="drawing" />
 </details>
 
 In the pop-up that opens, you need to enter the amount for withdrawal and confirm the intention to withdraw the stake from the loan request, then confirm the transaction is sent.
 
 <details>
 <summary></br></summary> 
-<img src="/images/poolfaq/stake5.png" alt="drawing" />
+<img src="/images/development/spartafaq/stake5.png" alt="drawing" />
 </details>
 
 ### How can I repay a loan?

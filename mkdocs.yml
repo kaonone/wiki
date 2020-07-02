@@ -44,15 +44,16 @@ pages:
   - Partnerships: 'partners.md'
   - Design: 'design.md'
   - Blog Posts: 
+    - 2020: 'blog/2020.md'
     - 2019: 'blog/2019.md'
     - 2018: 'blog/2018.md'
   - Media Coverage: 'press.md'
   - Open Source Development: 
-    - C2FC: 'c2fc/overview.md'
+    - C2FC: 'c2fc.md'
   - Roadmap: 'https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433'
   - Whitepaper: 
-    - May 2019: 'whitepaper.md'
-    - March 2018: 'tech_whitepaper.md'
+    - May 2019: 'wp2019.md'
+    - March 2018: 'wp2018.md'
   - Tokenomics: 
     - Tokenomics: 'tokenomics.md'
     - Token Details: 'tokendetails.md'

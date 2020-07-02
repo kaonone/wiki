@@ -20,4 +20,4 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 
 **Github:** [https://github.com/akropolisio](https://github.com/akropolisio)
 
-**Discord:** [https://discord.gg/mCTR3P]
+**Discord:** [https://discord.gg/mCTR3P]([https://discord.gg/mCTR3P])
