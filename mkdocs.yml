@@ -36,8 +36,10 @@ markdown_extensions:
 pages:
   - Home: 'index.md'
   - Product: 
+    - AkropolisOS: 'https://github.com/akropolisio/akropolisOS'
     - Sparta: 'sparta.md'
     - Sparta FAQ: 'spartafaq.md'
+    - Delphi: 'delphi.md'
   - Team: 'team.md'
   - Partnerships: 'partners.md'
   - Design: 'design.md'
@@ -47,7 +49,7 @@ pages:
   - Media Coverage: 'press.md'
   - Open Source Development: 
     - C2FC: 'c2fc/overview.md'
-  - Roadmap: 'roadmap.md'
+  - Roadmap: 'https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433'
   - Whitepaper: 
     - May 2019: 'whitepaper.md'
     - March 2018: 'tech_whitepaper.md'
