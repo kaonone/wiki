@@ -295,6 +295,18 @@
           
           
 
+
+  <li class="md-nav__item">
+    <a href="https://github.com/akropolisio/akropolisOS" title="AkropolisOS" class="md-nav__link">
+      AkropolisOS
+    </a>
+  </li>
+
+        
+          
+          
+          
+
   
 
 
@@ -467,6 +479,18 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../delphi/" title="Delphi" class="md-nav__link">
+      Delphi
+    </a>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -610,7 +634,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../roadmap/" title="Roadmap" class="md-nav__link">
+    <a href="https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433" title="Roadmap" class="md-nav__link">
       Roadmap
     </a>
   </li>
@@ -978,7 +1002,7 @@
 <p>However, exiting the DAO using the bonding curve exposes the liquidity problem - <em>what if someone wants to exit the pool with no liquidity?</em> (for example, all liquid assets are distributed to borrowers). In our case, such a situation is impossible due to the design of the pool.</p>
 <p>&quot;Ragequit&quot; is a mechanism for leaving the pool at any moment, if you haven&#39;t staked (voted to give a loan) for somebody. MolochDAO was first to introduce this approach. We implemented our own variation of &quot;ragequit&quot; using the Bonding Curve mechanism. More on it in &quot;Bonding curve section&quot;</p>
 <h3 id="redit-issuance">Сredit issuance</h3>
-<p><img src="/images/development/pool/issuance.jpg" alt="drawing" /></p>
+<p><img src="/images/development/sparta/issuance.jpg" alt="drawing" /></p>
 <p>One of the main use cases of our product is attracting unsecured (uncollateralized) credit by pool users. Why the creation of such a product is so important to us? In developing countries, unsecured credit is often considered as the only tool to improve life quality (see Grameen Bank, Chamas, etc.), because people there don&#39;t have access to the proper banking system. At the same time, most existing DeFi products offer over-collateralized lending that attracts only specific users - either traders who want more leverage for trading or holders who believe in asset growth but need DAI to pay for current expenses. Our focus is on building financial products for underbanked people, who are not knowledgeable on the crypto market.</p>
 <p>But how can we guarantee the system stability and decrease to a minimum possibility of lending funds to unreliable borrowers (which will lead to the cash gap in the pool)? We decided to use a social reputation system to solve this issue. Moreover, at the current level of development of decentralized services, we do not believe in opportunistic attempts to create a &quot;single rating / scoring&quot; for all users.</p>
 <p>We have chosen to use a simpler approach in our product, which we call &quot;Community grant&quot; - all platform loans must be 100% secured. In addition to the user&#39;s deposit, other members of the pool can vouch for it. How it works:</p>
@@ -1002,9 +1026,9 @@
 </ul>
 <p>To answer the first question, we create a system of rewards and penalties for guarantors that motivate them to participate in risk assessment to increase their income and to correctly assess risks.</p>
 <p>To address the second question, we assume that the guarantors from the pool will know the borrower. For example, a small community of 20-30 people who trust each other and will use our platform to provide loans to each other.</p>
-<p><img src="/images/development/pool/collateral.jpg" alt="drawing" /></p>
+<p><img src="/images/development/sparta/collateral.jpg" alt="drawing" /></p>
 <h3 id="interest-rate-share">Interest rate share</h3>
-<p><img src="/images/development/pool/interest.jpg" alt="drawing" /></p>
+<p><img src="/images/development/sparta/interest.jpg" alt="drawing" /></p>
 <p>When repaying a loan in DAI, the borrower also pays interest on his loan. 50% of the interest remains in the pool, while the remaining 50% is equally distributed in the form of ASPTs between the users who vouched for the borrower, depending on their stake.</p>
 <p>The interest rate is paid by the borrower in the form of ASPT (DAI received from the borrower is used to purchase ASPT and distribute it among the guarantors).</p>
 <h3 id="aspts-burning">ASPTs burning</h3>
@@ -1026,21 +1050,21 @@
 <p>Bonding curve uses the formula <em>x = f(S)</em>, where <em>x</em> is the number of issued tokens, and <em>S</em> is the pool size.</p>
 <p>There is a spread &#39;d&#39; between the purchase price and the sale price, - the fee for exiting the pool.</p>
 <p>Upon entering the pool, the price is formed as follows:</p>
-<p><img src="/images/development/pool/formula1.PNG" alt="drawing" width="40%" height="40%"/></p>
+<p><img src="/images/development/sparta/formula1.PNG" alt="drawing" width="40%" height="40%"/></p>
 <p>where <em>A</em> is the volume of  total assets (liquid assets in Pool + debt commitments), <em>Deposit</em> is the size of the deposit, <em>dx</em> is the number of ASPTs tokens received.</p>
 <p>When you exit the pool, the price is formed as follows:</p>
-<p><img src="/images/development/pool/formula2.PNG" alt="drawing" width="43%" height="43%"/></p>
+<p><img src="/images/development/sparta/formula2.PNG" alt="drawing" width="43%" height="43%"/></p>
 <p>Or (the same)</p>
-<p><img src="/images/development/pool/formula3.PNG" alt="drawing" width="43%" height="43%"/></p>
+<p><img src="/images/development/sparta/formula3.PNG" alt="drawing" width="43%" height="43%"/></p>
 <p>, where <em>L</em> is the volume of liquid assets, <em>x = f(L)</em>.</p>
-<p><img src="/images/development/pool/formula4.PNG" alt="drawing" width="50%" height="50%"/></p>
+<p><img src="/images/development/sparta/formula4.PNG" alt="drawing" width="50%" height="50%"/></p>
 <p>The sum</p>
-<p><img src="/images/development/pool/formula5.PNG" alt="drawing" width="20%" height="20%"/></p>
+<p><img src="/images/development/sparta/formula5.PNG" alt="drawing" width="20%" height="20%"/></p>
 <p>forms the pool earnings - spread between enter and exit price of ASPT,</p>
-<p><img src="/images/development/pool/formula5.PNG" alt="drawing" width="20%" height="20%"/></p>
+<p><img src="/images/development/sparta/formula5.PNG" alt="drawing" width="20%" height="20%"/></p>
 <p>amount of money user gets.</p>
 <p>To calculate <em>f(S)</em> we propose to use the following formula</p>
-<p><img src="/images/development/pool/formula6.PNG" alt="drawing" width="63%" height="63%"/></p>
+<p><img src="/images/development/sparta/formula6.PNG" alt="drawing" width="63%" height="63%"/></p>
 <h3 id="preventing-attacks-on-the-pool">Preventing attacks on the pool</h3>
 <p>Let&#39;s suppose there are <em>x</em> funds in the pool and <em>f(x)</em> liquid tokens accordingly.</p>
 <p>Let&#39;s also suppose a fraudster wants to take a loan <em>m</em>, . The fraudster has accomplices with the amount of funds <em>P</em>. To process the attack, the accomplices pre-enter the pool, which in turn increases the cost of ASPTs, then vote for the fraudster and he gets a loan. After that, the fraudster accomplices leave the pool. If no one spots it , they will be able to repeat such a scheme over and over again, leading to pool bankrupcy. Let&#39;s check under which conditions would this be possible:</p>
@@ -1051,11 +1075,11 @@
 <li>Fraudster accomplices own <em>G - Q</em> liquid ASPTs. They take them out and get <em>H = x + P - m - f^{-1}[f(x + p - m)- G + Q]</em> for them.</li>
 <li>As a result, the fraudster and his accomplices have <em>m + H</em> funds. If <em>m + H vs P</em>, then the fraudsters made money:</li>
 </ol>
-<p><img src="/images/development/pool/formula7.PNG" alt="drawing" width="45%" height="45%"/></p>
+<p><img src="/images/development/sparta/formula7.PNG" alt="drawing" width="45%" height="45%"/></p>
 <p>As <em>f</em> is an increasing function, the sign will be equivalent to the</p>
-<p><img src="/images/development/pool/formula8.PNG" alt="drawing" width="39%" height="39%"/></p>
+<p><img src="/images/development/sparta/formula8.PNG" alt="drawing" width="39%" height="39%"/></p>
 <p>Let&#39;s add <em>G</em> and <em>Q</em> values:</p>
-<p><img src="/images/development/pool/formula9.PNG" alt="drawing" width="83%" height="83%"/></p>
+<p><img src="/images/development/sparta/formula9.PNG" alt="drawing" width="83%" height="83%"/></p>
 <p>Based on the above, <em>vs</em> is equivalent to <em>&#39;=&#39;</em>. <em>P</em> sign does not matter in this case (<em>P</em> could be positive and could be negative which is equivalent that accomplices leave pool first, and then join again).</p>
 <p>Q.E.D.,  cooperation with fake pool members will not give any advantage to the fraudster.</p>
 <h3 id="ragequit-mechanics">Ragequit mechanics:</h3>
@@ -1069,7 +1093,7 @@
 <br/>
 <br/>
 <center>
-<img src="/images/development/pool/formula10.PNG" alt="drawing" width="90%" height="90%" class="center"/>
+<img src="/images/development/sparta/formula10.PNG" alt="drawing" width="90%" height="90%" class="center"/>
 <center/></li>
 </ul>
 <p>&nbsp;  &nbsp;  &nbsp;  &nbsp;  <em>f’’(L1)dL1dL2 &lt; 0</em> is true because of <em>f’’&lt;0</em>.</p>
