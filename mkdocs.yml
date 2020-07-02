@@ -36,7 +36,7 @@ markdown_extensions:
 pages:
   - Home: 'index.md'
   - Product: 
-    - AkropolisOS: 'https://github.com/akropolisio/akropolisOS'
+    - AkropolisOS: 'akropolisOS.md'
     - Sparta: 'sparta.md'
     - Sparta FAQ: 'spartafaq.md'
     - Delphi: 'delphi.md'
