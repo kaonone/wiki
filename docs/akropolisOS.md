@@ -1,22 +1,22 @@
-# akropolisOS
+# AkropolisOS
 
 AkropolisOS is A Solidity framework for building complex dApps and protocols (savings, pensions, loans, investments).
 
 Akropolis Pool is undercollaterized credit pool based on AkropolisOS,  where members of which can earn high-interest rates by providing undercollateralized loans to other members and by pooling and investing capital through various liquid DeFi instruments.
 
-Description of Akropolis Pool can be found in our [wiki](https://wiki.akropolis.io/sparta/).
+Product description of the Sparta Pool can be found in our [wiki](https://wiki.akropolis.io/sparta/).
 
 # Mainnet deployment 
-* DAI: `0x6b175474e89094c44da98b954eedeac495271d0f`
-* Pool: `0x73067fdd366Cb678E9b539788F4C0f34C5700246`
-* AccessModule: `0xfE7B0aeb84D134c5be6b217e51B2b040F5B7cB7B`
-* PToken: `0xAA2edc0E5CDE4Da80628972c501e79326741dB17`
-* CurveModule: `0xFb6b0103063CDf701b733db3Fa3F1c0686F19668`
-* FundsModule: `0xc88F54A79CaE4C125D7A8c2Cf811daaE78b07D64`
-* LiquidityModule: `0x543cBc6693f8cBCf0AE5f2cfd9922203cc13b10A` 
-* LoanLimitsModule: `0x42b41f636C9eBB150F859f65e3c0f938b0347f59`
-* LoanProposalsModule: `0xd3bdEdA5e165E67985a4Dc7927E4651Bedd1950c`
-* LoanModule: `0x42E24De51db5baf6E18F91619195375FBAe63b13`
+* DAI: [0x6b175474e89094c44da98b954eedeac495271d0f](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f)
+* Pool: [0x73067fdd366Cb678E9b539788F4C0f34C5700246](https://etherscan.io/address/0x73067fdd366Cb678E9b539788F4C0f34C5700246)
+* AccessModule: [0xfE7B0aeb84D134c5be6b217e51B2b040F5B7cB7B](https://etherscan.io/address/0xfE7B0aeb84D134c5be6b217e51B2b040F5B7cB7B)
+* PToken: [0xAA2edc0E5CDE4Da80628972c501e79326741dB17](https://etherscan.io/address/0xAA2edc0E5CDE4Da80628972c501e79326741dB17)
+* CurveModule: [0xFb6b0103063CDf701b733db3Fa3F1c0686F19668](https://etherscan.io/address/0xFb6b0103063CDf701b733db3Fa3F1c0686F19668)
+* FundsModule: [0xc88F54A79CaE4C125D7A8c2Cf811daaE78b07D64](https://etherscan.io/address/0xc88F54A79CaE4C125D7A8c2Cf811daaE78b07D64)
+* LiquidityModule: [0x543cBc6693f8cBCf0AE5f2cfd9922203cc13b10A](https://etherscan.io/address/0x543cBc6693f8cBCf0AE5f2cfd9922203cc13b10A)
+* LoanLimitsModule: [0x42b41f636C9eBB150F859f65e3c0f938b0347f59](https://etherscan.io/address/0x42b41f636C9eBB150F859f65e3c0f938b0347f59)
+* LoanProposalsModule: [0xd3bdEdA5e165E67985a4Dc7927E4651Bedd1950c](https://etherscan.io/address/0xd3bdEdA5e165E67985a4Dc7927E4651Bedd1950c)
+* LoanModule: [0x42E24De51db5baf6E18F91619195375FBAe63b13](https://etherscan.io/address/0x42E24De51db5baf6E18F91619195375FBAe63b13)
 
 ## Developer tools
 * [Openzeppelin SDK](https://openzeppelin.com/sdk/)
