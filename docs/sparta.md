@@ -49,7 +49,7 @@ However, exiting the DAO using the bonding curve exposes the liquidity problem -
 
 ### Сredit issuance
 
-<img src="/images/development/pool/issuance.jpg" alt="drawing" />
+<img src="/images/development/sparta/issuance.jpg" alt="drawing" />
 
 One of the main use cases of our product is attracting unsecured (uncollateralized) credit by pool users. Why the creation of such a product is so important to us? In developing countries, unsecured credit is often considered as the only tool to improve life quality (see Grameen Bank, Chamas, etc.), because people there don&#39;t have access to the proper banking system. At the same time, most existing DeFi products offer over-collateralized lending that attracts only specific users - either traders who want more leverage for trading or holders who believe in asset growth but need DAI to pay for current expenses. Our focus is on building financial products for underbanked people, who are not knowledgeable on the crypto market.
 
@@ -73,11 +73,11 @@ To answer the first question, we create a system of rewards and penalties for gu
 
 To address the second question, we assume that the guarantors from the pool will know the borrower. For example, a small community of 20-30 people who trust each other and will use our platform to provide loans to each other.
 
-<img src="/images/development/pool/collateral.jpg" alt="drawing" />
+<img src="/images/development/sparta/collateral.jpg" alt="drawing" />
 
 ### Interest rate share
 
-<img src="/images/development/pool/interest.jpg" alt="drawing" />
+<img src="/images/development/sparta/interest.jpg" alt="drawing" />
 
 When repaying a loan in DAI, the borrower also pays interest on his loan. 50% of the interest remains in the pool, while the remaining 50% is equally distributed in the form of ASPTs between the users who vouched for the borrower, depending on their stake.
 
@@ -109,35 +109,35 @@ There is a spread &#39;d&#39; between the purchase price and the sale price, - t
 
 Upon entering the pool, the price is formed as follows:
 
-<img src="/images/development/pool/formula1.PNG" alt="drawing" width="40%" height="40%"/>
+<img src="/images/development/sparta/formula1.PNG" alt="drawing" width="40%" height="40%"/>
 
 where *A* is the volume of  total assets (liquid assets in Pool + debt commitments), *Deposit* is the size of the deposit, *dx* is the number of ASPTs tokens received.
 
 When you exit the pool, the price is formed as follows:
 
-<img src="/images/development/pool/formula2.PNG" alt="drawing" width="43%" height="43%"/>
+<img src="/images/development/sparta/formula2.PNG" alt="drawing" width="43%" height="43%"/>
 
 Or (the same)
 
-<img src="/images/development/pool/formula3.PNG" alt="drawing" width="43%" height="43%"/>
+<img src="/images/development/sparta/formula3.PNG" alt="drawing" width="43%" height="43%"/>
 
 , where *L* is the volume of liquid assets, *x = f(L)*.
 
-<img src="/images/development/pool/formula4.PNG" alt="drawing" width="50%" height="50%"/>
+<img src="/images/development/sparta/formula4.PNG" alt="drawing" width="50%" height="50%"/>
 
 The sum
 
-<img src="/images/development/pool/formula5.PNG" alt="drawing" width="20%" height="20%"/>
+<img src="/images/development/sparta/formula5.PNG" alt="drawing" width="20%" height="20%"/>
 
 forms the pool earnings - spread between enter and exit price of ASPT,
 
-<img src="/images/development/pool/formula5.PNG" alt="drawing" width="20%" height="20%"/>
+<img src="/images/development/sparta/formula5.PNG" alt="drawing" width="20%" height="20%"/>
 
 amount of money user gets.
 
 To calculate *f(S)* we propose to use the following formula
 
-<img src="/images/development/pool/formula6.PNG" alt="drawing" width="63%" height="63%"/>
+<img src="/images/development/sparta/formula6.PNG" alt="drawing" width="63%" height="63%"/>
 
 ### Preventing attacks on the pool
 
@@ -151,15 +151,15 @@ Let&#39;s also suppose a fraudster wants to take a loan *m*, . The fraudster has
 4. Fraudster accomplices own *G - Q* liquid ASPTs. They take them out and get *H = x + P - m - f^{-1}[f(x + p - m)- G + Q]* for them.
 5. As a result, the fraudster and his accomplices have *m + H* funds. If *m + H vs P*, then the fraudsters made money:
 
-<img src="/images/development/pool/formula7.PNG" alt="drawing" width="45%" height="45%"/>
+<img src="/images/development/sparta/formula7.PNG" alt="drawing" width="45%" height="45%"/>
 
 As *f* is an increasing function, the sign will be equivalent to the
 
-<img src="/images/development/pool/formula8.PNG" alt="drawing" width="39%" height="39%"/>
+<img src="/images/development/sparta/formula8.PNG" alt="drawing" width="39%" height="39%"/>
 
 Let&#39;s add *G* and *Q* values:
 
-<img src="/images/development/pool/formula9.PNG" alt="drawing" width="83%" height="83%"/>
+<img src="/images/development/sparta/formula9.PNG" alt="drawing" width="83%" height="83%"/>
 
 Based on the above, *vs* is equivalent to *&#39;=&#39;*. *P* sign does not matter in this case (*P* could be positive and could be negative which is equivalent that accomplices leave pool first, and then join again).
 
@@ -179,7 +179,7 @@ C. Next, the pool issued a loan in the amount of *dL1*. All issued tokens are no
 <br/>
 <br/>
 <center>
-<img src="/images/development/pool/formula10.PNG" alt="drawing" width="90%" height="90%" class="center"/>
+<img src="/images/development/sparta/formula10.PNG" alt="drawing" width="90%" height="90%" class="center"/>
 <center/>
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  *f’’(L1)dL1dL2 < 0* is true because of *f’’<0*.
