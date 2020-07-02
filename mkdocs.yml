@@ -35,7 +35,7 @@ markdown_extensions:
     - admonition
 pages:
   - Home: 'index.md'
-  - Product: 
+  - Products: 
     - AkropolisOS: 'akropolisOS.md'
     - Sparta: 'sparta.md'
     - Sparta FAQ: 'spartafaq.md'
