@@ -1,14 +1,12 @@
 # Welcome to the Akropolis wiki
 
 ## What is Akropolis
-Akropolis is a domain-specific financial protocol dedicated to the needs of the informal economy. It is designed to:
 
-* enable anybody regardless of geography to quickly set up, operate and grow informal autonomous financial organisations (AFOs), e.g. digital co-ops, guilds, mutuals
+As a project, Akropolis mission is to give people the tools to save, grow and provision for the future safely and without dependence on a geography, a central counterparty, or falling prey to predatorial financial practices of multiple intermediaries.
 
-* enable a previously impossible interoperable scalable network between them and external third parties, whereby value can be exchanged freely in a trust-minimised way (e.g. co-invest, lend/borrow, trade). 
+With that in mind, Akropolis has built AkropolisOS, light and modular framework for creating for-profit DAOs, with customisable user incentives, automated liquidity provision enabled by the bonding curve mechanism, and programmatic liquidity and treasury management.
 
-* reduce instances of fraud and misuse of funds 
-
+Akropolis first product built on top of AkropolisOS is Sparta. Its main use-case is yield generating and undercollateralised loans.
 
 ## Community channels
 
@@ -20,4 +18,4 @@ Akropolis is a domain-specific financial protocol dedicated to the needs of the 
 
 **Github:** [https://github.com/akropolisio](https://github.com/akropolisio)
 
-**Discord:** [https://discord.gg/mCTR3P](https://discord.gg/mCTR3P)
+**Discord:** [https://discord.gg/mCTR3P]([https://discord.gg/mCTR3P])
