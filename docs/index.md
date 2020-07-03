@@ -18,4 +18,4 @@ Akropolis first product built on top of AkropolisOS is Sparta. Its main use-case
 
 **Github:** [https://github.com/akropolisio](https://github.com/akropolisio)
 
-**Discord:** [https://discord.gg/mCTR3P]([https://discord.gg/mCTR3P])
+**Discord:** [https://discord.gg/mCTR3P](https://discord.gg/mCTR3P)
