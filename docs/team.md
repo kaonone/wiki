@@ -127,23 +127,6 @@ Alex is a BSc Electrical Engineering and Electrotechnologies. His skills include
 
 </br>
 </br>
-<img src="/images/team/mpf@2x.png" width="180" alt="drawing" />
-
-### [**María Paula Fernández**](https://www.linkedin.com/in/maría-paula-fernández-a96a8034/)
-
-
-**External Communications and PR**
-
-**Focus**: Public Relations, Marketing, Social Media, Events Management, Strategic Communications
-
-**Experience**: External Relations, Golem Factory • External Relations Officer, Web3 Foundation
-
-[**LinkedIn**](https://www.linkedin.com/in/maría-paula-fernández-a96a8034/)
-
-María Paula Fernández is a communications strategy specialist, independent researcher and open source non-technical contributor. She works in the Blockchain space, and has consulted or worked for projects such as Polkadot, Gnosis, Melonport, Ethereum Community Fund,  and other grassroots and established projects in the Ethereum ecosystem. Currently she heads communications at Golem and advises the Akropolis project. Additionally, she is a co-founder for ETHBerlin and the Department of Decentralization and a product manager of the Görli Testnet.
-
-</br>
-</br>
 <img src="/images/team/yana@2x.png" width="180" alt="drawing" />
 
 ### [**Yana Mar**](https://www.linkedin.com/in/yana-marakhonova/)
@@ -197,6 +180,40 @@ Peter is a fellow of the UK actuarial profession with a track record spanning ov
 He was involved in setting up new businesses in Germany, China and India where he also spent some time as a non-executive director of IDFC (the Infrastructure Development Finance Corporation). He then helped start up Vanguard Investments UK, arguably the most disruptive new venture in European asset management in many years.
 
 Peter has been involved in the pension industry in Europe, Asia, and the USA in various capacities, including designing innovative and low cost solutions for UK DC pension investors, as an administrator of corporate and individual pension plans, and as a pension scheme trustee in the Eurozone and Asia.
+
+</br>
+</br>
+<img src="/images/team/ajit@2x.png" width="180" alt="drawing" />
+
+### [**Ajit Tripathi**](https://www.linkedin.com/in/ajitkt/)
+
+
+**Fintech Advisor**
+
+**Focus**: Financial Infrastructure, Blockchain Architecture, Risk Managment, Investment Banking
+
+**Experience**: Financial Infrastructure, ConsenSys • Head of Blockchain, PriceWaterCoopers
+
+Ajit is a Partner with ConsenSys in the London Office where he leads the global Financial Markets Infrastructure (FMI) practice. Prior to ConsenSys, Ajit was a Director in PwC’s fintech and digital banking practice and co-founded PwC’s UK blockchain practice.
+Ajit is a well regarded influencer, thinker, blogger and doer in the fintech and blockchain space. In 2017, he was recognised by Coindesk as one of the key influencers at large enterprises. He has spoken at prominent fintech and blockchain conferences in the US, UK, Dubai, India, Japan and Hong Kong. He’s been featured in the Blockchain Insider and Fintech Insider podcasts, contributed to annual Coindesk retrospectives as well as quoted in the Financial Times, the BBC and a range of other publications. He has served as a mentor at Startup Bootcamp and is currently advising a small number of selected stealth stage startups in fintech and blockchain. Ajit’s previous blockchain engagements include high profile financial services clients such as Bank of England, Nasdaq, Deutsche Bank. Deutsche Boerse and MUFG and he’s been instrumental in advising regulators, board level executives and innovation labs across the world in the strategic implications of cryptocurrency, decentralised, peer to peer architectures.
+Ajit has a rich and varied background in risk and regulatory change program implementation, capital markets technology, distributed systems and telecom protocol engineering. Prior to PwC he served in technology management and innovation roles at Goldman Sachs, Barclays, GE-GXS and Bell Communications Research.
+
+</br>
+</br>
+<img src="/images/team/mpf@2x.png" width="180" alt="drawing" />
+
+### [**María Paula Fernández**](https://www.linkedin.com/in/maría-paula-fernández-a96a8034/)
+
+
+**External Communications and PR**
+
+**Focus**: Public Relations, Marketing, Social Media, Events Management, Strategic Communications
+
+**Experience**: External Relations, Golem Factory • External Relations Officer, Web3 Foundation
+
+[**LinkedIn**](https://www.linkedin.com/in/maría-paula-fernández-a96a8034/)
+
+María Paula Fernández is a communications strategy specialist, independent researcher and open source non-technical contributor. She works in the Blockchain space, and has consulted or worked for projects such as Polkadot, Gnosis, Melonport, Ethereum Community Fund,  and other grassroots and established projects in the Ethereum ecosystem. Currently she heads communications at Golem and advises the Akropolis project. Additionally, she is a co-founder for ETHBerlin and the Department of Decentralization and a product manager of the Görli Testnet.
 
 
 </br>
