@@ -5,3 +5,12 @@ Delphi is a pool built on AkropolisOS. Delphi allows executing automatic dollar-
 [Delphi page](https://akropolis.io/delphi)
 
 <img src="/images/development/delphi/delphi.png" alt="drawing"/>
+<br/>
+<br/>
+<img src="/images/development/delphi/delphi1.png" alt="drawing"/>
+<br/>
+<br/>
+<img src="/images/development/delphi/delphi2.png" alt="drawing"/>
+<br/>
+<br/>
+<img src="/images/development/delphi/delphi3.png" alt="drawing"/>
