@@ -4,7 +4,7 @@
 
 This kit will help connect you dApp to different Ethereum wallets, e.g. Metamask. With web3-wallets-kit, you can create Web3WalletsManager and connect your dApp to the wallet of your choice using one of the supported wallet integrations.
 
-Github repo is [here](https://github.com/akropolisio/web3-wallets-kit)
+Github repo is [here](https://github.com/akropolisio/web3-wallets-kit).
 
 ## Wallet integrations:
 

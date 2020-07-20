@@ -1,6 +1,7 @@
 # ERC20 Ethereum  <-> Parity Substrate Bridge
 
 Ethereum <-> Parity Substrate Blockchain bridge for self transfers of ERC20 representation.
+
 Github repo is [here](https://github.com/akropolisio/erc20-substrate-bridge/).
 
 ## You can try it out in our chain:
