@@ -1,6 +1,4 @@
-﻿
-
-##  **Core Team**
+﻿##  **Core Team**
 
 
 <img src="/images/team/andrianova@2x.png" width="180" alt="drawing" />

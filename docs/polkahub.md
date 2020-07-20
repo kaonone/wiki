@@ -1,12 +1,13 @@
-
-
 ## Introduction
+
 PolkaHub aims to create a managed container system, with one-click services for deploying and running different parachain nodes.
 The proposed system enables automatic updates and resource management for running nodes, additionally providing templates for launching parachains.
 
+[Github Repo](https://github.com/akropolisio/polkahub-monorepo)
+
 ![Polkahub](/images/development/polkahub/polkahub-main.png "Polkahub main interface")
 
-## What is PolkaHub
+## What is PolkaHub?
 
 1. Polkahub is a fast, scalable blockchain infrastructure component for Substrate parachains.
 2. Polkahub provides parachain developers with the ability to launch and manage network infrastructure using our command line utility and the ability to provide public node access.

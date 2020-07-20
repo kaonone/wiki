@@ -4,6 +4,7 @@
 <img src="/images/introsmall.png" alt="drawing" />
 
 A place to set up and trade Commitments to Future Cashflows (C2FC), a new financial primitive and a DeFi equivalent of [cashflow financing](https://www.investopedia.com/terms/c/cash-flow-financing.asp).
+Github repo is [here](https://github.com/akropolisio/cashflowrelay).
 
 C2FC bridges traditional finance and Web3 by providing DeFi and Web3 entrepreneurs with capital to grow.
 

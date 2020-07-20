@@ -1,5 +1,23 @@
 # Akropolis Polkadot Chain Frontend (active development)
 
+## Introduction
+
+Existing staking mechanism via [https://polkadot.js.org/apps/](https://polkadot.js.org/apps/) has developer-centric UX and is very complicated for ordinary users. To simplify UX we want to build Staking portal for AkropolisOSChain users. 
+
+Github [repo](https://github.com/akropolisio/staking-portal)
+
+## What is Polkadot Staking Portal?
+
+A simple and intuitive interface and Akropolis browser extension will make the staking process accessible to a wide range of users - you only need an account on Polkadot and Polkadot-js for signing transactions. 
+
+What you can do with our staking portal:
+
+- Check your overall balance and amount of all bonded tokens - as well as check each wallet connected
+
+- Check the current validators set, their commission, how much is staked for them, etc. and decide whether you want to nominate for them or not.
+
+- Check and edit stake conditions - add/withdraw funds, edit the list of nominees, stop nominating, redeem funds, etc.
+
 ## For frontend (in frontend folder)
 ### Install all dependencies
 - ```npm i``` install frontend and contracts dependencies

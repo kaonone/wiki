@@ -4,6 +4,7 @@ Ethereum <-> Parity Substrate Blockchain bridge for self transfers of ERC20 repr
 Github repo is [here](https://github.com/akropolisio/erc20-substrate-bridge/).
 
 ## You can try it out in our chain:
+
 1. Make sure you have Ethereum and Substrate extensions. Typical choices would be:
   <br>a. `Metamask` (or any other Ethereum extension) and switch it to `Kovan`
   <br>b. `polkadot{.js}`
