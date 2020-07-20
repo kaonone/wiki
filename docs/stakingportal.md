@@ -4,7 +4,9 @@
 
 Existing staking mechanism via [https://polkadot.js.org/apps/](https://polkadot.js.org/apps/) has developer-centric UX and is very complicated for ordinary users. To simplify UX we want to build Staking portal for AkropolisOSChain users. 
 
-Github [repo](https://github.com/akropolisio/staking-portal)
+Github repo: [https://github.com/akropolisio/staking-portal](https://github.com/akropolisio/staking-portal)
+
+Website: [https://staking-portal.akropolis.io/](https://staking-portal.akropolis.io/)
 
 ## What is Polkadot Staking Portal?
 
