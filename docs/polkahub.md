@@ -4,7 +4,7 @@
 PolkaHub aims to create a managed container system, with one-click services for deploying and running different parachain nodes.
 The proposed system enables automatic updates and resource management for running nodes, additionally providing templates for launching parachains.
 
-![Polkahub](/images/development/polkahub/polkahub_main.png "Polkahub main interface")
+![Polkahub](/images/development/polkahub/polkahub-main.png "Polkahub main interface")
 
 ## What is PolkaHub
 
