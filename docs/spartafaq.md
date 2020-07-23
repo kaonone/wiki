@@ -48,7 +48,7 @@ To create a loan request, go to the Pool overview page and in the Pool informati
 
 <details>
 <summary></br></summary> 
-<img src="/images/develpment/spartafaq/getcredit1.png" alt="drawing"/>
+<img src="/images/develpment/spartafaq/getcredit.png" alt="drawing"/>
 </details>
 
 A pop-up will open. There, you’ll need to enter the loan parameters and confirm the intention to create a deposit, then confirm the transaction sending.
