@@ -8,6 +8,8 @@ Our pool automates the work of financial organizations, and solves the following
 
 The goal of our pool is to create a community-owned fund that helps its members earn high-interest rates by providing unsecured loans to its members and by providing capital to various liquid DeFi instruments.
 
+<img src="/images/development/sparta/sparta-new.png" alt="drawing" />
+
 ## Motivation / Objective / Features
 
 1. Uncollateralised lending available through the pooling of funds. Currently, in DeFi most lending is over-collateralised.

@@ -4,6 +4,8 @@ Delphi is a pool built on AkropolisOS. Delphi allows executing automatic dollar-
 
 [Delphi page](https://akropolis.io/delphi)
 
+Delphi clickable prototypes can be found [here](https://invis.io/CTY5COJP3WB)
+
 <img src="/images/development/delphi/delphi1.png" alt="drawing"/>
 <br/>
 <br/>
