@@ -16,7 +16,7 @@ You can learn more about its ideas and principles in the selected articles below
 
 [**DeFi Reserach Team**](t.me/DeFiResearch) 
 
-[DeFi Developers](https://t.me/dfdev)
+[**DeFi Developers**](https://t.me/dfdev)
 
 ## Useful links
 
@@ -24,15 +24,9 @@ You can learn more about its ideas and principles in the selected articles below
 
 DeFi projects global list and ranking.
 
-<br/>
-<br/>
-
 ###[DeFi Prime](https://defiprime.com)
 
 DeFi projects catalog with landing rates, blog and events tracking.
-
-<br/>
-<br/>
 
 ###[DeFi Rate](https://defirate.com)
 
