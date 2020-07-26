@@ -40,6 +40,19 @@ pages:
     - Sparta: 'sparta.md'
     - Sparta FAQ: 'spartafaq.md'
     - Delphi: 'delphi.md'
+  - Roadmap: 'https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433'
+  - Open Source Development:  
+    - Polkahub: 'polkahub.md'
+    - C2FC: 'c2fc.md'
+    - Ethereum-Substrate Bridge: 'bridge.md'
+    - Web3WalletKit: 'web3walletkit.md'
+    - Staking Portal: 'stakingportal.md'
+  - Tokenomics: 
+    - Tokenomics: 'tokenomics.md'
+    - Token Details: 'tokendetails.md'
+  - Whitepaper: 
+    - May 2019: 'wp2019.md'
+    - March 2018: 'wp2018.md'
   - Team: 'team.md'
   - Partners & Friends: 'partners.md'
   - Design: 'design.md'
@@ -48,20 +61,6 @@ pages:
     - 2019: 'blog/2019.md'
     - 2018: 'blog/2018.md'
   - Media Coverage: 'press.md'
-  - Open Source Development:  
-    - Polkahub: 'polkahub.md'
-    - C2FC: 'c2fc.md'
-    - Ethereum-Substrate Bridge: 'bridge.md'
-    - Web3WalletKit: 'web3walletkit.md'
-    - Staking Portal: 'stakingportal.md'
-  - Roadmap: 'https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433'
-  - Whitepaper: 
-    - May 2019: 'wp2019.md'
-    - March 2018: 'wp2018.md'
-  - Tokenomics: 
-    - Tokenomics: 'tokenomics.md'
-    - Token Details: 'tokendetails.md'
   - Research Library: 'library.md'
-  - DeFi:
-    - What is DeFi?: 'defi/whatis.md'
-    - Useful links: 'defi/defilinks.md'
+  - DeFi: 'defi.md'
+   

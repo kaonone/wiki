@@ -12,4 +12,28 @@ You can learn more about its ideas and principles in the selected articles below
 
 ## Telegram DeFi Channels
 
-[**DeFi General Channel**](t.me/de_fi) | [**DeFi Reserach Team**](t.me/DeFiResearch) | [**DeFi Leaders & Investors**](t.me/DeFiLeaders)
+[**DeFi General Channel**](t.me/de_fi) 
+
+[**DeFi Reserach Team**](t.me/DeFiResearch) 
+
+[DeFi Developers](https://t.me/dfdev)
+
+## Useful links
+
+###[DeFi Pulse](https://defipulse.com)
+
+DeFi projects global list and ranking.
+
+<br/>
+<br/>
+
+###[DeFi Prime](https://defiprime.com)
+
+DeFi projects catalog with landing rates, blog and events tracking.
+
+<br/>
+<br/>
+
+###[DeFi Rate](https://defirate.com)
+
+Reviews of different DeFi sectors and how do they work.
