@@ -38,9 +38,8 @@ It should be noted that the token holder does not receive any profits by simply 
 
 The token functionality and use is similar to the one used in the Nexus Mutual bonding curve and designed to ensure that all participants, acting in their own self-interests are motivated to (a) maximize the revenue captured through and by the network; and (b) maintain sustainable liquidity growth in the network. Please note that a party may combine roles for a greater impact within the network.
 
-
 |    	|      **Economic Objectives**      	|   **How does a token help?**	|
-|----------	|-------------	|---	|
+|----------	|----------------	|---	|
 | Borrower 	|  <li>Have access to uncollateralized loans; <li>Have a regular availability to take a loan;|  <li>The token issued equivalently to the amount of stablecoins allows you to make a request for an unsecured loan in the pool and collateralize a loan. The user can get a 200% loan of the amount of ASPT available. <li>Also, high liquidity in the pool formed by depositing funds, using a token, attracting users according to the bonding curve-  implies the constant presence of a “living” asset available for a loan. Thus, the user has access to an unsecured loan.  |
 | Lender 	|  <li>To grant loans with the best risk/profit ratio  |  <li>Providing capital in ASPT, the provider can stake for the requests of the borrowers, receiving a percentage of interest.  |
 
@@ -49,7 +48,9 @@ The token functionality and use is similar to the one used in the Nexus Mutual b
 AKRO is similar to MKR (MakerDAO) and COMP (Compound). It is a governance token and is used for voting for protocol parameters, as well as for liquidity incentivization. More on it below:
 
 - Token holders can participate in the system governance (soon to be launched) - vote on changes in the protocol parameters - bonding curve shape, collateralization level, minimum and maximum thresholds for loan APRs, etc.
+
 - Liquidity mining incentives - part of TTS is allocated to liquidity mining and will be distributed to product users throughout the course of 2 years.
+
 - Burn - there is a spread between enter and exit price of the ASPT, which forms Sparta earnings. It is used to buy AKRO tokens from the market and burning them.
 
 <br/><br/>
