@@ -8,8 +8,6 @@
 
 **Bonding curve** – mathematical formula defining the ASPT price due to the pool liquidity and the number of issued ASPTs.
 
-**Staking** – a process of placing and locking ASPTs as a risk deposit to a special smart contract with the purpose to vouch for an honest borrower. If the borrower repays the debt properly, the person who staked for him receives a reward in the form of an interest fee. Tokens are unlocked as the borrower repays his debt, and in case he doesn’t - tokens are slashed (burned).  
-
 **Governance fee** – spread between the entering and the exiting price of ASPT. Used to buy & burn AKRO tokens.
 
 ## ASPT
