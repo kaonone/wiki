@@ -1,0 +1,29 @@
+.md-main {
+  background-color: #0a0a0e;
+  color: #ffffff;
+}
+
+[data-md-color-primary="purple"] header.md-header {
+  background-color: #13131b;
+}
+
+.md-main .md-typeset h1 {
+  color: rgba(255, 255, 255, 0.54);
+}
+
+.md-typeset code {
+  background-color: rgba(39, 39, 39, 0.5);
+  color: rgba(255, 255, 255, 0.54);
+  box-shadow: 0.29412em 0 0 rgba(39, 39, 39, 0.5),
+    -0.29412em 0 0 rgba(39, 39, 39, 0.5);
+}
+
+.md-main .md-nav__link[data-md-state="blur"] {
+  color: rgba(255, 255, 255, 0.54);
+}
+
+@media only screen and (max-width: 76.1875em) {
+  .md-main .md-nav {
+    background-color: #13131b;
+  }
+}
