@@ -1,68 +1,69 @@
 site_name: Akropolis wiki
-repo_name: 'akropolisio/wiki'
-repo_url: 'https://github.com/akropolisio/wiki'
+repo_name: "akropolisio/wiki"
+repo_url: "https://github.com/akropolisio/wiki"
 extra_javascript:
   - js/init.js
-site_description: 'Wiki for the Akropolis Project'
-google_analytics: 
-  - 'UA-141608436-1'
-  - 'auto'
+extra_css:
+  - css/extra.css
+site_description: "Wiki for the Akropolis Project"
+google_analytics:
+  - "UA-141608436-1"
+  - "auto"
 theme:
-  name: 'material'
+  name: "material"
   palette:
-    primary: 'purple'
-    accent: 'purple'
+    primary: "purple"
+    accent: "purple"
   font:
-      text: 'Overpass'
-      code: 'Overpass Mono'
-  logo: 'images/logo.svg'
-  favicon: 'images/favicon.ico'
+    text: "Overpass"
+    code: "Overpass Mono"
+  logo: "images/logo.svg"
+  favicon: "images/favicon.ico"
 extra:
   social:
-    - type: 'github'
-      link: 'https://github.com/akropolisio'
-    - type: 'medium'
-      link: 'https://medium.com/akropolis'
-    - type: 'twitter'
-      link: 'https://twitter.com/akropolisio'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/company/akropolisio/'
-    - type: 'telegram'
-      link: 'https://t.me/akropolis_official'
+    - type: "github"
+      link: "https://github.com/akropolisio"
+    - type: "medium"
+      link: "https://medium.com/akropolis"
+    - type: "twitter"
+      link: "https://twitter.com/akropolisio"
+    - type: "linkedin"
+      link: "https://www.linkedin.com/company/akropolisio/"
+    - type: "telegram"
+      link: "https://t.me/akropolis_official"
   feature:
     tabs: false
 markdown_extensions:
-    - admonition
+  - admonition
 pages:
-  - Home: 'index.md'
-  - Products: 
-    - AkropolisOS: 'akropolisOS.md'
-    - Sparta: 'sparta.md'
-    - Sparta FAQ: 'spartafaq.md'
-    - Delphi: 'delphi.md'
-  - Roadmap: 'https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433'
-  - Open Source Development:  
-    - Polkahub: 'polkahub.md'
-    - C2FC: 'c2fc.md'
-    - Ethereum-Substrate Bridge: 'bridge.md'
-    - Web3WalletKit: 'web3walletkit.md'
-    - Staking Portal: 'stakingportal.md'
-  - Tokenomics: 
-    - Tokenomics: 'tokenomics.md'
-    - Token Details: 'tokendetails.md'
-  - Whitepaper: 
-    - May 2019: 'wp2019.md'
-    - March 2018: 'wp2018.md'
-  - Team: 'team.md'
-  - Partners & Friends: 'partners.md'
-  - Design: 'design.md'
-  - Blog Posts: 
-    - 2020: 'blog/2020.md'
-    - 2019: 'blog/2019.md'
-    - 2018: 'blog/2018.md'
-  - Media Coverage: 'press.md'
-  - Research & Links: 
-    - Pension Crises Knowledge Base: 'https://airtable.com/shrrKv18TLgDZCnMp'
-    - Informal Savings Knowledge Base: 'https://airtable.com/shrtSK8Uc2PweuEwk'
-    - DeFi: 'defi.md'
-   
+  - Home: "index.md"
+  - Products:
+      - AkropolisOS: "akropolisOS.md"
+      - Sparta: "sparta.md"
+      - Sparta FAQ: "spartafaq.md"
+      - Delphi: "delphi.md"
+  - Roadmap: "https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433"
+  - Open Source Development:
+      - Polkahub: "polkahub.md"
+      - C2FC: "c2fc.md"
+      - Ethereum-Substrate Bridge: "bridge.md"
+      - Web3WalletKit: "web3walletkit.md"
+      - Staking Portal: "stakingportal.md"
+  - Tokenomics:
+      - Tokenomics: "tokenomics.md"
+      - Token Details: "tokendetails.md"
+  - Whitepaper:
+      - May 2019: "wp2019.md"
+      - March 2018: "wp2018.md"
+  - Team: "team.md"
+  - Partners & Friends: "partners.md"
+  - Design: "design.md"
+  - Blog Posts:
+      - 2020: "blog/2020.md"
+      - 2019: "blog/2019.md"
+      - 2018: "blog/2018.md"
+  - Media Coverage: "press.md"
+  - Research & Links:
+      - Pension Crises Knowledge Base: "https://airtable.com/shrrKv18TLgDZCnMp"
+      - Informal Savings Knowledge Base: "https://airtable.com/shrtSK8Uc2PweuEwk"
+      - DeFi: "defi.md"
