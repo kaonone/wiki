@@ -25,9 +25,9 @@ Product description of the Sparta Pool can be found in our [wiki](https://wiki.a
 
 ## Diagrams
 ### Modules
-![Modules](/images/development/akropolisos/diagram_modules.jpg)
+![Modules](/images/development/akropolisos/diagram_modules.png)
 ### User Interactions
-![User Interactions](/images/development/akropolisos/diagram_user_interactions.jpg)
+![User Interactions](/images/development/akropolisos/diagram_user_interactions.png)
 
 ## Deployment
 
@@ -176,7 +176,7 @@ Product description of the Sparta Pool can be found in our [wiki](https://wiki.a
 When borrower repays some part of his loan, he uses some PTK (either from his balance or minted when he sends DAI to the pool).
 This PTKs are distributed to supporters, proportionally to the part of the loan they covered. The borrower himself also covered half of the loan, and his part is distributed over the whole pool.
 All users of the pool receive part of this distributions proportional to the amount of PTK they hold on their balance and in loan proposals, PTK locked as collateral for loans is not counted.
-![Distributions](/images/development/akropolisos/diagram_distributions.jpg)
+![Distributions](/images/development/akropolisos/diagram_distributions.png)
 ### Distribution mechanics
 When you need to distribute some amount of tokens over all token holders one's first straight-forward idea might be to iterate through all token holders, check their balance and increase it by their part of the distribution.
 Unfortunately, this approach can hardly be used in Ethereum blockchain. All operations in EVM cost some gas. If we have a lot of token holders, gas cost for iteration through all may be higher than a gas limit for transaction (which is currently equal to gas limit for block).
