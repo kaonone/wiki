@@ -770,9 +770,9 @@
 </ul>
 <h2 id="diagrams">Diagrams</h2>
 <h3 id="modules">Modules</h3>
-<p><img alt="Modules" src="/images/development/akropolisos/diagram_modules.jpg" /></p>
+<p><img alt="Modules" src="/images/development/akropolisos/diagram_modules.png" /></p>
 <h3 id="user-interactions">User Interactions</h3>
-<p><img alt="User Interactions" src="/images/development/akropolisos/diagram_user_interactions.jpg" /></p>
+<p><img alt="User Interactions" src="/images/development/akropolisos/diagram_user_interactions.png" /></p>
 <h2 id="deployment">Deployment</h2>
 <h3 id="required-data">Required data:</h3>
 <ul>
@@ -955,7 +955,7 @@
 <p>When borrower repays some part of his loan, he uses some PTK (either from his balance or minted when he sends DAI to the pool).
 This PTKs are distributed to supporters, proportionally to the part of the loan they covered. The borrower himself also covered half of the loan, and his part is distributed over the whole pool.
 All users of the pool receive part of this distributions proportional to the amount of PTK they hold on their balance and in loan proposals, PTK locked as collateral for loans is not counted.
-<img alt="Distributions" src="/images/development/akropolisos/diagram_distributions.jpg" /></p>
+<img alt="Distributions" src="/images/development/akropolisos/diagram_distributions.png" /></p>
 <h3 id="distribution-mechanics">Distribution mechanics</h3>
 <p>When you need to distribute some amount of tokens over all token holders one's first straight-forward idea might be to iterate through all token holders, check their balance and increase it by their part of the distribution.
 Unfortunately, this approach can hardly be used in Ethereum blockchain. All operations in EVM cost some gas. If we have a lot of token holders, gas cost for iteration through all may be higher than a gas limit for transaction (which is currently equal to gas limit for block).
