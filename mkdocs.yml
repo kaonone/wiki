@@ -64,6 +64,7 @@ pages:
       - 2018: "blog/2018.md"
   - Media Coverage: "press.md"
   - Research & Links:
+      - DeFi: "defi.md"
       - Pension Crises Knowledge Base: "https://airtable.com/shrrKv18TLgDZCnMp"
       - Informal Savings Knowledge Base: "https://airtable.com/shrtSK8Uc2PweuEwk"
-      - DeFi: "defi.md"
+      

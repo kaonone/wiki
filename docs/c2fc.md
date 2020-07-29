@@ -41,12 +41,6 @@ Use this dApp made by the Akropolis team to manage C2FC creation, trading and co
   </a>
 </div>
 
-
-</br>
-</br>
-<img src="/images/development/c2fc/1.png" alt="drawing" width="180"/>
-
-
 ## What is C2FC
 
 The C2FC is a digital token, which acts as automatically executed right to claim a defined part of the future cashflow that arrives at issuer Ethereum address within a given time frame.
@@ -61,34 +55,21 @@ C2FC is materially different to the current implementations of ERC948 (EIP 1337)
 
 * Tokens are composable and can be grouped into a portfolio according to pre-defined characteristics
 
-</br>
-</br>
-
-<img src="/images/development/c2fc/2.png" alt="drawing" width="180"/>
 ## What are the benefits
 
 C2FC issuance allows to present future cashflows of any business or individual in as a single token, that can be easily exchanged, traded or used as collateral, thus materially simplifying workflows and opening up a potential for new DeFi instruments and interactions.
 
 You can attract additional liquidity without using a 150% ensuring in digital assets by trading C2FC.
-</br>
-</br>
-<img src="/images/development/c2fc/3.png" alt="drawing" width="180"/>
 
 ## How does it work
 
 An already operating business or an individual who has regular income payments, that needs additional liquidity at the moment can issue C2FC for defined future periods and trade them at marketplace. It looks like exchanging future cashflows for "money now" by selling discounted C2FC or borrowing funds, using C2FC as collateral. 
-</br>
-</br>
-<img src="/images/development/c2fc/4.png" alt="drawing" width="180"/>
 
 ## Are there any risks involved in issuing or trading C2FCs?
 
 C2FC issuance itself does not provide any risks until it is involved in the open market. When it is exchanged to other unit of value and changed ownership, there is a risk that future cashflow would be lower than estimated or there would no money arrived at all. This issue primarily is connected with the correct risk assessment of the C2FC issuer.
 
 Considering the transparency of the C2FC itself and related indicators, the risk assessment would be no harder and in some cases can even be more reliable than in centralized finance. 
-</br>
-</br>
-<img src="/images/development/c2fc/5.png" alt="drawing" width="180"/>
 
 ## Use cases
 
@@ -97,10 +78,6 @@ Considering the transparency of the C2FC itself and related indicators, the risk
 * [Gitcoin.](https://gitcoin.co/) developers forward-fund their expenses
 * [Decentraland](https://decentraland.org/) land owner receives funding against a leased asset
 * Digital entrepreneurs forward-fund ad spend and attract customers
-</br>
-</br>
-
-<img src="/images/development/c2fc/6.png" alt="drawing" width="180"/>
 
 ## What I do need to get started?
 

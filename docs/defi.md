@@ -6,10 +6,6 @@ DeFi is an enthusiasts movement striving to observe and support the principles o
 
 You can learn more about its ideas and principles in the selected articles below.
 
-## Articles
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrvQJ4EL31BDlQdB?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 ## Telegram DeFi Channels
 
 [**DeFi General Channel**](t.me/de_fi) 
@@ -31,3 +27,7 @@ DeFi projects catalog with landing rates, blog and events tracking.
 ###[DeFi Rate](https://defirate.com)
 
 Reviews of different DeFi sectors and how do they work.
+
+## Articles
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrvQJ4EL31BDlQdB?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
