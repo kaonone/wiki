@@ -71,9 +71,7 @@ This design leads to two main questions:
 
 - How to assess the borrower&#39;s risks in case of pseudo-anonymization used in Ethereum, when you know only the wallet address, but not the personal data of a person?
 
-To answer the first question, we create a system of rewards and penalties for guarantors that motivate them to participate in risk assessment to increase their income and to correctly assess risks.
-
-To address the second question, we assume that the guarantors from the pool will know the borrower. For example, a small community of 20-30 people who trust each other and will use our platform to provide loans to each other.
+We assume that the guarantors from the pool will know the borrower. For example, a small community of 20-30 people who trust each other and will use our platform to provide loans to each other.
 
 <img src="/images/development/sparta/collateral.png" alt="drawing" />
 
@@ -189,16 +187,6 @@ C. Next, the pool issued a loan in the amount of *dL1*. All issued tokens are no
 - Let&#39;s now assume that loan has been returned. All locked tokens in the amount of *f(L1 + dL1) - f(L1)* will be unlocked. The pool will now have liquid assets in the amount of *L1 + dL1 + dL2*, and liquid tokens in the amount of *f(L1 + dL1 + dL2)*. They will be able to do so due to the bonding curve design.
 
 This logic can be generalized to an arbitrary number of credits / affiliations in the DAO.
-
-### Risk assessor role in the pool
-
-Usually, low voting activity is one of the key issues in the DAO. As a way to solve this problem, we decided to implement the ASPT delegation mechanism.
-
-Users delegate the management of their ASPTs, all of them or partially, to risk assessors, receiving a percentage of interest from successful staking done by the risk assessor.
-
-The risk assessor creates a proposal indicating the commission that he will take for his services. Seeing the staking statistics on the blockchain - profitable or unprofitable - pool users decide to delegate the management of their ASPTs to a particular risk assessor or not.
-
-This model is similar to the work of Livepeer, where working nodes indicate what commission they charge as well as statistics of their work.
 
 ### AKRO Governance
 

@@ -78,7 +78,7 @@ Graduated from the Moscow Institute of Electronics and Mathematics. Participated
 ### [**Dima Serd**](https://github.com/in19farkt)
 
 
-**UI/UX**
+**Frontend Lead**
 
 **Focus**: React, Redux, Saga, UI, UX, Frontend, Visualisation
 
