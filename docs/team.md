@@ -146,6 +146,19 @@ Peter has been involved in the pension industry in Europe, Asia, and the USA in 
 
 </br>
 </br>
+<img src="/images/team/prabhakar@2x.png" width="180" alt="drawing" />
+
+### [**Prabhakar Reddy**](https://www.linkedin.com/in/prabhakar2reddy/)
+
+Focus: Start-ups, Entrepreneurship, Venture Capital
+
+Experience: Co-Founder, FalconX • Former VC, Accel
+	
+[LinkedIn](https://www.linkedin.com/in/prabhakar2reddy/)
+
+
+</br>
+</br>
 <img src="/images/team/mpf@2x.png" width="180" alt="drawing" />
 
 ### [**María Paula Fernández**](https://www.linkedin.com/in/maría-paula-fernández-a96a8034/)
