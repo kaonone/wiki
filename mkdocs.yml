@@ -42,6 +42,7 @@ pages:
       - Sparta: "sparta.md"
       - Sparta FAQ: "spartafaq.md"
       - Delphi: "delphi.md"
+      - Delphi FAQ: "delphifaq.md"
   - Roadmap: "https://www.notion.so/d6f645ed6e1f4044b4b8777cb96ed433"
   - Open Source Development:
       - Polkahub: "polkahub.md"
