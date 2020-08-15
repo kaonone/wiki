@@ -1,7 +1,8 @@
 # Design Kit
 
-## Logos
+## **Logos**
 
+## AKRO
 
 ### **Landscape mono**
 
@@ -31,6 +32,25 @@
 
 <img width="256" src="/images/logo/akrocmc.png">
 
+## ADEL
+
+### **ADEL on dark**
+
+[SVG](/images/logo/adel/adelondark.svg) | [PNG](/images/logo/adel/adelondark.png) 
+
+<img width="256" src="/images/logo/adel/adelondark.png">
+
+### **ADEL on white**
+
+[SVG](/images/logo/adel/adelonwhite.svg) | [PNG](/images/logo/adel/adelonwhite.png) 
+
+<img width="256" src="/images/logo/adel/adelonwhite.png">
+
+### **ADEL on color**
+
+[SVG](/images/logo/adel/adeloncolor.svg) | [PNG](/images/logo/adel/adeloncolor.png) 
+
+<img width="256" src="/images/logo/adel/adeloncolor.png">
 
 <br/>
 <br/>
