@@ -18,7 +18,9 @@ Please check this spreadsheet for the [full version](https://docs.google.com/spr
 
 Next distribution - TBA, after governance kick in.
 
-### **AKRO Tokenomic**
+### **ADEL Tokenomic**
+
+**Tokenomics are evolving and subject to change**
 
 ### Token Utility
 
@@ -32,7 +34,7 @@ Product-level governance for Delphi users and contributors, e.g:
 
 - Inflation/Deflation
 
-In order to govern Delphi, AKRO tokenholders need to stake AKRO to receive ADEL, to ensure their interests are fairly represented.
+In order to govern Delphi, AKRO tokenholders need to have both AKRO & ADEL, to ensure their interests are fairly represented.
 
 ### Value accrual
 

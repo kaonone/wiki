@@ -23,6 +23,8 @@ Please check this spreadsheet for the [full version](https://docs.google.com/spr
 
 ### **AKRO Tokenomics**
 
+**Tokenomics are evolving and subject to change**
+
 ### Token Utility
 
 Protocol-level governance tied to managing an overall suite of DeFi products built on Akropolis. Product roadmap includes:
@@ -59,7 +61,7 @@ AKRO holders have a pro-rata share of ADEL to align incentives, but for max rewa
 
 ### Sources of interest
 
-Initial sources of yield or gains, more to be added:
+(Potential) Initial sources of yield or gains, more to be added:
 
 - Supply interest from Compound/AAVE/dYdX/bZx;
 
@@ -67,7 +69,7 @@ Initial sources of yield or gains, more to be added:
 
 - CRV, BAL, COMP, SNX, REN etc token mining;
 
-- yearn protocol fee(COMP, LEND, etc.);
+- yearn protocol fee (COMP, LEND, etc.)*;
 
 ### How can I get it?
 
