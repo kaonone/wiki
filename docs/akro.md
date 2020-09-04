@@ -21,7 +21,7 @@ Circulating supply *(on 16.08.2020):* &nbsp;&nbsp; 1,992,500,000.00 <br/>
 
 Please check this spreadsheet for the [full version](https://docs.google.com/spreadsheets/d/1R7GDIhQeA8SNCl2f5b4rvgzUk0icdsIH6bkhbvnFI3A) of the token release schedule, with all the relevant links to smart contracts etc.
 
-### **AKRO Tokenomic**
+### **AKRO Tokenomics**
 
 ### Token Utility
 
@@ -31,7 +31,7 @@ Protocol-level governance tied to managing an overall suite of DeFi products bui
 
 - Delphi: DCA/Savings/Investments
 
-Stealth: Fixed-rate perp bonds, “lock in your crypto and get 7.5% backed by real-world assets”;
+- Stealth: Fixed-rate perp bonds, “lock in your crypto and get 7.5% backed by real-world assets”;
 
 AKRO tokenholders accrue value from a claim on fees, staking rewards and better AKRO liquidity on DEXes;
 
@@ -57,8 +57,6 @@ Ability to control the economics and all key parameters of the entire protocol i
 
 AKRO holders have a pro-rata share of ADEL to align incentives, but for max reward they will need to earn ADEL;
 
-AKRO is required to be able to mine ADEL (subject to change);
-
 ### Sources of interest
 
 Initial sources of yield or gains, more to be added:
@@ -67,11 +65,7 @@ Initial sources of yield or gains, more to be added:
 
 - Trading fees from Curve, Balancer, Uniswap;
 
-- BAL, COMP, SNX, REN etc token mining;
-
-- CRV token mining(upcoming);
-
-- YFI mining from staking yCurve;
+- CRV, BAL, COMP, SNX, REN etc token mining;
 
 - yearn protocol fee(COMP, LEND, etc.);
 

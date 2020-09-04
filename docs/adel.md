@@ -14,11 +14,7 @@
 
 Circulating supply *(on 02.09.2020):* &nbsp;&nbsp; 2,709,998 <br/> 
 
-Open Beta Stage:
-
-| Release Date | Amount |
-|-----------|-----------|
-|2-Sep-2020 | 2,230,000 |
+Please check this spreadsheet for the [full version](https://docs.google.com/spreadsheets/d/1nOJ6a2QAbHkpBggFfw1RL3W7ajtbgLNElkCRO_5Kh6M) of the token release schedule.
 
 Next distribution - TBA, after governance kick in.
 
