@@ -51,8 +51,8 @@ pages:
       - Web3WalletKit: "web3walletkit.md"
       - Staking Portal: "stakingportal.md"
   - Tokenomics:
-      - Tokenomics: "tokenomics.md"
-      - Token Details: "tokendetails.md"
+      - AKRO: "akro.md"
+      - ADEL: "adel.md"
   - Whitepaper:
       - May 2019: "wp2019.md"
       - March 2018: "wp2018.md"
