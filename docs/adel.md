@@ -8,7 +8,7 @@
 
 **Decimals** - 18
 
-**Supply** - 60,000,000
+**Supply** - 30,000,000
 
 ### Token Release Schedule
 
@@ -52,14 +52,15 @@ ADEL stakers have a major entitlement to Delphi economics (20% AKRO/80%ADEL) (su
 
 ### Sources of Interest
 
-Initial sources of yield or gains, more to be added:
+(Potential) Initial sources of yield or gains, more to be added:
 
 - Supply interest from Compound/AAVE/dYdX/bZx
+
 - Trading fees from Curve, Balancer, Uniswap
-- BAL, COMP, SNX, REN etc token mining
-- CRV token mining(upcoming)
-- YFI mining from staking yCurve
-- yearn protocol fee(COMP, LEND, etc.)*
+
+- CRV, BAL, COMP, SNX, REN etc token mining
+
+- yearn protocol fee (COMP, LEND, etc.)*
 
 ### How can I get it?
 
