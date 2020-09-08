@@ -37,6 +37,28 @@ The goal of our pool is to create a community-owned fund that helps its members 
 3. Ragequit - immediate pool leaving mechanism without funds blocked in DAO (in case you haven&#39;t staked (voted for) anyone).
 4. Bonding curve – mathematical curve defining price/supply correlation.
 
+## ASPT
+
+## Role and purpose: what is the role of the ASPT?
+
+ASPT is classified as a Network Token, combining the Work token and Governance functionality. It provides voting and staking functionalities within the Pool, and gives the right to get an uncollateralized loan.
+
+As such, the token is an essential element of the internal economy and cannot be replaced by an external stablecoin. The staking and governance approach require to be managed only by using a token, which value is connected to the current network and not tied to other projects/networks. The specific DAO-design also requires an internal token to implement functions as bonding curve and ragequit.
+
+Meanwhile, the loans will be provided in known and reliable stablecoins (DAI, USDT, TUSD, USDC), which will be further used to repay loans. The ASPT will not be used for this purpose.
+
+## How will the ASPT model work in the network?
+
+*ASPT as collateral*
+
+We use an approach that we call a “Community grant” - all platform loans are 100% secured. The user pledges his ASPTs as collateral (the deposit should be no less than 50% of the loan amount, i.e. the user will not be able to take a loan more than 200% relative to the size of ASPTs that he has). The Pool members who consider the user to be a good borrower, vouch for him and lock their ASPTs as collateral. If the sum of the ASPTs locked (both borrower and pool members) equals the size of the loan, then the borrower receives a loan in a stablecoins (DAI, USDT, TUSD, USDC).
+
+## Underlying value: what is the value of the token tied to?
+
+The value of the ASPT is tied to the real assets held in the DAO. Each time stablecoins is deposited or withdrawn, ASPT is minted or burned. The ASPT price is defined by the bonding curve algorithm.
+
+It should be noted that the token holder does not receive any profits by simply holding the token. ASPT does not grant the right to receive any profits, income, payments, returns, dividends from Akropolis or any entity from its group of companies, nor is it intended to be a security, commodity, bond, debt instrument or any kind of financial instrument or investment carrying equivalent rights.
+
 ## How does it work?
 
 ### Entering and leaving the pool
