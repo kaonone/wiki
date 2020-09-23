@@ -50,7 +50,7 @@ Example:
 
 These snapshots is used to calculate the reward for these specific amounts of hours of holding.
 
-Thus, the reward for 20 hours of holding is NOT EQUAL the personal reward calculated from personal Total Weekly Reward / 7 as 20 hours are less than 24 hours.
+Thus, the reward for 20 hours of holding is NOT EQUAL the reward calculated from personal Total Weekly Reward / 7 as 20 hours are less than 24 hours.
 
 The daily rewards in the interface can be bigger or smaller, comparing to personal TWR/7, but at the end of epoch you will get the correct amount of personal TWR.
 
@@ -58,7 +58,7 @@ The weekly calculations are closer to the actuals, but they also have errors bec
 
 ## Where can I see the snapshots you guys do?
 
-We are going to make them public and deciding on the best way to give it to you.
+You can check the [smart-contract that distributes the rewards to the pools](https://etherscan.io/tokentxns?a=0x2a9dcb9d79aba0cc64565a87c9d20d11d1f33a07). These distribution events are basically the "snapshots".
 
 ## I still have a smaller amount than I expected.
 
