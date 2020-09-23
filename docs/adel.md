@@ -12,11 +12,9 @@
 
 ### Token Release Schedule
 
-Circulating supply *(on 02.09.2020):* &nbsp;&nbsp; 2,709,998 <br/> 
+Circulating supply *(on 02.09.2020):* &nbsp;&nbsp; 6,008,123 <br/> 
 
-Please check this spreadsheet for the [full version](https://docs.google.com/spreadsheets/d/1nOJ6a2QAbHkpBggFfw1RL3W7ajtbgLNElkCRO_5Kh6M) of the token release schedule.
-
-Next distribution - TBA, after governance kick in.
+Please check [this spreadsheet]https://docs.google.com/spreadsheets/d/1nOJ6a2QAbHkpBggFfw1RL3W7ajtbgLNElkCRO_5Kh6M) for the token release schedule.
 
 ### **ADEL Tokenomic**
 
