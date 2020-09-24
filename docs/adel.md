@@ -14,7 +14,7 @@
 
 Circulating supply *(on 24.09.2020):* &nbsp;&nbsp; 6,008,123 <br/> 
 
-Please check [this spreadsheet]https://docs.google.com/spreadsheets/d/1nOJ6a2QAbHkpBggFfw1RL3W7ajtbgLNElkCRO_5Kh6M) for the token release schedule.
+Please check [this spreadsheet](https://docs.google.com/spreadsheets/d/1nOJ6a2QAbHkpBggFfw1RL3W7ajtbgLNElkCRO_5Kh6M) for the token release schedule.
 
 ### **ADEL Tokenomic**
 
