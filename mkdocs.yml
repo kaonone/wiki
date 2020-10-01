@@ -54,9 +54,6 @@ pages:
   - Tokenomics:
       - AKRO: "akro.md"
       - ADEL: "adel.md"
-  - Whitepaper:
-      - May 2019: "wp2019.md"
-      - March 2018: "wp2018.md"
   - Team: "team.md"
   - Partners & Friends: "partners.md"
   - Design: "design.md"
