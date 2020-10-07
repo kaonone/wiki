@@ -8,7 +8,7 @@ AkropolisOS is a framework for creating and managing distributed digital financi
 
 [Delphi](https://wiki.akropolis.io/delphi/) is a yield farming aggregator with dollar cost averaging tooling. Delphi allows users to gain yield on synthetic savings, farm tokens from integrated protocols/pools, and invest in volatile assets using an active “all in” approach or a passive dollar cost averaging strategy.
 
-[Link](github.com/akropolisio) to the Github repo.
+[Link](https://github.com/akropolisio) to the Github repo.
 
 # Mainnet deployment 
 * DAI: [0x6b175474e89094c44da98b954eedeac495271d0f](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f)
