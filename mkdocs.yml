@@ -42,8 +42,9 @@ pages:
       - Sparta: "sparta.md"
       - Sparta FAQ: "spartafaq.md"
       - Delphi: "delphi.md"
-      - Simple Staking FAQ: "simplefaq.md"
       - Delphi FAQ: "delphifaq.md"
+      - Delphi Governance FAQ: "delphigovfaq.md"
+      - Simple Staking FAQ: "simplefaq.md"
   - Roadmap: "roadmap.md"
   - Open Source Development:
       - Polkahub: "polkahub.md"
