@@ -6,7 +6,6 @@
 
 [SVG](/images/design/full-logo-color/akropolis-logo-colored.svg) | [PNG 2x](/images/design/full-logo-color/akropolis-logo-colored@2x.png) | [PDF](/images/design/full-logo-color/akropolis-logo-colored.pdf) | [EPS](/images/design/full-logo-color/akropolis-logo-colored.esp)
 
-<img width="256" src="/images/design/full-logo-color/akropolis-logo-colored@2x.png">
 <img width="512" src="/images/design/full-logo-color/akropolis-logo-colored@2x.png">
 
 ### Akropolis Logo White
