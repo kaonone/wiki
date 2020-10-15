@@ -6,13 +6,13 @@
 
 [SVG](/images/design/full-logo-color/akropolis-logo-colored.svg) | [PNG 2x](/images/design/full-logo-color/akropolis-logo-colored@2x.png) | [PDF](/images/design/full-logo-color/akropolis-logo-colored.pdf) | [EPS](/images/design/full-logo-color/akropolis-logo-colored.esp)
 
-<img height="120" src="/images/design/full-logo-color/akropolis-logo-colored@2x.png">
+<img height="90" src="/images/design/full-logo-color/akropolis-logo-colored@2x.png">
 
 ### Akropolis Logo White
 
 [SVG](/images/design/full-logo-white/akropolis-logo-white.svg) | [PNG 2x](/images/design/full-logo-white/akropolis-logo-white@2x.png) | [PDF](/images/design/full-logo-white/akropolis-logo-white.pdf) | [EPS](/images/design/full-logo-white/akropolis-logo-white.esp)
 
-<img height="120" src="/images/design/full-logo-white/akropolis-logo-white@2x.png">
+<img height="90" src="/images/design/full-logo-white/akropolis-logo-white@2x.png">
 <br/>
 <br/>
 
