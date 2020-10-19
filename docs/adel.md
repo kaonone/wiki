@@ -1,6 +1,6 @@
 ## **ADEL**
 
-<img width="128" src="/images/logo/adel/adelondark.png">
+<img width="128" src="/images/design/adel/adelondark.png">
 
 **Contract address** - [0x94d863173ee77439e4292284ff13fad54b3ba182](https://etherscan.io/token/0x94d863173ee77439e4292284ff13fad54b3ba182)
 

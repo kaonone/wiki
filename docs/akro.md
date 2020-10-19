@@ -2,7 +2,7 @@
 
 ## **AKRO**
 
-<img width="128" src="/images/logo/akrocmc.png">
+<img width="128" src="/images/design/symbol-color/akro-symbol-colored@2x.png">
 
 **Contract address** - [0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7](https://etherscan.io/address/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7)
 
