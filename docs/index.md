@@ -20,4 +20,4 @@ Another product we’re developing is Delphi, a pool which allows executing auto
 
 **Github:** [https://github.com/akropolisio](https://github.com/akropolisio)
 
-**Discord:** [https://discord.gg/mCTR3P](https://discord.gg/AJ9UH9j)
+**Discord:** [https://discord.gg/AJ9UH9j](https://discord.gg/AJ9UH9j)
