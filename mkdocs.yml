@@ -39,14 +39,14 @@ pages:
   - Home: "index.md"
   - Products:
       - AkropolisOS: "akropolisOS.md"
-      - Sparta: "sparta.md"
-      - Sparta FAQ: "spartafaq.md"
       - Delphi: "delphi.md"
       - Delphi FAQ: "delphifaq.md"
       - Delphi Governance FAQ: "delphigovfaq.md"
       - Simple Staking FAQ: "simplefaq.md"
   - Roadmap: "roadmap.md"
   - Open Source Development:
+      - Sparta: "sparta.md"
+      - Sparta FAQ: "spartafaq.md"
       - Polkahub: "polkahub.md"
       - C2FC: "c2fc.md"
       - Ethereum-Substrate Bridge: "bridge.md"
