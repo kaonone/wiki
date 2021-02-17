@@ -23,7 +23,3 @@ The focus of Akropolis is to onboard retail and institutional users to decentral
 <img src="/images/development/delphi/delphi2.png" alt="drawing"/>
 <br/>
 <br/>
-
-<img src="/images/development/delphi/delphi3.png" alt="drawing"/>
-<br/>
-<br/>
