@@ -39,9 +39,9 @@ pages:
   - Home: "index.md"
   - Products:
       - AkropolisOS: "akropolisOS.md"
-      - Delphi: "delphi.md"
-      - Delphi FAQ: "delphifaq.md"
-      - Delphi Governance FAQ: "delphigovfaq.md"
+      - Akropolis: "akropolis.md"
+      - Akropolis FAQ: "akropolisfaq.md"
+      - Akropolis Governance FAQ: "govfaq.md"
       - Simple Staking FAQ: "simplefaq.md"
   - Roadmap: "roadmap.md"
   - Open Source Development:
@@ -59,6 +59,7 @@ pages:
   - Partners & Friends: "partners.md"
   - Design: "design.md"
   - Blog Posts:
+      - 2021: "blog/2021.md"
       - 2020: "blog/2020.md"
       - 2019: "blog/2019.md"
       - 2018: "blog/2018.md"
