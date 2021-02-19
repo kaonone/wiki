@@ -1,24 +1,24 @@
-# Delphi FAQ
+# Akropolis FAQ
 
 ## Product
 
-### What is Delphi?
+### What is Akropolis?
 
-Delphi is a DeFi yield farming aggregator and Dollar Cost Averaging tool that offers synthetic savings and high yield “accounts” aimed at DeFi-curious users with no deep technical knowledge and some understanding of Ethereum and crypto. Delphi was built by the Akropolis team and is the second product built on AkropolisOS.
+Akropolis is a DeFi yield farming aggregator and Dollar Cost Averaging tool that offers synthetic savings and high yield “accounts” aimed at DeFi-curious users with no deep technical knowledge and some understanding of Ethereum and crypto. Akropolis was built by the Akropolis team and is the second product built on AkropolisOS.
 
 <div align="middle">
-  <a href="https://delphi.akropolis.io/summary" target="_blank" rel="noopener noreferrer">
+  <a href="https://akropolis.io/summary" target="_blank" rel="noopener noreferrer">
     <img src="/images/development/mainnet.png" alt="drawing" width="220">
   </a>
 </div>
 
-### Why Delphi?
+### Why Akropolis?
 
 Today, the DeFi area provides great opportunities for earning money through staking, yield farming and liquidity provision. Nowadays, different DeFi protocols offer various opportunities for yield generation & yield farming which might confuse DeFi newbies & people who do not have time to follow the news constantly.
 
-Delphi allocate different yield-farming & yield-generating pools in one interface, solving an important problem for novice DeFi users - simple & user-friendly interface with concise and understandable information.
+Akropolis allocate different yield-farming & yield-generating pools in one interface, solving an important problem for novice DeFi users - simple & user-friendly interface with concise and understandable information.
 
-Another important feature is the ability to set an automated dollar-cost average (DCA) strategy into assets/liquidity pools - oriented at users who want to set up a long-term portfolio. Delphi decreases operational costs for such operations as all funds are pooled.
+Another important feature is the ability to set an automated dollar-cost average (DCA) strategy into assets/liquidity pools - oriented at users who want to set up a long-term portfolio. Akropolis decreases operational costs for such operations as all funds are pooled.
 
 We also gave special attention to UI/UX design trying to make it simple & understandable for the end-users (novice or experts) - and are going to constantly improve it & add more user-friendly features as we progress based on feedback and best practices in the space.
 
@@ -75,7 +75,7 @@ DCA pools are the same investment pools with volatile assets. The logic works di
 
 Currently, stake tab has only one pool - AKRO staking. Mechanics here are simple - you just send AKRO to this pool & farm AKRO&ADEL. No lock-up. We will be expanding the mechanics in the coming days, as well as adding governance pools to this tab.  
 
-## Delphi Functionality
+## Akropolis Functionality
 
 ### How to allocate liquidity?
 
@@ -89,7 +89,7 @@ Currently, stake tab has only one pool - AKRO staking. Mechanics here are simple
 
 **Important! Currently, “Allocate in one transaction” is possible only if you deposit the same asset in all pools. We will be expanding this functionality in the coming weeks.**
 
-For DCA deposits, please see [How to set up DCA](https://wiki.akropolis.io/delphifaq/#how-to-set-up-dca).
+For DCA deposits, please see [How to set up DCA](https://wiki.akropolis.io/akropolisfaq/#how-to-set-up-dca).
 
 ### What's "Add all coins in a balanced proportion"?
 
@@ -101,10 +101,10 @@ Infinite unlock means that you preapprove the contract to be able to spend any a
 
 ### How to withdraw liquidity I provided?
 
-Each strategy option in Delphi has a withdrawal tab. You can withdraw either in a proportion of pool assets (preferred way as it decreases swap fees) or in a form of individual tokens (with swaps & fees in place).
+Each strategy option in Akropolis has a withdrawal tab. You can withdraw either in a proportion of pool assets (preferred way as it decreases swap fees) or in a form of individual tokens (with swaps & fees in place).
 
 
 
 
 
-### [Try Delphi on Ethereum mainnet!](https://delphi.akropolis.io/summary)
+### [Try Akropolis on Ethereum mainnet!](https://akropolis.io/summary)
