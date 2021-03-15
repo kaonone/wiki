@@ -4,7 +4,7 @@
 
 ### What is Akropolis?
 
-Akropolis is a DeFi yield farming aggregator and Dollar Cost Averaging tool that offers synthetic savings and high yield “accounts” aimed at DeFi-curious users with no deep technical knowledge and some understanding of Ethereum and crypto. Akropolis was built by the Akropolis team and is the second product built on AkropolisOS.
+Akropolis is a DeFi yield farming and Dollar Cost Averaging tool that offers synthetic savings and high yield “accounts” aimed at DeFi-curious users with no deep technical knowledge and some understanding of Ethereum and crypto. Akropolis was built by the Akropolis team and is the second product built on AkropolisOS.
 
 <div align="middle">
   <a href="https://akropolis.io/summary" target="_blank" rel="noopener noreferrer">
@@ -26,42 +26,23 @@ We also gave special attention to UI/UX design trying to make it simple & unders
 
 - Connect your wallet.
 
-- Choose one or several pools that currently provides the best yield farming opportunities.
+- Choose one or several pools/vaults that currently provides the best yield farming opportunities.
 
 - Choose if you want to deposit all available funds or Dollar Cost Averaging into those pools.
 
 - Relax.
 
-### I see a lot of “coming soon” in the interface. What is the roadmap?
+### Yearn Vaults
 
-You can find the roadmap [here](https://www.notion.so/b390a85d87124796b0b008b20e6ab38e?v=387bc54a16e34bf2b8f7328b839eebc2). We’re following [Guarded Launch](https://medium.com/electric-capital/derisking-defi-guarded-launches-2600ce730e0a) approach proposed by Ken Deeter from Electric.Capital - and will be rolling out updates to both interface and functionality after thorough testing and audits.
-
+On the Vaults tab you can find the Yearn strategies v1&v2  integrated. This is the automised product to maximase your yield-farming gains. To learn more about Yearn Vaults please visit the (Yearn Documantation and FAQ)[https://docs.yearn.finance/faq]
 
 ### Save
 
-Savings is all about stablecoins pools. Currently, you can choose where to supply liquidity from selected Curve.fi and Compound pools. You can allocate in one or several pools in once click - just choose amounts & currencies, click on Allocate & chill - your funds will be sent to the corresponding pools, earn interest & farm different tokens all at once.
-
-### Invest
-
-Investments tab is similar to savings with one big difference - all pools contain volatile assets, so risks connected to impermanent loss are much higher. Just choose the pool you’re willing to supply liquidity to & confirm deposit -  chill while your funds earning interest & farming different tokens all at once.
+Savings is all about stablecoins pools. Currently, you can choose where to supply liquidity from selected Curve.fi and Compound pools. You can allocate in one or several pools in once click - just choose amounts & currencies, click on Allocate & chill - your funds will be sent to the corresponding pools, earn interest & farm different tokens all at once. The savings pools are paused at the moment.
 
 ### DCA
 
 Dollar-cost average is a popular strategy in traditional finance and crypto community. If put it simply - it is automated, periodic purchases of an asset (commonly referred to as “stacking sats” in BTC community). Regardless of the asset, the DCA strategy has always been to invest periodically (weekly, monthly, etc) in an effort to reduce the impact of volatility on the overall purchase. The purchases occur regardless of the price and at regular intervals. DCA effectively removes much of the headache that comes with attempts to time the market in order to buy an asset at the best prices.
-
-### How to set up DCA?
-
-DCA pools are the same investment pools with volatile assets. The logic works differently though:
-
-- All deposits are in USDC
-
-- Insert overall deposit amount & amount for weekly DCA, confirm deposit
-
-- Your deposit is sent to the savings pool (Compound USDC) where it constantly earns interest 
-
-- On a weekly basis, your weekly DCA amount is withdrawn from the savings pool and sent to the exchange to buy the asset of your choice (BTC, ETH) or directly to the liquidity pool.
-
-- Assets bought through DCA are sent to the corresponding investment pool, where they earn interest.
 
 **Important! DCA are non-stablecoin pools. Higher risk-reward pools with higher volatility — higher potential capital gains and losses.**
 
@@ -73,7 +54,8 @@ DCA pools are the same investment pools with volatile assets. The logic works di
 
 ### Stake
 
-Currently, stake tab has only one pool - AKRO staking. Mechanics here are simple - you just send AKRO to this pool & farm AKRO&ADEL. No lock-up. We will be expanding the mechanics in the coming days, as well as adding governance pools to this tab.  
+Currently, stake tab has only one pool - AKRO staking. Mechanics here are simple - you just send AKRO to this pool & farm AKRO/ADEL. No lock-up. To learn how to stake please visit our (Simple staking FAQ)[https://wiki.akropolis.io/simplefaq/]
+The actual staking reward amounts could be checked (here)[https://bit.ly/3gtX8GS].
 
 ## Akropolis Functionality
 
@@ -85,11 +67,7 @@ Currently, stake tab has only one pool - AKRO staking. Mechanics here are simple
 
 - Click on Allocate button to deposit in one transaction (additional transactions may come in a form of “approve spending”)
 
-- That’s it. Your funds are sent to corresponding pools where they earn yield & farm tokens.
-
-**Important! Currently, “Allocate in one transaction” is possible only if you deposit the same asset in all pools. We will be expanding this functionality in the coming weeks.**
-
-For DCA deposits, please see [How to set up DCA](https://wiki.akropolis.io/akropolisfaq/#how-to-set-up-dca).
+- That’s it. Your funds are sent to corresponding pools/strategies where they earn yield & farm tokens.
 
 ### What's "Add all coins in a balanced proportion"?
 
@@ -97,11 +75,7 @@ Each liquidity pool has a balanced ratio for assets within it - by depositing to
 
 ### What's "Infinite unlock"?
 
-Infinite unlock means that you preapprove the contract to be able to spend any amount of tokens when you interact with it. Enabling infinite unlock means that you approve spending tokens only once (thus reducing gas costs associated with signing “approve” transaction). Bear in mind - after enabling infinite unlock, all following transfers/deposit of the asset chosen won’t need approval - so please use it if you fully trust the contract. 
-
-### How to withdraw liquidity I provided?
-
-Each strategy option in Akropolis has a withdrawal tab. You can withdraw either in a proportion of pool assets (preferred way as it decreases swap fees) or in a form of individual tokens (with swaps & fees in place).
+Infinite unlock means that you preapprove the contract to be able to spend any amount of tokens when you interact with it. Enabling infinite unlock means that you approve spending tokens only once (thus reducing gas costs associated with signing “approve” transaction). Bear in mind - after enabling infinite unlock, all following transfers/deposit of the asset chosen won’t need approval - so please use it if you fully trust the contract.
 
 
 
