@@ -38,13 +38,13 @@ markdown_extensions:
 pages:
   - Home: "index.md"
   - Products:
-      - AkropolisOS: "akropolisOS.md"
       - Akropolis: "akropolis.md"
       - Akropolis FAQ: "akropolisfaq.md"
       - Akropolis Governance FAQ: "govfaq.md"
       - Simple Staking FAQ: "simplefaq.md"
   - Roadmap: "roadmap.md"
   - Open Source Development:
+      - AkropolisOS: "akropolisOS.md"
       - Sparta: "sparta.md"
       - Sparta FAQ: "spartafaq.md"
       - Polkahub: "polkahub.md"
