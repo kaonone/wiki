@@ -34,7 +34,7 @@ We also gave special attention to UI/UX design trying to make it simple & unders
 
 ### Yearn Vaults
 
-On the Vaults tab you can find the Yearn strategies v1&v2  integrated. This is the automised product to maximase your yield-farming gains. To learn more about Yearn Vaults please visit the (Yearn Documantation and FAQ)[https://docs.yearn.finance/faq]
+On the Vaults tab you can find the Yearn strategies v1&v2  integrated. This is the automised product to maximase your yield-farming gains. To learn more about Yearn Vaults please visit the [Yearn Documantation and FAQ](https://docs.yearn.finance/faq).
 
 ### Save
 
@@ -54,8 +54,8 @@ Dollar-cost average is a popular strategy in traditional finance and crypto comm
 
 ### Stake
 
-Currently, stake tab has only one pool - AKRO staking. Mechanics here are simple - you just send AKRO to this pool & farm AKRO/ADEL. No lock-up. To learn how to stake please visit our (Simple staking FAQ)[https://wiki.akropolis.io/simplefaq/]
-The actual staking reward amounts could be checked (here)[https://bit.ly/3gtX8GS].
+Currently, stake tab has only one pool - AKRO staking. Mechanics here are simple - you just send AKRO to this pool & farm AKRO/ADEL. No lock-up. To learn how to stake please visit our [Simple staking FAQ](https://wiki.akropolis.io/simplefaq/)
+The actual staking reward amounts could be checked [here](https://bit.ly/3gtX8GS).
 
 ## Akropolis Functionality
 
