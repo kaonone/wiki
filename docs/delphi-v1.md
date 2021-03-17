@@ -1,4 +1,4 @@
-# Delphi v1 FAQ
+# Delphi v1
 
 ## What is Delphi v1?
 
