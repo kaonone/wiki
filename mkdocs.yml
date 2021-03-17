@@ -45,6 +45,7 @@ pages:
   - Roadmap: "roadmap.md"
   - Open Source Development:
       - AkropolisOS: "akropolisOS.md"
+      - Delphi: "delphi-v1.md"
       - Sparta: "sparta.md"
       - Sparta FAQ: "spartafaq.md"
       - Polkahub: "polkahub.md"
