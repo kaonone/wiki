@@ -36,21 +36,9 @@ We also gave special attention to UI/UX design trying to make it simple & unders
 
 On the Vaults tab you can find the Yearn strategies v1&v2  integrated. This is the automised product to maximase your yield-farming gains. To learn more about Yearn Vaults please visit the [Yearn Documantation and FAQ](https://docs.yearn.finance/faq).
 
-### Save
-
-Savings is all about stablecoins pools. Currently, you can choose where to supply liquidity from selected Curve.fi and Compound pools. You can allocate in one or several pools in once click - just choose amounts & currencies, click on Allocate & chill - your funds will be sent to the corresponding pools, earn interest & farm different tokens all at once. The savings pools are paused at the moment.
-
-### DCA
+### DCA (in progress)
 
 Dollar-cost average is a popular strategy in traditional finance and crypto community. If put it simply - it is automated, periodic purchases of an asset (commonly referred to as “stacking sats” in BTC community). Regardless of the asset, the DCA strategy has always been to invest periodically (weekly, monthly, etc) in an effort to reduce the impact of volatility on the overall purchase. The purchases occur regardless of the price and at regular intervals. DCA effectively removes much of the headache that comes with attempts to time the market in order to buy an asset at the best prices.
-
-**Important! DCA are non-stablecoin pools. Higher risk-reward pools with higher volatility — higher potential capital gains and losses.**
-
-#### Useful links:
-
-[https://www.investopedia.com/terms/d/dollarcostaveraging.asp](https://www.investopedia.com/terms/d/dollarcostaveraging.asp)
-
-[http://dcabtc.com/](http://dcabtc.com/)
 
 ### Stake
 
@@ -76,9 +64,5 @@ Each liquidity pool has a balanced ratio for assets within it - by depositing to
 ### What's "Infinite unlock"?
 
 Infinite unlock means that you preapprove the contract to be able to spend any amount of tokens when you interact with it. Enabling infinite unlock means that you approve spending tokens only once (thus reducing gas costs associated with signing “approve” transaction). Bear in mind - after enabling infinite unlock, all following transfers/deposit of the asset chosen won’t need approval - so please use it if you fully trust the contract.
-
-
-
-
 
 ### [Try Akropolis on Ethereum mainnet!](https://akropolis.io/summary)
