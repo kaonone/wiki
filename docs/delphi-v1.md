@@ -58,4 +58,4 @@ Infinite unlock means that you preapprove the contract to be able to spend any a
 
 Each strategy option in Akropolis has a withdrawal tab. You can withdraw either in a proportion of pool assets (preferred way as it decreases swap fees) or in a form of individual tokens (with swaps & fees in place).
 
-### [Try Akropolis App (updated version of Delphi v1 on Ethereum mainnet!](https://akropolis.io/summary)
+### [Try Akropolis App (Delphi v1 updated version) on Ethereum mainnet!](https://akropolis.io/summary)
