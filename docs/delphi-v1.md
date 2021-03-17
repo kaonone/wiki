@@ -14,4 +14,4 @@ Savings is all about stablecoins pools. Currently, you can choose where to suppl
 
 ### Stake
 
-Stake tab has one pool - for AKRO staking. Mechanics here are simple - you just send AKRO to the chosen pool & farm AKRO&ADEL. No lock-up for the staked funds.
+Mechanics here are simple - you just send token to the chosen pool & farm additional tokens. No lock-up for the staked funds.
