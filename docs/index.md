@@ -6,9 +6,7 @@ As a project, Akropolis mission is to give people the tools to save, grow and pr
 
 With that in mind, Akropolis has built AkropolisOS, light and modular framework for creating for-profit DAOs, with customisable user incentives, automated liquidity provision enabled by the bonding curve mechanism, and programmatic liquidity and treasury management.
 
-Our first product, Sparta, allows taking undercollateralized loans (borrower provides only 50% of collateral), as well as to passively generate yield via integrated yield rebalancer to get maximum available APR from different DeFi protocols. All funds are pooled, and the internal economy is based on a bonding curve, which provides additional incentives to the users. 
-
-Another product we’re developing is Delphi, a pool which allows executing automatic dollar-cost averaging into BTC&ETH (thus diversifying long-term investment portfolio) and participating in different yield harvesting (liquidity mining) possibilities (earning COMP, BAL, etc passively).
+The product we’re currently developing is an Ethereum based platform that enables users to automate earning yield on their crypto-assets.
 
 ## Community channels
 
