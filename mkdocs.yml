@@ -41,7 +41,6 @@ pages:
       - Akropolis: "akropolis.md"
       - Akropolis FAQ: "akropolisfaq.md"
       - Akropolis Governance FAQ: "govfaq.md"
-      - Simple Staking FAQ: "simplefaq.md"
   - Roadmap: "roadmap.md"
   - Open Source Development:
       - AkropolisOS: "akropolisOS.md"
