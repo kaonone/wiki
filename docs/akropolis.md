@@ -7,7 +7,7 @@ The focus of Akropolis is to onboard retail and institutional users to decentral
 
 ### [Akropolis deployed on Ethereum mainnet!](https://delphi.akropolis.io/summary)
 
-### [Akropolis deployed on Rinkeby testnet!](https://rinkeby.akropolis.io/savings
+### [Akropolis deployed on Rinkeby testnet!](https://rinkeby.akropolis.io/savings)
 
 
 <img src="/images/development/delphi/delphi.png" alt="drawing"/>
