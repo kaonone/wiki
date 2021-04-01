@@ -14,13 +14,13 @@ Akropolis is a DeFi yield farming and Dollar Cost Averaging tool that offers syn
 
 ### Why Akropolis?
 
-Today, the DeFi area provides great opportunities for earning money through staking, yield farming and liquidity provision. Nowadays, different DeFi protocols offer various opportunities for yield generation & yield farming which might confuse DeFi newbies & people who do not have time to follow the news constantly.
+Today, DeFi provides great opportunities for earning money through staking, yield farming and liquidity provision. However, different DeFi protocols offer various opportunities for yield generation & yield farming which may confuse DeFi newbies & people who do not have time to follow the news constantly.
 
 Akropolis allocate different yield-farming & yield-generating pools in one interface, solving an important problem for novice DeFi users - simple & user-friendly interface with concise and understandable information.
 
-Another important feature is the ability to set an automated dollar-cost average (DCA) strategy into assets/liquidity pools - oriented at users who want to set up a long-term portfolio. Akropolis decreases operational costs for such operations as all funds are pooled.
+Another important feature is the ability to set an automated dollar-cost average (DCA) strategy into assets/liquidity pools - oriented at users who want to set up a long-term portfolio. Akropolis decreases operational costs for such operations as all funds are pooled and batched to minimize gas costs.
 
-We also gave special attention to UI/UX design trying to make it simple & understandable for the end-users (novice or experts) - and are going to constantly improve it & add more user-friendly features as we progress based on feedback and best practices in the space.
+Akropolis also gives special attention to UI/UX design to make it simple & understandable for the end-users (novice or experts) - we are constantly improving it & adding more user-friendly features per community feedback and best practices in the space.
 
 ### How does it work?
 
@@ -38,7 +38,7 @@ On the Vaults tab you can find the Yearn strategies v1&v2  integrated. This is t
 
 ### DCA (in progress)
 
-Dollar-cost average is a popular strategy in traditional finance and crypto community. If put it simply - it is automated, periodic purchases of an asset (commonly referred to as “stacking sats” in BTC community). Regardless of the asset, the DCA strategy has always been to invest periodically (weekly, monthly, etc) in an effort to reduce the impact of volatility on the overall purchase. The purchases occur regardless of the price and at regular intervals. DCA effectively removes much of the headache that comes with attempts to time the market in order to buy an asset at the best prices.
+Dollar-cost average is a popular strategy in traditional finance and the crypto community. To put it simply - it is automated, periodic purchases of an asset (commonly referred to as “stacking sats” in BTC community). Regardless of the asset, the DCA strategy has always been to invest periodically (weekly, monthly, etc) in an effort to reduce the impact of volatility on the overall purchase price/cost basis. The purchases occur regardless of the price and at regular intervals. DCA effectively removes much of the headache that comes with attempts to time the market in order to buy an asset at the best prices.
 
 ### Stake
 
@@ -51,9 +51,9 @@ The actual staking reward amounts could be checked [here](https://bit.ly/3gtX8GS
 
 - Enable Allocate switcher to choose pools you want to deposit into
 
-- Choose amount & tokens in each pool
+- Choose the amount & tokens you would like to put in each pool
 
-- Click on Allocate button to deposit in one transaction (additional transactions may come in a form of “approve spending”)
+- Click the Allocate button to deposit in one transaction (additional transactions may come in a form of “approve spending”)
 
 - That’s it. Your funds are sent to corresponding pools/strategies where they earn yield & farm tokens.
 
