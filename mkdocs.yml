@@ -41,6 +41,7 @@ pages:
       - Akropolis: "akropolis.md"
       - Akropolis FAQ: "akropolisfaq.md"
       - Akropolis Governance FAQ: "govfaq.md"
+      - ADEL Direct Staking FAQ: "adeldirectstaking.md"
   - Roadmap: "roadmap.md"
   - Open Source Development:
       - AkropolisOS: "akropolisOS.md"
