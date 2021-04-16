@@ -2,11 +2,7 @@
 
 ## What is Akropolis
 
-As a project, Akropolis mission is to give people the tools to save, grow and provision for the future safely and without dependence on a geography, a central counterparty, or falling prey to predatorial financial practices of multiple intermediaries.
-
-With that in mind, Akropolis has built AkropolisOS, light and modular framework for creating for-profit DAOs, with customisable user incentives, automated liquidity provision enabled by the bonding curve mechanism, and programmatic liquidity and treasury management.
-
-The product we’re currently developing is an Ethereum based platform that enables users to automate earning yield on their crypto-assets.
+Akropolis is a provider of  decentralized finance products. Our mission is to give users the tools to save, grow and provision for the future safely, with access to a variety of non-fiat and non-inflationary assets, without dependence on geography or central counterparty. A recent merger with the yEarn allows for deeper product collaboration, common security standards and access to a deep liquidity flows for product creation. Using both best-in-class vault and lending protocol  from Yearn.finance, as well as proprietary solutions, Akropolis aims to provide a seamless interface where retail and institutional clients can gain access to alternative sources of yield/return.
 
 ## Community channels
 
