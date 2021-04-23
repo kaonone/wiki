@@ -31,26 +31,3 @@
 <img height="120" src="/images/design/symbol-white/akro-symbol-white@2x.png">
 <br/>
 <br/>
-
-## **ADEL**
-
-### ADEL on dark
-
-[SVG](/images/design/adel/adelondark.svg) | [PNG](/images/design/adel/adelondark.png) 
-
-<img height="120" src="/images/design/adel/adelondark.png">
-
-### ADEL on white
-
-[SVG](/images/design/adel/adelonwhite.svg) | [PNG](/images/design/adel/adelonwhite.png) 
-
-<img height="120" src="/images/design/adel/adelonwhite.png">
-
-### ADEL on color
-
-[SVG](/images/design/adel/adeloncolor.svg) | [PNG](/images/design/adel/adeloncolor.png) 
-
-<img height="120" src="/images/design/adel/adeloncolor.png">
-
-<br/>
-<br/>
