@@ -46,7 +46,7 @@
 
 - Only AKRO stakers can create or vote for proposals. This way we ensure that only active users have a say in Akropolis Governance.
 
-- 1 AKRO staked is 1 voteThere is a minimum of 25M AKRO locked in stakig s to create a proposal on Snapshot.
+- 1 AKRO staked is 1 voteThere is a minimum of 25M AKRO locked in staking to create a proposal on Snapshot.
 
 - There is no minimum for voting.
 

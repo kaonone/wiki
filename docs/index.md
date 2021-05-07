@@ -2,7 +2,7 @@
 
 ## What is Akropolis
 
-Akropolis is a provider of decentralized finance products with an emphasis on asset yield generation. Our mission is to give users (both new and crypto-native) the tools to save, grow and provision for the future safely, with access to a variety of non-fiat and non-inflationary assets, without dependence on geography or central counterparty. To do this, Arkopolis offers an easy-to-use yield aggregator product featuring curated best-in-class yield generation strategies from various protocols across DeFi, as well as developing our own yield-generation strategies on multiple chains.
+Akropolis is a provider of decentralized finance products with an emphasis on asset yield generation. Our mission is to give users (both new and crypto-native) the tools to save, grow and provision for the future safely, with access to a variety of non-fiat and non-inflationary assets, without dependence on geography or central counterparty. To do this, Akropolis offers an easy-to-use yield aggregator product featuring curated best-in-class yield generation strategies from various protocols across DeFi, as well as developing our own yield-generation strategies on multiple chains.
 
 Using the Akropolis dApp, users can:
 
